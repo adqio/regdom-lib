@@ -51,7 +51,7 @@
 --  bn : http://en.wikipedia.org/wiki/.bn
 --  bo : http://www.nic.bo/
 --  br : http://registro.br/dominio/dpn.html
---  Updated by registry <fneves@registro.br> 2011-03-01
+--  Submitted by registry <fneves@registro.br> 2011-03-01
 --  bs : http://www.nic.bs/rules.html
 --  bt : http://en.wikipedia.org/wiki/.bt
 --  bv : No registrations at this time.
@@ -137,7 +137,8 @@
 --  gd : http://en.wikipedia.org/wiki/.gd
 --  ge : http://www.nic.net.ge/policy_en.pdf
 --  gf : http://en.wikipedia.org/wiki/.gf
---  gg : http://www.channelisles.net/applic/avextn.shtml
+--  gg : http://www.channelisles.net/register-domains/
+--  Confirmed by registry <nigel@channelisles.net> 2013-11-28
 --  gh : http://en.wikipedia.org/wiki/.gh
 --  see also: http://www.nic.gh/reg_now.php
 --  Although domains directly at second level are not possible at the moment,
@@ -195,13 +196,14 @@
 --  (There is also a list of reserved geo-names corresponding to Italian
 --  municipalities : http://www.nic.it/documenti/appendice-c.pdf , but it is
 --  not included here.)
---  je : http://www.channelisles.net/applic/avextn.shtml
+--  je : http://www.channelisles.net/register-domains/
+--  Confirmed by registry <nigel@channelisles.net> 2013-11-28
 --  jm : http://www.com.jm/register.html
 --  jo : http://www.dns.jo/Registration_policy.aspx
 --  jobs : http://en.wikipedia.org/wiki/.jobs
 --  jp : http://en.wikipedia.org/wiki/.jp
 --  http://jprs.co.jp/en/jpdomain.html
---  Updated by registry <info@jprs.jp> 2012-05-28
+--  Submitted by registry <info@jprs.jp> 2012-05-28
 --  jp organizational type names
 --  jp preficture type names
 --  jp geographic type names
@@ -263,7 +265,8 @@
 --  mq : http://en.wikipedia.org/wiki/.mq
 --  mr : http://en.wikipedia.org/wiki/.mr
 --  ms : http://en.wikipedia.org/wiki/.ms
---  mt : https://www.nic.org.mt/dotmt/
+--  mt : https://www.nic.org.mt/go/policy
+--  Submitted by registry <help@nic.org.mt> 2013-11-19
 --  mu : http://en.wikipedia.org/wiki/.mu
 --  museum : http://about.museum/naming/
 --  http://index.museum/
@@ -422,8 +425,10 @@
 --  only subdomains are available, or even nothing at all. We include the
 --  most common ones where it's clear that different sites are different
 --  entities.
---  k12.hi.us  Hawaii has a state-wide DOE login: bug 614565
---  k12.sd.us  Bug 934131 - South Dakota has a centralized hosting
+--  k12.hi.us  Bug 614565 - Hawaii has a state-wide DOE login
+--  k12.sd.us  Bug 934131 - Removed at request of James Booze <James.Booze@k12.sd.us>
+--  k12.wv.us  Bug 947705 - Removed at request of Verne Britton <verne@wvnet.edu>
+--  lib.wv.us  Bug 941670 - Removed at request of Larry W Arnold <arnold@wvlc.lib.wv.us>
 --  k12.ma.us contains school districts in Massachusetts. The 4LDs are
 --   managed indepedently except for private (PVT), charter (CHTR) and
 --   parochial (PAROCH) schools.  Those are delegated dorectly to the
@@ -658,53 +663,53 @@
 --  ===END ICANN DOMAINS===
 --  ===BEGIN PRIVATE DOMAINS===
 --  Amazon CloudFront : https://aws.amazon.com/cloudfront/
---  Requested by Donavan Miller <donavanm@amazon.com> 2013-03-22
+--  Submitted by Donavan Miller <donavanm@amazon.com> 2013-03-22
 --  Amazon Elastic Compute Cloud: https://aws.amazon.com/ec2/
---  Requested by Osman Surkatty <osmans@amazon.com> 2013-04-02
+--  Submitted by Osman Surkatty <osmans@amazon.com> 2013-04-02
 --  Amazon Elastic Beanstalk : https://aws.amazon.com/elasticbeanstalk/
---  Requested by Adam Stein <astein@amazon.com> 2013-04-02
+--  Submitted by Adam Stein <astein@amazon.com> 2013-04-02
 --  Amazon Elastic Load Balancing : https://aws.amazon.com/elasticloadbalancing/
---  Requested by Scott Vidmar <svidmar@amazon.com> 2013-03-27
+--  Submitted by Scott Vidmar <svidmar@amazon.com> 2013-03-27
 --  Amazon S3 : https://aws.amazon.com/s3/
---  Requested by Courtney Eckhardt <coec@amazon.com> 2013-03-22
+--  Submitted by Courtney Eckhardt <coec@amazon.com> 2013-03-22
 --  BetaInABox
---  Requested by adrian@betainabox.com 2012-09-13
+--  Submitted by adrian@betainabox.com 2012-09-13
 --  CentralNic : http://www.centralnic.com/names/domains
---  Requested by registry <gavin.brown@centralnic.com> 2012-09-27
+--  Submitted by registry <gavin.brown@centralnic.com> 2012-09-27
 --  c.la : http://www.c.la/
 --  cloudControl : https://www.cloudcontrol.com/
---  Requested by Tobias Wilken <tw@cloudcontrol.com> 2013-07-23
+--  Submitted by Tobias Wilken <tw@cloudcontrol.com> 2013-07-23
 --  co.ca : http://registry.co.ca/
 --  CoDNS B.V.
 --  Cupcake : https://cupcake.io/
---  Requested by Jonathan Rudenberg <jonathan@cupcake.io> 2013-10-08
+--  Submitted by Jonathan Rudenberg <jonathan@cupcake.io> 2013-10-08
 --  DreamHost : http://www.dreamhost.com/
---  Requested by Andrew Farmer <andrew.farmer@dreamhost.com> 2012-10-02
+--  Submitted by Andrew Farmer <andrew.farmer@dreamhost.com> 2012-10-02
 --  DynDNS.com : http://www.dyndns.com/services/dns/dyndns/
 --  Fastly Inc. http://www.fastly.com/
---  Requested by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
+--  Submitted by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
 --  GitHub, Inc.
---  Requested by Ben Toews <btoews@github.com> 2013-04-18
+--  Submitted by Ben Toews <btoews@github.com> 2013-04-18
 --  GlobeHosting, Inc.
---  Requested by Zoltan Egresi <egresi@globehosting.com> 2013-07-12
+--  Submitted by Zoltan Egresi <egresi@globehosting.com> 2013-07-12
 --  Google, Inc.
---  Requested by Eduardo Vela <evn@google.com> 2012-10-24
+--  Submitted by Eduardo Vela <evn@google.com> 2012-10-24
 --  Heroku : https://www.heroku.com/
---  Requested by Tom Maher <tmaher@heroku.com> 2013-05-02
+--  Submitted by Tom Maher <tmaher@heroku.com> 2013-05-02
 --  iki.fi
---  Requested by Hannu Aronsson <haa@iki.fi> 2009-11-05
+--  Submitted by Hannu Aronsson <haa@iki.fi> 2009-11-05
 --  info.at : http://www.info.at/
 --  Michau Enterprises Limited : http://www.co.pl/
 --  NYC.mn : http://www.information.nyc.mn
---  Requested by Matthew Brown <mattbrown@nyc.mn> 2013-03-11
+--  Submitted by Matthew Brown <mattbrown@nyc.mn> 2013-03-11
 --  Opera Software, A.S.A.
---  Requested by Yngve Pettersen <yngve@opera.com> 2009-11-26
+--  Submitted by Yngve Pettersen <yngve@opera.com> 2009-11-26
 --  Red Hat, Inc. OpenShift : https://openshift.redhat.com/
---  Requested by Tim Kramer <tkramer@rhcloud.com> 2012-10-24
+--  Submitted by Tim Kramer <tkramer@rhcloud.com> 2012-10-24
 --  priv.at : http://www.nic.priv.at/
---  Requested by registry <lendl@nic.at> 2008-06-09
+--  Submitted by registry <lendl@nic.at> 2008-06-09
 --  ZaNiC : http://www.za.net/
---  Requested by registry <hostmaster@nic.za.net> 2009-10-03
+--  Submitted by registry <hostmaster@nic.za.net> 2009-10-03
 --  ===END PRIVATE DOMAINS===
 local tld_tree = {['ac'] = {['com'] = {},
 ['edu'] = {},
@@ -1551,10 +1556,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['pvt'] = {}},
 ['gf'] = {},
 ['gg'] = {['co'] = {},
-['org'] = {},
 ['net'] = {},
-['sch'] = {},
-['gov'] = {}},
+['org'] = {}},
 ['gh'] = {['com'] = {},
 ['edu'] = {},
 ['gov'] = {},
@@ -2032,10 +2035,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['vt'] = {},
 ['blogspot'] = {}},
 ['je'] = {['co'] = {},
-['org'] = {},
 ['net'] = {},
-['sch'] = {},
-['gov'] = {}},
+['org'] = {}},
 ['jm'] = {['*'] = {}},
 ['jo'] = {['com'] = {},
 ['org'] = {},
@@ -3952,7 +3953,10 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['mr'] = {['gov'] = {},
 ['blogspot'] = {}},
 ['ms'] = {},
-['mt'] = {['*'] = {}},
+['mt'] = {['com'] = {},
+['edu'] = {},
+['net'] = {},
+['org'] = {}},
 ['mu'] = {['com'] = {},
 ['net'] = {},
 ['org'] = {},
@@ -6402,9 +6406,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['wi'] = {['k12'] = {},
 ['cc'] = {},
 ['lib'] = {}},
-['wv'] = {['k12'] = {},
-['cc'] = {},
-['lib'] = {}},
+['wv'] = {['cc'] = {}},
 ['wy'] = {['k12'] = {},
 ['cc'] = {},
 ['lib'] = {}},

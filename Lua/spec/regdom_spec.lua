@@ -9,4 +9,11 @@ describe("regdom", function()
       end)
     end
    end)
+  describe(".get_registered_domain strict",function ( )
+    for i,v in ipairs(fixtures.strict_cases) do
+      it("should get domain "..v.url,function ( ... )
+        assert.are.equals(regdom.get_registered_domain(v.url,true),v.domain)
+      end)
+    end
+   end)
 end)

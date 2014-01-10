@@ -25,9 +25,10 @@ local effective_tlds = require '.regdom.effective_tlds'
 local stringx = require 'pl.stringx'
 local tablex = require 'pl.tablex'
 local regdom = {}
+local strict_tlds = tablex.deepcopy(effective_tlds)
+strict_tlds["*"] = nil
 
-
-local function find_registered_domain(parts,node,aggregate_domain)
+local function find_registered_domain(parts,node,aggregate_domain,strict)
   if node["!"] then
     return aggregate_domain
   end
@@ -48,9 +49,15 @@ local function find_registered_domain(parts,node,aggregate_domain)
   end
 end
 
-function regdom.get_registered_domain( host )
+function regdom.get_registered_domain( host,strict )
+  local strict = strict or false
   local domain_parts = stringx.split(host,".")
-  return find_registered_domain(domain_parts,effective_tlds)
+  local tlds = strict and strict_tlds or effective_tlds
+  local result = find_registered_domain(domain_parts,tlds)
+  if result and #(stringx.split(result,"."))==1 then
+    return nil
+  end
+  return result
 end
 
 return regdom
