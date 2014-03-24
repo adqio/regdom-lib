@@ -13,8 +13,8 @@ description = {
 }
 dependencies = {
   "lua >= 5.1",
+  "lapis",
   "penlight",
-  "busted",
   "yaml"
 }
 build = {
