@@ -50,8 +50,8 @@
 --  bm : http://www.bermudanic.bm/dnr-text.txt
 --  bn : http://en.wikipedia.org/wiki/.bn
 --  bo : http://www.nic.bo/
---  br : http://registro.br/dominio/dpn.html
---  Submitted by registry <fneves@registro.br> 2011-03-01
+--  br : http://registro.br/dominio/categoria.html
+--  Submitted by registry <fneves@registro.br> 2014-03-04
 --  bs : http://www.nic.bs/rules.html
 --  bt : http://en.wikipedia.org/wiki/.bt
 --  bv : No registrations at this time.
@@ -191,11 +191,12 @@
 --  is : http://www.isnic.is/domain/rules.php
 --  Confirmed by registry <marius@isgate.is> 2008-12-06
 --  it : http://en.wikipedia.org/wiki/.it
---  list of reserved geo-names :
+--  Reserved geo-names:
 --  http://www.nic.it/documenti/regolamenti-e-linee-guida/regolamento-assegnazione-versione-6.0.pdf
---  (There is also a list of reserved geo-names corresponding to Italian
---  municipalities : http://www.nic.it/documenti/appendice-c.pdf , but it is
---  not included here.)
+--  There is also a list of reserved geo-names corresponding to Italian municipalities
+--  http://www.nic.it/documenti/appendice-c.pdf, but it is not included here.
+--  Regions
+--  Provinces
 --  je : http://www.channelisles.net/register-domains/
 --  Confirmed by registry <nigel@channelisles.net> 2013-11-28
 --  jm : http://www.com.jm/register.html
@@ -203,7 +204,7 @@
 --  jobs : http://en.wikipedia.org/wiki/.jobs
 --  jp : http://en.wikipedia.org/wiki/.jp
 --  http://jprs.co.jp/en/jpdomain.html
---  Submitted by registry <info@jprs.jp> 2012-05-28
+--  Submitted by registry <info@jprs.jp> 2014-02-28
 --  jp organizational type names
 --  jp preficture type names
 --  jp geographic type names
@@ -264,7 +265,7 @@
 --  Confirmed by registry <dcamacho@saipan.com> 2008-06-17
 --  mq : http://en.wikipedia.org/wiki/.mq
 --  mr : http://en.wikipedia.org/wiki/.mr
---  ms : http://en.wikipedia.org/wiki/.ms
+--  ms : http://www.nic.ms/pdf/MS_Domain_Name_Rules.pdf
 --  mt : https://www.nic.org.mt/go/policy
 --  Submitted by registry <help@nic.org.mt> 2013-11-19
 --  mu : http://en.wikipedia.org/wiki/.mu
@@ -356,7 +357,7 @@
 --  sd : http://www.isoc.sd/sudanic.isoc.sd/billing_pricing.htm
 --  Submitted by registry <admin@isoc.sd> 2008-06-17
 --  se : http://en.wikipedia.org/wiki/.se
---  Submitted by registry <Patrik.Wallstrom@iis.se> 2008-06-24
+--  Submitted by registry <patrik.wallstrom@iis.se> 2014-03-18
 --  sg : http://www.nic.net.sg/page/registration-policies-procedures-and-guidelines
 --  sh : http://www.nic.sh/registrar.html
 --  si : http://en.wikipedia.org/wiki/.si
@@ -396,6 +397,8 @@
 --  http://whois.ati.tn/
 --  to : http://en.wikipedia.org/wiki/.to
 --  Submitted by registry <egullich@colo.to> 2008-06-17
+--  tp : No registrations at this time.
+--  Submitted by Ryan Sleevi <ryan.sleevi@gmail.com> 2014-01-03
 --  tr : http://en.wikipedia.org/wiki/.tr
 --  Used by government in the TRNC
 --  http://en.wikipedia.org/wiki/.nc.tr
@@ -461,10 +464,10 @@
 --  xn--mgbaam7a8h ("Emerat" Arabic) : AE
 --  http://nic.ae/english/arabicdomain/rules.jsp
 --  xn--54b7fta0cc ("Bangla" Bangla) : BD
---  xn--fiqs8s ("China" Chinese-Han-Simplified <.Zhonggou>) : CN
+--  xn--fiqs8s ("China" Chinese-Han-Simplified <.Zhongguo>) : CN
 --  CNNIC
 --  http://cnnic.cn/html/Dir/2005/10/11/3218.htm
---  xn--fiqz9s ("China" Chinese-Han-Traditional <.Zhonggou>) : CN
+--  xn--fiqz9s ("China" Chinese-Han-Traditional <.Zhongguo>) : CN
 --  CNNIC
 --  http://cnnic.cn/html/Dir/2005/10/11/3218.htm
 --  xn--lgbbat1ad8j ("Algeria / Al Jazair" Arabic) : DZ
@@ -493,11 +496,14 @@
 --  National Information Technology Center (NITC)
 --  Royal Scientific Society, Al-Jubeiha
 --  xn--3e0b707e ("Republic of Korea" Hangul) : KR
+--  xn--80ao21a ("Kaz" Kazakh) : KZ
 --  xn--fzc2c9e2c ("Lanka" Sinhalese-Sinhala) : LK
 --  http://nic.lk
 --  xn--xkc2al3hye2a ("Ilangai" Tamil) : LK
 --  http://nic.lk
 --  xn--mgbc0a9azcg ("Morocco / al-Maghrib" Arabic) : MA
+--  xn--l1acc ("mon" Mongolian) : MN
+--  xn--mgbx4cd0ab ("Malaysia" Malay) : MY
 --  xn--mgb9awbf ("Oman" Arabic) : OM
 --  xn--ygbi2ammx ("Falasteen" Arabic) : PS
 --  The Palestinian National Internet Naming Authority (PNINA)
@@ -591,75 +597,270 @@
 --  career : 2013-10-09 dotCareer, LLC
 --  otsuka : 2013-10-11 Otsuka Holdings Co. Ltd.
 --  xn--fiQ64b : 2013-10-14 CITIC Group Corporation
---  wed : 2013-10-02 Atgron, Inc. 
---  pink : 2013-10-02 Afilias Limited 
---  ruhr : 2013-10-02 regiodot GmbH & Co. KG 
---  buzz : 2013-10-03 DOTSTRATEGY CO. 
---  careers : 2013-10-03 Wild Corner, LLC 
---  shoes : 2013-10-03 Binky Galley, LLC 
---  xn--4gbrim : 2013-10-07 Suhub Electronic Establishment 
---  career : 2013-10-09 dotCareer, LLC 
---  otsuka : 2013-10-11 Otsuka Holdings Co. Ltd. 
---  xn--fiQ64b : 2013-10-14 CITIC Group Corporation 
---  gift : 2013-10-18 Uniregistry Corp. 
---  recipes : 2013-10-18 Grand Island, LLC 
---  coffee : 2013-10-18 Trixy Cover, LLC 
---  luxury : 2013-10-18 Luxury Partners, LLC 
---  domains : 2013-10-18 Sugar Cross, LLC 
---  photos : 2013-10-18 Sea Corner, LLC 
---  limo : 2013-10-18 Hidden Frostbite, LLC 
---  viajes : 2013-10-18 Black Madison, LLC 
---  wang : 2013-10-24 Zodiac Leo Limited 
---  democrat : 2013-10-24 United TLD Holdco Ltd. 
---  mango : 2013-10-25 PUNTO FA S.L. 
---  cab : 2013-10-25 Half Sunset, LLC 
---  support : 2013-10-25 Grand Orchard, LLC 
---  dance : 2013-10-25 United TLD Holdco Ltd. 
---  nagoya : 2013-10-25 GMO Registry, Inc. 
---  computer : 2013-10-25 Pine Mill, LLC 
---  wien : 2013-10-28 punkt.wien GmbH 
---  berlin : 2013-10-31 dotBERLIN GmbH & Co. KG 
---  codes : 2013-10-31 Puff Willow, LLC 
---  email : 2013-10-31 Spring Madison, LLC 
---  xn--mgbab2bd : 2013-10-31 CORE Association 
---  repair : 2013-11-07 Lone Sunset, LLC 
---  holiday : 2013-11-07 Goose Woods, LLC 
---  center : 2013-11-07 Tin Mill, LLC 
---  systems : 2013-11-07 Dash Cypress, LLC 
---  wiki : 2013-11-07 Top Level Design, LLC 
---  ceo : 2013-11-07 CEOTLD Pty Ltd 
---  international : 2013-11-07 Wild Way, LLC 
---  solar : 2013-11-07 Ruby Town, LLC 
---  company : 2013-11-07 Silver Avenue, LLC 
---  education : 2013-11-07 Brice Way, LLC 
---  training : 2013-11-07 Wild Willow, LLC 
---  academy : 2013-11-07 Half Oaks, LLC 
---  marketing : 2013-11-07 Fern Pass, LLC 
---  florist : 2013-11-08 Half Cypress, LLC 
---  solutions : 2013-11-07 Silver Cover, LLC 
---  build : 2013-11-07 Plan Bee LLC 
---  institute : 2013-11-07 Outer Maple, LLC 
---  builders : 2013-11-07 Atomic Madison, LLC 
---  red : 2013-11-07 Afilias Limited 
---  blue : 2013-11-07 Afilias Limited 
---  ninja : 2013-11-07 United TLD Holdco Ltd. 
---  business : 2013-11-07 Spring Cross, LLC 
---  gal : 2013-11-07 Asociación puntoGAL 
---  social : 2013-11-07 United TLD Holdco Ltd. 
---  house : 2013-11-07 Sugar Park, LLC 
---  camp : 2013-11-07 Delta Dynamite, LLC 
---  immobilien : 2013-11-07 United TLD Holdco Ltd. 
---  moda : 2013-11-07 United TLD Holdco Ltd. 
---  glass : 2013-11-07 Black Cover, LLC 
---  management : 2013-11-07 John Goodbye, LLC 
---  kaufen : 2013-11-07 United TLD Holdco Ltd. 
---  farm : 2013-11-07 Just Maple, LLC 
---  xn--55qw42g : 2013-11-08 China Organizational Name Administration Center 
---  xn--zfr164b : 2013-11-08 China Organizational Name Administration Center 
---  club : 2013-11-08 .CLUB DOMAINS, LLC 
---  voting : 2013-11-13 Valuetainment Corp. 
---  TOKYO : 2013-11-13 GMO Registry, Inc. 
---  moe : 2013-11-13 Interlink Co., Ltd. 
+--  gift : 2013-10-18 Uniregistry Corp.
+--  recipes : 2013-10-18 Grand Island, LLC
+--  coffee : 2013-10-18 Trixy Cover, LLC
+--  luxury : 2013-10-18 Luxury Partners, LLC
+--  domains : 2013-10-18 Sugar Cross, LLC
+--  photos : 2013-10-18 Sea Corner, LLC
+--  limo : 2013-10-18 Hidden Frostbite, LLC
+--  viajes : 2013-10-18 Black Madison, LLC
+--  wang : 2013-10-24 Zodiac Leo Limited
+--  democrat : 2013-10-24 United TLD Holdco Ltd.
+--  mango : 2013-10-25 PUNTO FA S.L.
+--  cab : 2013-10-25 Half Sunset, LLC
+--  support : 2013-10-25 Grand Orchard, LLC
+--  dance : 2013-10-25 United TLD Holdco Ltd.
+--  nagoya : 2013-10-25 GMO Registry, Inc.
+--  computer : 2013-10-25 Pine Mill, LLC
+--  wien : 2013-10-28 punkt.wien GmbH
+--  berlin : 2013-10-31 dotBERLIN GmbH & Co. KG
+--  codes : 2013-10-31 Puff Willow, LLC
+--  email : 2013-10-31 Spring Madison, LLC
+--  xn--mgbab2bd : 2013-10-31 CORE Association
+--  repair : 2013-11-07 Lone Sunset, LLC
+--  holiday : 2013-11-07 Goose Woods, LLC
+--  center : 2013-11-07 Tin Mill, LLC
+--  systems : 2013-11-07 Dash Cypress, LLC
+--  wiki : 2013-11-07 Top Level Design, LLC
+--  ceo : 2013-11-07 CEOTLD Pty Ltd
+--  international : 2013-11-07 Wild Way, LLC
+--  solar : 2013-11-07 Ruby Town, LLC
+--  company : 2013-11-07 Silver Avenue, LLC
+--  education : 2013-11-07 Brice Way, LLC
+--  training : 2013-11-07 Wild Willow, LLC
+--  academy : 2013-11-07 Half Oaks, LLC
+--  marketing : 2013-11-07 Fern Pass, LLC
+--  florist : 2013-11-08 Half Cypress, LLC
+--  solutions : 2013-11-07 Silver Cover, LLC
+--  build : 2013-11-07 Plan Bee LLC
+--  institute : 2013-11-07 Outer Maple, LLC
+--  builders : 2013-11-07 Atomic Madison, LLC
+--  red : 2013-11-07 Afilias Limited
+--  blue : 2013-11-07 Afilias Limited
+--  ninja : 2013-11-07 United TLD Holdco Ltd.
+--  business : 2013-11-07 Spring Cross, LLC
+--  gal : 2013-11-07 Asociación puntoGAL
+--  social : 2013-11-07 United TLD Holdco Ltd.
+--  house : 2013-11-07 Sugar Park, LLC
+--  camp : 2013-11-07 Delta Dynamite, LLC
+--  immobilien : 2013-11-07 United TLD Holdco Ltd.
+--  moda : 2013-11-07 United TLD Holdco Ltd.
+--  glass : 2013-11-07 Black Cover, LLC
+--  management : 2013-11-07 John Goodbye, LLC
+--  kaufen : 2013-11-07 United TLD Holdco Ltd.
+--  farm : 2013-11-07 Just Maple, LLC
+--  xn--55qw42g : 2013-11-08 China Organizational Name Administration Center
+--  xn--zfr164b : 2013-11-08 China Organizational Name Administration Center
+--  club : 2013-11-08 .CLUB DOMAINS, LLC
+--  voting : 2013-11-13 Valuetainment Corp.
+--  TOKYO : 2013-11-13 GMO Registry, Inc.
+--  moe : 2013-11-13 Interlink Co., Ltd.
+--  guitars : 2013-11-14 Uniregistry, Corp.
+--  bargains : 2013-11-14 Half Hallow, LLC
+--  xn--nqv7fs00ema : 2013-11-14 Public Interest Registry
+--  desi : 2013-11-14 Desi Networks LLC
+--  cool : 2013-11-14 Koko Lake, LLC
+--  boutique : 2013-11-14 Over Galley, LLC
+--  pics : 2013-11-14 Uniregistry, Corp.
+--  xn--c1avg : 2013-11-14 Public Interest Registry
+--  xn--55qx5d : 2013-11-14 Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
+--  xn--io0a7i : 2013-11-14 Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
+--  cheap : 2013-11-14 Sand Cover, LLC
+--  xn--xhq521b : 2013-11-14 Guangzhou YU Wei Information Technology Co., Ltd.
+--  photo : 2013-11-14 Uniregistry, Corp.
+--  network : 2013-11-14 Trixy Manor, LLC
+--  zone : 2013-11-14 Outer Falls, LLC
+--  xn--nqv7f : 2013-11-14 Public Interest Registry
+--  link : 2013-11-14 Uniregistry, Corp.
+--  QPON : 2013-11-14 dotCOOL, Inc.
+--  xn--i1b6b1a6a2e : 2013-11-14 Public Interest Registry
+--  agency : 2013-11-14 Steel Falls, LLC
+--  tienda : 2013-11-14 Victor Manor, LLC
+--  works : 2013-11-14 Little Dynamite, LLC
+--  london : 2013-11-14 Dot London Domains Limited
+--  watch : 2013-11-14 Sand Shadow, LLC
+--  rocks : 2013-11-14 Ruby Moon, LLC
+--  SHIKSHA : 2013-11-14 Afilias Limited
+--  xn--d1acj3b : 2013-11-21 The Foundation for Network Initiatives “The Smart Internet”
+--  budapest : 2013-11-21 Top Level Domain Holdings Limited
+--  nrw : 2013-11-21 Minds + Machines GmbH
+--  VOTE : 2013-11-21 Monolith Registry LLC
+--  fishing : 2013-11-21 Top Level Domain Holdings Limited
+--  expert : 2013-11-21 Magic Pass, LLC
+--  horse : 2013-11-21 Top Level Domain Holdings Limited
+--  christmas : 2013-11-21 Uniregistry, Corp.
+--  cooking : 2013-11-21 Top Level Domain Holdings Limited
+--  xn--czru2d : 2013-11-21 Zodiac Capricorn Limited
+--  casa : 2013-11-21 Top Level Domain Holdings Limited
+--  rich : 2013-11-21 I-REGISTRY Ltd., Niederlassung Deutschland
+--  VOTO : 2013-11-21 Monolith Registry LLC
+--  tools : 2013-11-21 Pioneer North, LLC
+--  xn--45q11c : 2013-11-21 Zodiac Scorpio Limited
+--  praxi : 2013-12-05 Praxi S.p.A.
+--  events : 2013-12-05 Pioneer Maple, LLC
+--  flights : 2013-12-05 Fox Station, LLC
+--  report : 2013-12-05 Binky Glen, LLC
+--  partners : 2013-12-05 Magic Glen, LLC
+--  neustar : 2013-12-05 NeuStar, Inc.
+--  rentals : 2013-12-05 Big Hollow,LLC
+--  catering : 2013-12-05 New Falls. LLC
+--  community : 2013-12-05 Fox Orchard, LLC
+--  maison : 2013-12-05 Victor Frostbite, LLC
+--  parts : 2013-12-05 Sea Goodbye, LLC
+--  cleaning : 2013-12-05 Fox Shadow, LLC
+--  okinawa : 2013-12-05 BusinessRalliart inc.
+--  foundation : 2013-12-05 John Dale, LLC
+--  properties : 2013-12-05 Big Pass, LLC
+--  vacations : 2013-12-05 Atomic Tigers, LLC
+--  productions : 2013-12-05 Magic Birch, LLC
+--  industries : 2013-12-05 Outer House, LLC
+--  haus : 2013-12-05 Pixie Edge, LLC
+--  vision : 2013-12-05 Koko Station, LLC
+--  mormon : 2013-12-05 IRI Domain Management, LLC (""Applicant"")
+--  cards : 2013-12-05 Foggy Hollow, LLC
+--  ink : 2013-12-05 Top Level Design, LLC
+--  villas : 2013-12-05 New Sky, LLC
+--  consulting : 2013-12-05 Pixie Station, LLC
+--  cruises : 2013-12-05 Spring Way, LLC
+--  krd : 2013-12-05 KRG Department of Information Technology
+--  xyz : 2013-12-05 XYZ.COM LLC
+--  dating : 2013-12-05 Pine Fest, LLC
+--  exposed : 2013-12-05 Victor Beach, LLC
+--  condos : 2013-12-05 Pine House, LLC
+--  eus : 2013-12-12 Puntueus Fundazioa
+--  Caravan : 2013-12-12 Caravan International, Inc.
+--  actor : 2013-12-12 United TLD Holdco Ltd.
+--  saarland : 2013-12-12 dotSaarland GmbH
+--  yokohama : 2013-12-12 GMO Registry, Inc.
+--  pub : 2013-12-12 United TLD Holdco Ltd.
+--  xn--p1acf : 2013-12-12 Rusnames Limited
+--  ren : 2013-12-12 Beijing Qianxiang Wangjing Technology Development Co., Ltd.
+--  fish : 2013-12-12 Fox Woods, LLC
+--  BAR : 2013-12-12 Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+--  DNP : 2013-12-13 Dai Nippon Printing Co., Ltd.
+--  bid : 2013-12-19 dot Bid Limited
+--  supply : 2013-12-19 Half Falls, LLC
+--  Miami : 2013-12-19 Top Level Domain Holdings Limited
+--  supplies : 2013-12-19 Atomic Fields, LLC
+--  quebec : 2013-12-19 PointQuébec Inc
+--  MOSCOW : 2013-12-19 Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
+--  globo : 2013-12-19 Globo Comunicação e Participações S.A
+--  AXA : 2013-12-19 AXA SA
+--  xn--80adxhks : 2013-12-19 Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
+--  xn--czrs0t : 2013-12-19 Wild Island, LLC
+--  vodka : 2013-12-19 Top Level Domain Holdings Limited
+--  REST : 2013-12-19 Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+--  frogans : 2013-12-19 OP3FT
+--  WTC : 2013-12-19 World Trade Centers Association, Inc.
+--  rodeo : 2013-12-19 Top Level Domain Holdings Limited
+--  sohu : 2013-12-19 Sohu.com Limited
+--  BEST : 2013-12-19 BestTLD Pty Ltd
+--  country : 2013-12-19 Top Level Domain Holdings Limited
+--  KRED : 2013-12-19 KredTLD Pty Ltd
+--  feedback : 2013-12-19 Top Level Spectrum, Inc.
+--  work : 2013-12-19 Top Level Domain Holdings Limited
+--  luxe : 2014-01-09 Top Level Domain Holdings Limited
+--  ryukyu : 2014-01-09 BusinessRalliart inc.
+--  autos : 2014-01-09 DERAutos, LLC
+--  homes : 2014-01-09 DERHomes, LLC
+--  jetzt : 2014-01-09 New TLD Company AB
+--  yachts : 2014-01-09 DERYachts, LLC
+--  motorcycles : 2014-01-09 DERMotorcycles, LLC
+--  mini : 2014-01-09 Bayerische Motoren Werke Aktiengesellschaft
+--  ggee : 2014-01-09 GMO Internet, Inc.
+--  beer : 2014-01-09 Top Level Domain Holdings Limited
+--  xn--1qqw23a : 2014-01-13 Guangzhou YU Wei Information Technology Co., Ltd.
+--  college : 2014-01-16 XYZ.COM LLC
+--  ovh : 2014-01-16 OVH SAS
+--  meet : 2014-01-16 Afilias Limited
+--  xn--ses554g : 2014-01-16 HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+--  gop : 2014-01-16 Republican State Leadership Committee, Inc.
+--  blackfriday : 2014-01-16 Uniregistry, Corp.
+--  lacaixa : 2014-01-16 CAIXA D'ESTALVIS I PENSIONS DE BARCELONA
+--  xn--czr694b : 2014-01-16 HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED
+--  vegas : 2014-01-16 Dot Vegas, Inc.
+--  black : 2014-01-16 Afilias Limited
+--  soy : 2014-01-23 Charleston Road Registry Inc.
+--  trade : 2014-01-23 Elite Registry Limited
+--  gent : 2014-01-23 COMBELL GROUP NV/SA
+--  ing : 2014-01-23 Charleston Road Registry Inc.
+--  dad : 2014-01-23 Charleston Road Registry Inc.
+--  shriram : 2014-01-23 Shriram Capital Ltd.
+--  bayern : 2014-01-23 Bayern Connect GmbH
+--  scot : 2014-01-23 Dot Scot Registry Limited
+--  webcam : 2014-01-23 dot Webcam Limited
+--  foo : 2014-01-23 Charleston Road Registry Inc.
+--  eat : 2014-01-23 Charleston Road Registry Inc.
+--  nyc : 2014-01-23 The City of New York
+--  prod : 2014-01-23 Charleston Road Registry Inc.
+--  how : 2014-01-23 Charleston Road Registry Inc.
+--  day : 2014-01-30 Charleston Road Registry Inc.
+--  meme : 2014-01-30 Charleston Road Registry Inc.
+--  mov : 2014-01-30 Charleston Road Registry Inc.
+--  paris : 2014-01-30 City of Paris
+--  boo : 2014-01-30 Charleston Road Registry Inc.
+--  new : 2014-01-30 Charleston Road Registry Inc.
+--  ifm : 2014-01-30 ifm electronic gmbh
+--  life : 2014-02-06 Trixy Oaks, LLC
+--  archi : 2014-02-06 STARTING DOT LIMITED
+--  spiegel : 2014-02-06 SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG
+--  brussels : 2014-02-06 DNS.be vzw
+--  church : 2014-02-06 Holly Fileds, LLC
+--  here : 2014-02-06 Charleston Road Registry Inc.
+--  dabur : 2014-02-06 Dabur India Limited
+--  vlaanderen : 2014-02-06 DNS.be vzw
+--  cologne : 2014-02-06 NetCologne Gesellschaft für Telekommunikation mbH
+--  xn--kput3i : 2014-02-13 Beijing RITT-Net Technology Development Co., Ltd
+--  wme : 2014-02-13 William Morris Endeavor Entertainment, LLC
+--  nhk : 2014-02-13 Japan Broadcasting Corporation (NHK)
+--  suzuki : 2014-02-20 SUZUKI MOTOR CORPORATION
+--  whoswho : 2014-02-20 Who's Who Registry
+--  scb : 2014-02-20 The Siam Commercial Bank Public Company Limited ("SCB""\)
+--  hamburg : 2014-02-20 Hamburg Top-Level-Domain GmbH
+--  services : 2014-02-27 Fox Castle, LLC
+--  bzh : 2014-02-27 Association www.bzh
+--  rio : 2014-02-27 Empresa Municipal de Informática SA - IPLANRIO
+--  cash : 2014-03-07 Delta Lake, LLC
+--  gives : 2014-03-07 United TLD Holdco Ltd.
+--  hiphop : 2014-03-07 Uniregistry, Corp.
+--  degree : 2014-03-07 Puff House, LLC
+--  digital : 2014-03-07 Dash Park, LLC
+--  rehab : 2014-03-07 United TLD Holdco Ltd.
+--  wtf : 2014-03-07 Hidden Way, LLC
+--  financial : 2014-03-07 Just Cover, LLC
+--  limited : 2014-03-07 Big Fest, LLC
+--  discount : 2014-03-07 Holly Hill, LLC
+--  fail : 2014-03-07 Atomic Pipe, LLC
+--  vet : 2014-03-07 Wild Dale, LLC
+--  ngo : 2014-03-07 Public Interest Registry
+--  fitness : 2014-03-07 Brice Orchard, LLC
+--  schule : 2014-03-07 Outer Moon, LLC
+--  navy : 2014-03-07 United TLD Holdco Ltd.
+--  bio : 2014-03-07 STARTING DOT LIMITED
+--  ong : 2014-03-07 Public Interest Registry
+--  town : 2014-03-07 Koko Moon, LLC
+--  toys : 2014-03-07 Pioneer Orchard, LLC
+--  army : 2014-03-07 United TLD Holdco Ltd.
+--  engineering : 2014-03-07 Romeo Canyon
+--  capital : 2014-03-07 Delta Mill, LLC
+--  exchange : 2014-03-07 Spring Falls, LLC
+--  fan : 2014-03-07 Goose Glen, LLC
+--  market : 2014-03-07 Victor Way, LLC
+--  media : 2014-03-07 Grand Glen, LLC
+--  lease : 2014-03-07 Victor Trail, LLC
+--  university : 2014-03-07 Little Station, LLC
+--  reisen : 2014-03-07 New Cypress, LLC
+--  airforce : 2014-03-07 United TLD Holdco Ltd.
+--  pictures : 2014-03-07 Foggy Sky, LLC
+--  gripe : 2014-03-07 Corn Sunset, LLC
+--  engineering : 2014-03-07 United TLD Holdco Ltd.
+--  associates : 2014-03-07 Baxter Hill, LLC
+--  xn--mxtq1m : 2014-03-07 Net-Chinese Co., Ltd.
+--  williamhill : 2014-03-13 William Hill Organization Limited 
+--  hiv : 2014-03-13 dotHIV gemeinnuetziger e.V. 
+--  sca : 2014-03-13 SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) 
+--  reise : 2014-03-13 dotreise GmbH 
 --  ===END ICANN DOMAINS===
 --  ===BEGIN PRIVATE DOMAINS===
 --  Amazon CloudFront : https://aws.amazon.com/cloudfront/
@@ -676,6 +877,16 @@
 --  Submitted by adrian@betainabox.com 2012-09-13
 --  CentralNic : http://www.centralnic.com/names/domains
 --  Submitted by registry <gavin.brown@centralnic.com> 2012-09-27
+--  Africa.com Web Solutions Ltd : https://registry.africa.com
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  iDOT Services Limited : http://www.domain.gr.com
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  Radix FZC : http://domains.in.net
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  US REGISTRY LLC : http://us.org
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  co.com Registry, LLC : https://registry.co.com
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
 --  c.la : http://www.c.la/
 --  cloudControl : https://www.cloudcontrol.com/
 --  Submitted by Tobias Wilken <tw@cloudcontrol.com> 2013-07-23
@@ -689,7 +900,7 @@
 --  Fastly Inc. http://www.fastly.com/
 --  Submitted by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
 --  GitHub, Inc.
---  Submitted by Ben Toews <btoews@github.com> 2013-04-18
+--  Submitted by Ben Toews <btoews@github.com> 2014-02-06
 --  GlobeHosting, Inc.
 --  Submitted by Zoltan Egresi <egresi@globehosting.com> 2013-07-12
 --  Google, Inc.
@@ -700,10 +911,14 @@
 --  Submitted by Hannu Aronsson <haa@iki.fi> 2009-11-05
 --  info.at : http://www.info.at/
 --  Michau Enterprises Limited : http://www.co.pl/
+--  Microsoft : http://microsoft.com
+--  Submitted by Barry Dorrans <bdorrans@microsoft.com> 2014-01-24
 --  NYC.mn : http://www.information.nyc.mn
 --  Submitted by Matthew Brown <mattbrown@nyc.mn> 2013-03-11
 --  Opera Software, A.S.A.
 --  Submitted by Yngve Pettersen <yngve@opera.com> 2009-11-26
+--  OutSystems
+--  Submitted by Duarte Santos <domain-admin@outsystemscloud.com> 2014-03-11
 --  Red Hat, Inc. OpenShift : https://openshift.redhat.com/
 --  Submitted by Tim Kramer <tkramer@rhcloud.com> 2012-10-24
 --  priv.at : http://www.nic.priv.at/
@@ -1051,6 +1266,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['mat'] = {},
 ['med'] = {},
 ['mil'] = {},
+['mp'] = {},
 ['mus'] = {},
 ['net'] = {},
 ['nom'] = {},
@@ -1087,6 +1303,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['gov'] = {},
 ['net'] = {},
 ['org'] = {}},
+['bv'] = {},
 ['bw'] = {['co'] = {},
 ['org'] = {}},
 ['by'] = {['gov'] = {},
@@ -1097,7 +1314,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['net'] = {},
 ['org'] = {},
 ['edu'] = {},
-['gov'] = {}},
+['gov'] = {},
+['za'] = {}},
 ['ca'] = {['ab'] = {},
 ['bc'] = {},
 ['mb'] = {},
@@ -1242,10 +1460,10 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['de'] = {},
 ['eu'] = {},
 ['gb'] = {},
-['gr'] = {},
 ['hu'] = {},
 ['jpn'] = {},
 ['kr'] = {},
+['mex'] = {},
 ['no'] = {},
 ['qc'] = {},
 ['ru'] = {},
@@ -1255,6 +1473,9 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['us'] = {},
 ['uy'] = {},
 ['za'] = {},
+['africa'] = {},
+['gr'] = {},
+['co'] = {},
 ['cloudcontrolled'] = {},
 ['cloudcontrolapp'] = {},
 ['dreamhosters'] = {},
@@ -1408,15 +1629,18 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['space-to-rent'] = {},
 ['teaches-yoga'] = {},
 ['writesthisblog'] = {},
+['githubusercontent'] = {},
 ['ro'] = {},
 ['appspot'] = {},
 ['blogspot'] = {},
 ['codespot'] = {},
 ['googleapis'] = {},
 ['googlecode'] = {},
+['withgoogle'] = {},
 ['herokuapp'] = {},
 ['herokussl'] = {},
 ['operaunite'] = {},
+['outsystemscloud'] = {},
 ['rhcloud'] = {}},
 ['coop'] = {},
 ['cr'] = {['ac'] = {},
@@ -1546,6 +1770,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['veterinaire'] = {},
 ['blogspot'] = {}},
 ['ga'] = {},
+['gb'] = {},
 ['gd'] = {},
 ['ge'] = {['com'] = {},
 ['edu'] = {},
@@ -1689,6 +1914,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['id'] = {['ac'] = {},
 ['biz'] = {},
 ['co'] = {},
+['desa'] = {},
 ['go'] = {},
 ['mil'] = {},
 ['my'] = {},
@@ -1758,281 +1984,372 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['cupcake'] = {}},
 ['it'] = {['gov'] = {},
 ['edu'] = {},
-['agrigento'] = {},
+['abr'] = {},
+['abruzzo'] = {},
+['aosta-valley'] = {},
+['aostavalley'] = {},
+['bas'] = {},
+['basilicata'] = {},
+['cal'] = {},
+['calabria'] = {},
+['cam'] = {},
+['campania'] = {},
+['emilia-romagna'] = {},
+['emiliaromagna'] = {},
+['emr'] = {},
+['friuli-v-giulia'] = {},
+['friuli-ve-giulia'] = {},
+['friuli-vegiulia'] = {},
+['friuli-venezia-giulia'] = {},
+['friuli-veneziagiulia'] = {},
+['friuli-vgiulia'] = {},
+['friuliv-giulia'] = {},
+['friulive-giulia'] = {},
+['friulivegiulia'] = {},
+['friulivenezia-giulia'] = {},
+['friuliveneziagiulia'] = {},
+['friulivgiulia'] = {},
+['fvg'] = {},
+['laz'] = {},
+['lazio'] = {},
+['lig'] = {},
+['liguria'] = {},
+['lom'] = {},
+['lombardia'] = {},
+['lombardy'] = {},
+['lucania'] = {},
+['mar'] = {},
+['marche'] = {},
+['mol'] = {},
+['molise'] = {},
+['piedmont'] = {},
+['piemonte'] = {},
+['pmn'] = {},
+['pug'] = {},
+['puglia'] = {},
+['sar'] = {},
+['sardegna'] = {},
+['sardinia'] = {},
+['sic'] = {},
+['sicilia'] = {},
+['sicily'] = {},
+['taa'] = {},
+['tos'] = {},
+['toscana'] = {},
+['trentino-a-adige'] = {},
+['trentino-aadige'] = {},
+['trentino-alto-adige'] = {},
+['trentino-altoadige'] = {},
+['trentino-s-tirol'] = {},
+['trentino-stirol'] = {},
+['trentino-sud-tirol'] = {},
+['trentino-sudtirol'] = {},
+['trentino-sued-tirol'] = {},
+['trentino-suedtirol'] = {},
+['trentinoa-adige'] = {},
+['trentinoaadige'] = {},
+['trentinoalto-adige'] = {},
+['trentinoaltoadige'] = {},
+['trentinos-tirol'] = {},
+['trentinostirol'] = {},
+['trentinosud-tirol'] = {},
+['trentinosudtirol'] = {},
+['trentinosued-tirol'] = {},
+['trentinosuedtirol'] = {},
+['tuscany'] = {},
+['umb'] = {},
+['umbria'] = {},
+['val-d-aosta'] = {},
+['val-daosta'] = {},
+['vald-aosta'] = {},
+['valdaosta'] = {},
+['valle-aosta'] = {},
+['valle-d-aosta'] = {},
+['valle-daosta'] = {},
+['valleaosta'] = {},
+['valled-aosta'] = {},
+['valledaosta'] = {},
+['vallee-aoste'] = {},
+['valleeaoste'] = {},
+['vao'] = {},
+['vda'] = {},
+['ven'] = {},
+['veneto'] = {},
 ['ag'] = {},
-['alessandria'] = {},
+['agrigento'] = {},
 ['al'] = {},
-['ancona'] = {},
-['an'] = {},
-['aosta'] = {},
-['aoste'] = {},
-['ao'] = {},
-['arezzo'] = {},
-['ar'] = {},
-['ascoli-piceno'] = {},
-['ascolipiceno'] = {},
-['ap'] = {},
-['asti'] = {},
-['at'] = {},
-['avellino'] = {},
-['av'] = {},
-['bari'] = {},
-['ba'] = {},
-['andria-barletta-trani'] = {},
-['andriabarlettatrani'] = {},
-['trani-barletta-andria'] = {},
-['tranibarlettaandria'] = {},
-['barletta-trani-andria'] = {},
-['barlettatraniandria'] = {},
-['andria-trani-barletta'] = {},
-['andriatranibarletta'] = {},
-['trani-andria-barletta'] = {},
-['traniandriabarletta'] = {},
-['bt'] = {},
-['belluno'] = {},
-['bl'] = {},
-['benevento'] = {},
-['bn'] = {},
-['bergamo'] = {},
-['bg'] = {},
-['biella'] = {},
-['bi'] = {},
-['bologna'] = {},
-['bo'] = {},
-['bolzano'] = {},
-['bozen'] = {},
-['balsan'] = {},
+['alessandria'] = {},
 ['alto-adige'] = {},
 ['altoadige'] = {},
-['suedtirol'] = {},
-['bz'] = {},
-['brescia'] = {},
-['bs'] = {},
-['brindisi'] = {},
-['br'] = {},
-['cagliari'] = {},
-['ca'] = {},
-['caltanissetta'] = {},
-['cl'] = {},
-['campobasso'] = {},
-['cb'] = {},
-['carboniaiglesias'] = {},
-['carbonia-iglesias'] = {},
-['iglesias-carbonia'] = {},
-['iglesiascarbonia'] = {},
-['ci'] = {},
-['caserta'] = {},
-['ce'] = {},
-['catania'] = {},
-['ct'] = {},
-['catanzaro'] = {},
-['cz'] = {},
-['chieti'] = {},
-['ch'] = {},
-['como'] = {},
-['co'] = {},
-['cosenza'] = {},
-['cs'] = {},
-['cremona'] = {},
-['cr'] = {},
-['crotone'] = {},
-['kr'] = {},
-['cuneo'] = {},
-['cn'] = {},
-['dell-ogliastra'] = {},
-['dellogliastra'] = {},
-['ogliastra'] = {},
-['og'] = {},
-['enna'] = {},
-['en'] = {},
-['ferrara'] = {},
-['fe'] = {},
-['fermo'] = {},
-['fm'] = {},
-['firenze'] = {},
-['florence'] = {},
-['fi'] = {},
-['foggia'] = {},
-['fg'] = {},
-['forli-cesena'] = {},
-['forlicesena'] = {},
-['cesena-forli'] = {},
-['cesenaforli'] = {},
-['fc'] = {},
-['frosinone'] = {},
-['fr'] = {},
-['genova'] = {},
-['genoa'] = {},
-['ge'] = {},
-['gorizia'] = {},
-['go'] = {},
-['grosseto'] = {},
-['gr'] = {},
-['imperia'] = {},
-['im'] = {},
-['isernia'] = {},
-['is'] = {},
-['laquila'] = {},
-['aquila'] = {},
+['an'] = {},
+['ancona'] = {},
+['andria-barletta-trani'] = {},
+['andria-trani-barletta'] = {},
+['andriabarlettatrani'] = {},
+['andriatranibarletta'] = {},
+['ao'] = {},
+['aosta'] = {},
+['aoste'] = {},
+['ap'] = {},
 ['aq'] = {},
-['la-spezia'] = {},
-['laspezia'] = {},
-['sp'] = {},
-['latina'] = {},
-['lt'] = {},
-['lecce'] = {},
-['le'] = {},
-['lecco'] = {},
-['lc'] = {},
-['livorno'] = {},
-['li'] = {},
-['lodi'] = {},
-['lo'] = {},
-['lucca'] = {},
-['lu'] = {},
-['macerata'] = {},
-['mc'] = {},
-['mantova'] = {},
-['mn'] = {},
-['massa-carrara'] = {},
-['massacarrara'] = {},
-['carrara-massa'] = {},
-['carraramassa'] = {},
-['ms'] = {},
-['matera'] = {},
-['mt'] = {},
-['medio-campidano'] = {},
-['mediocampidano'] = {},
+['aquila'] = {},
+['ar'] = {},
+['arezzo'] = {},
+['ascoli-piceno'] = {},
+['ascolipiceno'] = {},
+['asti'] = {},
+['at'] = {},
+['av'] = {},
+['avellino'] = {},
+['ba'] = {},
+['balsan'] = {},
+['bari'] = {},
+['barletta-trani-andria'] = {},
+['barlettatraniandria'] = {},
+['belluno'] = {},
+['benevento'] = {},
+['bergamo'] = {},
+['bg'] = {},
+['bi'] = {},
+['biella'] = {},
+['bl'] = {},
+['bn'] = {},
+['bo'] = {},
+['bologna'] = {},
+['bolzano'] = {},
+['bozen'] = {},
+['br'] = {},
+['brescia'] = {},
+['brindisi'] = {},
+['bs'] = {},
+['bt'] = {},
+['bz'] = {},
+['ca'] = {},
+['cagliari'] = {},
+['caltanissetta'] = {},
 ['campidano-medio'] = {},
 ['campidanomedio'] = {},
-['vs'] = {},
-['messina'] = {},
+['campobasso'] = {},
+['carbonia-iglesias'] = {},
+['carboniaiglesias'] = {},
+['carrara-massa'] = {},
+['carraramassa'] = {},
+['caserta'] = {},
+['catania'] = {},
+['catanzaro'] = {},
+['cb'] = {},
+['ce'] = {},
+['cesena-forli'] = {},
+['cesenaforli'] = {},
+['ch'] = {},
+['chieti'] = {},
+['ci'] = {},
+['cl'] = {},
+['cn'] = {},
+['co'] = {},
+['como'] = {},
+['cosenza'] = {},
+['cr'] = {},
+['cremona'] = {},
+['crotone'] = {},
+['cs'] = {},
+['ct'] = {},
+['cuneo'] = {},
+['cz'] = {},
+['dell-ogliastra'] = {},
+['dellogliastra'] = {},
+['en'] = {},
+['enna'] = {},
+['fc'] = {},
+['fe'] = {},
+['fermo'] = {},
+['ferrara'] = {},
+['fg'] = {},
+['fi'] = {},
+['firenze'] = {},
+['florence'] = {},
+['fm'] = {},
+['foggia'] = {},
+['forli-cesena'] = {},
+['forlicesena'] = {},
+['fr'] = {},
+['frosinone'] = {},
+['ge'] = {},
+['genoa'] = {},
+['genova'] = {},
+['go'] = {},
+['gorizia'] = {},
+['gr'] = {},
+['grosseto'] = {},
+['iglesias-carbonia'] = {},
+['iglesiascarbonia'] = {},
+['im'] = {},
+['imperia'] = {},
+['is'] = {},
+['isernia'] = {},
+['kr'] = {},
+['la-spezia'] = {},
+['laquila'] = {},
+['laspezia'] = {},
+['latina'] = {},
+['lc'] = {},
+['le'] = {},
+['lecce'] = {},
+['lecco'] = {},
+['li'] = {},
+['livorno'] = {},
+['lo'] = {},
+['lodi'] = {},
+['lt'] = {},
+['lu'] = {},
+['lucca'] = {},
+['macerata'] = {},
+['mantova'] = {},
+['massa-carrara'] = {},
+['massacarrara'] = {},
+['matera'] = {},
+['mb'] = {},
+['mc'] = {},
 ['me'] = {},
-['milano'] = {},
-['milan'] = {},
+['medio-campidano'] = {},
+['mediocampidano'] = {},
+['messina'] = {},
 ['mi'] = {},
-['modena'] = {},
+['milan'] = {},
+['milano'] = {},
+['mn'] = {},
 ['mo'] = {},
-['monza'] = {},
+['modena'] = {},
 ['monza-brianza'] = {},
+['monza-e-della-brianza'] = {},
+['monza'] = {},
 ['monzabrianza'] = {},
 ['monzaebrianza'] = {},
 ['monzaedellabrianza'] = {},
-['monza-e-della-brianza'] = {},
-['mb'] = {},
-['napoli'] = {},
-['naples'] = {},
+['ms'] = {},
+['mt'] = {},
 ['na'] = {},
-['novara'] = {},
+['naples'] = {},
+['napoli'] = {},
 ['no'] = {},
-['nuoro'] = {},
+['novara'] = {},
 ['nu'] = {},
-['oristano'] = {},
-['or'] = {},
-['padova'] = {},
-['padua'] = {},
-['pd'] = {},
-['palermo'] = {},
-['pa'] = {},
-['parma'] = {},
-['pr'] = {},
-['pavia'] = {},
-['pv'] = {},
-['perugia'] = {},
-['pg'] = {},
-['pescara'] = {},
-['pe'] = {},
-['pesaro-urbino'] = {},
-['pesarourbino'] = {},
-['urbino-pesaro'] = {},
-['urbinopesaro'] = {},
-['pu'] = {},
-['piacenza'] = {},
-['pc'] = {},
-['pisa'] = {},
-['pi'] = {},
-['pistoia'] = {},
-['pt'] = {},
-['pordenone'] = {},
-['pn'] = {},
-['potenza'] = {},
-['pz'] = {},
-['prato'] = {},
-['po'] = {},
-['ragusa'] = {},
-['rg'] = {},
-['ravenna'] = {},
-['ra'] = {},
-['reggio-calabria'] = {},
-['reggiocalabria'] = {},
-['rc'] = {},
-['reggio-emilia'] = {},
-['reggioemilia'] = {},
-['re'] = {},
-['rieti'] = {},
-['ri'] = {},
-['rimini'] = {},
-['rn'] = {},
-['roma'] = {},
-['rome'] = {},
-['rm'] = {},
-['rovigo'] = {},
-['ro'] = {},
-['salerno'] = {},
-['sa'] = {},
-['sassari'] = {},
-['ss'] = {},
-['savona'] = {},
-['sv'] = {},
-['siena'] = {},
-['si'] = {},
-['siracusa'] = {},
-['sr'] = {},
-['sondrio'] = {},
-['so'] = {},
-['taranto'] = {},
-['ta'] = {},
-['tempio-olbia'] = {},
-['tempioolbia'] = {},
+['nuoro'] = {},
+['og'] = {},
+['ogliastra'] = {},
 ['olbia-tempio'] = {},
 ['olbiatempio'] = {},
+['or'] = {},
+['oristano'] = {},
 ['ot'] = {},
-['teramo'] = {},
+['pa'] = {},
+['padova'] = {},
+['padua'] = {},
+['palermo'] = {},
+['parma'] = {},
+['pavia'] = {},
+['pc'] = {},
+['pd'] = {},
+['pe'] = {},
+['perugia'] = {},
+['pesaro-urbino'] = {},
+['pesarourbino'] = {},
+['pescara'] = {},
+['pg'] = {},
+['pi'] = {},
+['piacenza'] = {},
+['pisa'] = {},
+['pistoia'] = {},
+['pn'] = {},
+['po'] = {},
+['pordenone'] = {},
+['potenza'] = {},
+['pr'] = {},
+['prato'] = {},
+['pt'] = {},
+['pu'] = {},
+['pv'] = {},
+['pz'] = {},
+['ra'] = {},
+['ragusa'] = {},
+['ravenna'] = {},
+['rc'] = {},
+['re'] = {},
+['reggio-calabria'] = {},
+['reggio-emilia'] = {},
+['reggiocalabria'] = {},
+['reggioemilia'] = {},
+['rg'] = {},
+['ri'] = {},
+['rieti'] = {},
+['rimini'] = {},
+['rm'] = {},
+['rn'] = {},
+['ro'] = {},
+['roma'] = {},
+['rome'] = {},
+['rovigo'] = {},
+['sa'] = {},
+['salerno'] = {},
+['sassari'] = {},
+['savona'] = {},
+['si'] = {},
+['siena'] = {},
+['siracusa'] = {},
+['so'] = {},
+['sondrio'] = {},
+['sp'] = {},
+['sr'] = {},
+['ss'] = {},
+['suedtirol'] = {},
+['sv'] = {},
+['ta'] = {},
+['taranto'] = {},
 ['te'] = {},
+['tempio-olbia'] = {},
+['tempioolbia'] = {},
+['teramo'] = {},
 ['terni'] = {},
-['tr'] = {},
-['torino'] = {},
-['turin'] = {},
-['to'] = {},
-['trapani'] = {},
-['tp'] = {},
-['trento'] = {},
-['trentino'] = {},
 ['tn'] = {},
+['to'] = {},
+['torino'] = {},
+['tp'] = {},
+['tr'] = {},
+['trani-andria-barletta'] = {},
+['trani-barletta-andria'] = {},
+['traniandriabarletta'] = {},
+['tranibarlettaandria'] = {},
+['trapani'] = {},
+['trentino'] = {},
+['trento'] = {},
 ['treviso'] = {},
-['tv'] = {},
 ['trieste'] = {},
 ['ts'] = {},
-['udine'] = {},
+['turin'] = {},
+['tv'] = {},
 ['ud'] = {},
-['varese'] = {},
+['udine'] = {},
+['urbino-pesaro'] = {},
+['urbinopesaro'] = {},
 ['va'] = {},
+['varese'] = {},
+['vb'] = {},
+['vc'] = {},
+['ve'] = {},
 ['venezia'] = {},
 ['venice'] = {},
-['ve'] = {},
 ['verbania'] = {},
-['vb'] = {},
 ['vercelli'] = {},
-['vc'] = {},
 ['verona'] = {},
-['vr'] = {},
+['vi'] = {},
 ['vibo-valentia'] = {},
 ['vibovalentia'] = {},
-['vv'] = {},
 ['vicenza'] = {},
-['vi'] = {},
 ['viterbo'] = {},
+['vr'] = {},
+['vs'] = {},
 ['vt'] = {},
+['vv'] = {},
 ['blogspot'] = {}},
 ['je'] = {['co'] = {},
 ['net'] = {},
@@ -2083,7 +2400,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['kota'] = {},
 ['mihama'] = {},
 ['miyoshi'] = {},
-['nagakute'] = {},
 ['nishio'] = {},
 ['nisshin'] = {},
 ['obu'] = {},
@@ -2755,7 +3071,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['shiwa'] = {},
 ['shizukuishi'] = {},
 ['sumita'] = {},
-['takizawa'] = {},
 ['tanohata'] = {},
 ['tono'] = {},
 ['yahaba'] = {},
@@ -3952,7 +4267,11 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['mq'] = {},
 ['mr'] = {['gov'] = {},
 ['blogspot'] = {}},
-['ms'] = {},
+['ms'] = {['com'] = {},
+['edu'] = {},
+['gov'] = {},
+['net'] = {},
+['org'] = {}},
 ['mt'] = {['com'] = {},
 ['edu'] = {},
 ['net'] = {},
@@ -4579,6 +4898,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['jp'] = {},
 ['se'] = {},
 ['uk'] = {},
+['in'] = {},
 ['at-band-camp'] = {},
 ['blogdns'] = {},
 ['broke-it'] = {},
@@ -4619,6 +4939,9 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['global'] = {}},
 ['prod'] = {['a'] = {},
 ['global'] = {}}},
+['azurewebsites'] = {},
+['azure-mobile'] = {},
+['cloudapp'] = {},
 ['za'] = {}},
 ['nf'] = {['com'] = {},
 ['net'] = {},
@@ -5962,7 +6285,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['press'] = {},
 ['r'] = {},
 ['s'] = {},
-['sshn'] = {},
 ['t'] = {},
 ['tm'] = {},
 ['u'] = {},
@@ -5984,6 +6306,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['org'] = {},
 ['mil'] = {}},
 ['si'] = {},
+['sj'] = {},
 ['sk'] = {['blogspot'] = {}},
 ['sl'] = {['com'] = {},
 ['net'] = {},
@@ -6093,6 +6416,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['org'] = {},
 ['edu'] = {},
 ['mil'] = {}},
+['tp'] = {},
 ['tr'] = {['*'] = {},
 ['nic'] = {['!'] = {}},
 ['nc'] = {['gov'] = {}}},
@@ -6487,9 +6811,12 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['ايران'] = {},
 ['الاردن'] = {},
 ['한국'] = {},
+['қаз'] = {},
 ['ලංකා'] = {},
 ['இலங்கை'] = {},
 ['المغرب'] = {},
+['мон'] = {},
+['مليسيا'] = {},
 ['عمان'] = {},
 ['فلسطين'] = {},
 ['срб'] = {},
@@ -6631,7 +6958,211 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['政务'] = {},
 ['club'] = {},
 ['voting'] = {},
-['TOKYO'] = {},
+['tokyo'] = {},
 ['moe'] = {},
+['guitars'] = {},
+['bargains'] = {},
+['组织机构'] = {},
+['desi'] = {},
+['cool'] = {},
+['boutique'] = {},
+['pics'] = {},
+['орг'] = {},
+['公司'] = {},
+['网络'] = {},
+['cheap'] = {},
+['广东'] = {},
+['photo'] = {},
+['network'] = {},
+['zone'] = {},
+['机构'] = {},
+['link'] = {},
+['qpon'] = {},
+['संगठन'] = {},
+['agency'] = {},
+['tienda'] = {},
+['works'] = {},
+['london'] = {},
+['watch'] = {},
+['rocks'] = {},
+['shiksha'] = {},
+['дети'] = {},
+['budapest'] = {},
+['nrw'] = {},
+['vote'] = {},
+['fishing'] = {},
+['expert'] = {},
+['horse'] = {},
+['christmas'] = {},
+['cooking'] = {},
+['商城'] = {},
+['casa'] = {},
+['rich'] = {},
+['voto'] = {},
+['tools'] = {},
+['八卦'] = {},
+['praxi'] = {},
+['events'] = {},
+['flights'] = {},
+['report'] = {},
+['partners'] = {},
+['neustar'] = {},
+['rentals'] = {},
+['catering'] = {},
+['community'] = {},
+['maison'] = {},
+['parts'] = {},
+['cleaning'] = {},
+['okinawa'] = {},
+['foundation'] = {},
+['properties'] = {},
+['vacations'] = {},
+['productions'] = {},
+['industries'] = {},
+['haus'] = {},
+['vision'] = {},
+['mormon'] = {},
+['cards'] = {},
+['ink'] = {},
+['villas'] = {},
+['consulting'] = {},
+['cruises'] = {},
+['krd'] = {},
+['xyz'] = {},
+['dating'] = {},
+['exposed'] = {},
+['condos'] = {},
+['eus'] = {},
+['caravan'] = {},
+['actor'] = {},
+['saarland'] = {},
+['yokohama'] = {},
+['pub'] = {},
+['рус'] = {},
+['ren'] = {},
+['fish'] = {},
+['bar'] = {},
+['dnp'] = {},
+['bid'] = {},
+['supply'] = {},
+['miami'] = {},
+['supplies'] = {},
+['quebec'] = {},
+['moscow'] = {},
+['globo'] = {},
+['axa'] = {},
+['москва'] = {},
+['商店'] = {},
+['vodka'] = {},
+['rest'] = {},
+['frogans'] = {},
+['wtc'] = {},
+['rodeo'] = {},
+['sohu'] = {},
+['best'] = {},
+['country'] = {},
+['kred'] = {},
+['feedback'] = {},
+['work'] = {},
+['luxe'] = {},
+['ryukyu'] = {},
+['autos'] = {},
+['homes'] = {},
+['jetzt'] = {},
+['yachts'] = {},
+['motorcycles'] = {},
+['mini'] = {},
+['ggee'] = {},
+['beer'] = {},
+['佛山'] = {},
+['college'] = {},
+['ovh'] = {},
+['meet'] = {},
+['网址'] = {},
+['gop'] = {},
+['blackfriday'] = {},
+['lacaixa'] = {},
+['商标'] = {},
+['vegas'] = {},
+['black'] = {},
+['soy'] = {},
+['trade'] = {},
+['gent'] = {},
+['ing'] = {},
+['dad'] = {},
+['shriram'] = {},
+['bayern'] = {},
+['scot'] = {},
+['webcam'] = {},
+['foo'] = {},
+['eat'] = {},
+['nyc'] = {},
+['prod'] = {},
+['how'] = {},
+['day'] = {},
+['meme'] = {},
+['mov'] = {},
+['paris'] = {},
+['boo'] = {},
+['new'] = {},
+['ifm'] = {},
+['life'] = {},
+['archi'] = {},
+['spiegel'] = {},
+['brussels'] = {},
+['church'] = {},
+['here'] = {},
+['dabur'] = {},
+['vlaanderen'] = {},
+['cologne'] = {},
+['手机'] = {},
+['wme'] = {},
+['nhk'] = {},
+['suzuki'] = {},
+['whoswho'] = {},
+['scb'] = {},
+['hamburg'] = {},
+['services'] = {},
+['bzh'] = {},
+['rio'] = {},
+['cash'] = {},
+['gives'] = {},
+['hiphop'] = {},
+['degree'] = {},
+['digital'] = {},
+['rehab'] = {},
+['wtf'] = {},
+['financial'] = {},
+['limited'] = {},
+['discount'] = {},
+['fail'] = {},
+['vet'] = {},
+['ngo'] = {},
+['fitness'] = {},
+['schule'] = {},
+['navy'] = {},
+['bio'] = {},
+['ong'] = {},
+['town'] = {},
+['toys'] = {},
+['army'] = {},
+['engineering'] = {},
+['capital'] = {},
+['exchange'] = {},
+['fan'] = {},
+['market'] = {},
+['media'] = {},
+['lease'] = {},
+['university'] = {},
+['reisen'] = {},
+['airforce'] = {},
+['pictures'] = {},
+['gripe'] = {},
+['associates'] = {},
+['政府'] = {},
+['williamhill'] = {},
+['hiv'] = {},
+['sca'] = {},
+['reise'] = {},
 ['*'] = {}}
 return tld_tree
