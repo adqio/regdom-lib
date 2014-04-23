@@ -857,10 +857,10 @@
 --  engineering : 2014-03-07 United TLD Holdco Ltd.
 --  associates : 2014-03-07 Baxter Hill, LLC
 --  xn--mxtq1m : 2014-03-07 Net-Chinese Co., Ltd.
---  williamhill : 2014-03-13 William Hill Organization Limited 
---  hiv : 2014-03-13 dotHIV gemeinnuetziger e.V. 
---  sca : 2014-03-13 SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) 
---  reise : 2014-03-13 dotreise GmbH 
+--  williamhill : 2014-03-13 William Hill Organization Limited
+--  hiv : 2014-03-13 dotHIV gemeinnuetziger e.V.
+--  sca : 2014-03-13 SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
+--  reise : 2014-03-13 dotreise GmbH
 --  ===END ICANN DOMAINS===
 --  ===BEGIN PRIVATE DOMAINS===
 --  Amazon CloudFront : https://aws.amazon.com/cloudfront/
