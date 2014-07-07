@@ -33,7 +33,7 @@ local function find_registered_domain(parts,node,aggregate_domain,strict)
     return aggregate_domain
   end
   if #parts == 0 then
-    return nil 
+    return nil
   end
   local last_part = parts[#parts]
   local next_node = node[last_part] or node["*"]
@@ -44,7 +44,7 @@ local function find_registered_domain(parts,node,aggregate_domain,strict)
   end
   if next_node then
     return find_registered_domain(tablex.sub(parts,1,#parts-1),next_node,aggregate_domain)
-  else 
+  else
     return aggregate_domain
   end
 end
@@ -53,6 +53,11 @@ function regdom.get_registered_domain( host,strict )
   local strict = strict or false
   local domain_parts = stringx.split(host,".")
   local tlds = strict and strict_tlds or effective_tlds
+  if strict and (#host >= 253 or tablex.find_if(domain_parts,
+      function(part) return #part>63 end)) then
+    return nil
+  end
+
   local result = find_registered_domain(domain_parts,tlds)
   if result and #(stringx.split(result,"."))==1 then
     return nil

@@ -29,6 +29,7 @@
 --  Historic 2LDs (closed to new registration, but sites still exist)
 --  CGDNs - http://www.cgdn.org.au/
 --  3LDs
+--  act.gov.au  Bug 984824 - Removed at request of Greg Tankard
 --  nsw.gov.au  Bug 547985 - Removed at request of <Shae.Donelan@services.nsw.gov.au>
 --  nt.gov.au  Bug 940478 - Removed at request of Greg Connors <Greg.Connors@nt.gov.au>
 --  aw : http://en.wikipedia.org/wiki/.aw
@@ -83,7 +84,7 @@
 --  http://www.nic.ci/index.php?page=charte
 --  ck : http://en.wikipedia.org/wiki/.ck
 --  cl : http://en.wikipedia.org/wiki/.cl
---  cm : http://en.wikipedia.org/wiki/.cm
+--  cm : http://en.wikipedia.org/wiki/.cm plus bug 981927
 --  cn : http://en.wikipedia.org/wiki/.cn
 --  Submitted by registry <tanyaling@cnnic.cn> 2008-06-11
 --  cn geographic names
@@ -308,6 +309,7 @@
 --  Confirmed by registry <technician@cenpac.net.nr> 2008-06-17
 --  nu : http://en.wikipedia.org/wiki/.nu
 --  nz : http://en.wikipedia.org/wiki/.nz
+--  Confirmed by registry <jay@nzrs.net.nz> 2014-05-19
 --  om : http://en.wikipedia.org/wiki/.om
 --  org : http://en.wikipedia.org/wiki/.org
 --  pa : http://www.nic.pa/
@@ -418,8 +420,7 @@
 --  Private registries in .ua
 --  ug : https://www.registry.co.ug/
 --  uk : http://en.wikipedia.org/wiki/.uk
---  Submitted by registry <noc@nominet.org.uk> 2012-10-02
---  and tweaked by us pending further consultation.
+--  Submitted by registry <Michael.Daly@nominet.org.uk>
 --  us : http://en.wikipedia.org/wiki/.us
 --  us geographic names
 --  The registrar notes several more specific domains available in each state,
@@ -443,6 +444,7 @@
 --  Submitted by registry <kshah@ca.afilias.info> 2008-06-13
 --  ve : https://registro.nic.ve/
 --  Confirmed by registry 2012-10-04
+--  Updated 2014-05-20 - Bug 940478
 --  vg : http://en.wikipedia.org/wiki/.vg
 --  vi : http://www.nic.vi/newdomainform.htm
 --  http://www.nic.vi/Domain_Rules/body_domain_rules.html indicates some other
@@ -450,7 +452,7 @@
 --  are available for registration (which they do not seem to be).
 --  vn : https://www.dot.vn/vnnic/vnnic/domainregistration.jsp
 --  vu : http://en.wikipedia.org/wiki/.vu
---  list of 2nd level tlds ?
+--  http://www.vunic.vu/
 --  wf : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
 --  ws : http://en.wikipedia.org/wiki/.ws
 --  http://samoanic.ws/index.dhtml
@@ -509,6 +511,7 @@
 --  The Palestinian National Internet Naming Authority (PNINA)
 --  http://www.pnina.ps
 --  xn--90a3ac ("srb" Cyrillic) : RS
+--  http://www.rnids.rs/en/the-.срб-domain
 --  xn--p1ai ("rf" Russian-Cyrillic) : RU
 --  http://www.cctld.ru/en/docs/rulesrf.php
 --  xn--wgbl6a ("Qatar" Arabic) : QA
@@ -860,13 +863,111 @@
 --  williamhill : 2014-03-13 William Hill Organization Limited
 --  hiv : 2014-03-13 dotHIV gemeinnuetziger e.V.
 --  sca : 2014-03-13 SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
---  reise : 2014-03-13 dotreise GmbH
+--  reise : 2014-03-13 dotreise GmbH 
+--  accountants : 2014-03-20 Knob Town, LLC 
+--  clinic : 2014-03-20 Goose Park, LLC 
+--  versicherung : 2014-03-20 dotversicherung-registry GmbH 
+--  top : 2014-03-20 Jiangsu Bangning Science & Technology Co.,Ltd. 
+--  furniture : 2014-03-20 Lone Fields, LLC 
+--  dental : 2014-03-20 Tin Birch, LLC 
+--  fund : 2014-03-20 John Castle, LLC 
+--  creditcard : 2014-03-20 Binky Frostbite, LLC 
+--  insure : 2014-03-20 Pioneer Willow, LLC 
+--  audio : 2014-03-20 Uniregistry, Corp. 
+--  claims : 2014-03-20 Black Corner, LLC 
+--  loans : 2014-03-20 June Woods, LLC 
+--  auction : 2014-03-20 Sand Galley, LLC 
+--  attorney : 2014-03-20 Victor North, LLC 
+--  finance : 2014-03-20 Cotton Cypress, LLC 
+--  investments : 2014-03-20 Holly Glen, LLC 
+--  juegos : 2014-03-20 Uniregistry, Corp. 
+--  dentist : 2014-03-20 Outer Lake, LLC 
+--  lds : 2014-03-20 IRI Domain Management, LLC 
+--  lawyer : 2014-03-20 Atomic Station, LLC 
+--  surgery : 2014-03-20 Tin Avenue, LLC 
+--  gratis : 2014-03-20 Pioneer Tigers, LLC 
+--  software : 2014-03-20 Over Birch, LLC 
+--  mortgage : 2014-03-20 Outer Gardens, LLC 
+--  republican : 2014-03-20 United TLD Holdco Ltd. 
+--  credit : 2014-03-20 Snow Shadow, LLC 
+--  tax : 2014-03-20 Storm Orchard, LLC 
+--  africa : 2014-03-24 ZA Central Registry NPC trading as Registry.Africa 
+--  joburg : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry 
+--  durban : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry 
+--  capetown : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry 
+--  sap : 2014-03-27 SAP AG 
+--  datsun : 2014-03-27 NISSAN MOTOR CO., LTD. 
+--  infiniti : 2014-03-27 NISSAN MOTOR CO., LTD. 
+--  firmdale : 2014-03-27 Firmdale Holdings Limited 
+--  organic : 2014-03-27 Afilias Limited 
+--  nissan : 2014-03-27 NISSAN MOTOR CO., LTD. 
+--  website : 2014-04-03 DotWebsite Inc. 
+--  space : 2014-04-03 DotSpace Inc. 
+--  schmidt : 2014-04-03 SALM S.A.S. 
+--  cuisinella : 2014-04-03 SALM S.A.S. 
+--  samsung : 2014-04-03 SAMSUNG SDS CO., LTD 
+--  crs : 2014-04-03 Federated Co operatives Limited 
+--  doosan : 2014-04-03 Doosan Corporation 
+--  press : 2014-04-03 DotPress Inc. 
+--  emerck : 2014-04-03 Merck KGaA 
+--  erni : 2014-04-03 ERNI Group Holding AG 
+--  direct : 2014-04-10 Half Trail, LLC 
+--  yandex : 2014-04-10 YANDEX, LLC 
+--  lotto : 2014-04-10 Afilias Limited 
+--  toshiba : 2014-04-10 TOSHIBA Corporation 
+--  bauhaus : 2014-04-17 Werkhaus GmbH 
+--  host : 2014-04-17 DotHost Inc. 
+--  ltda : 2014-04-17 DOMAIN ROBOT SERVICOS DE HOSPEDAGEM NA INTERNET LTDA 
+--  global : 2014-04-17 Dot GLOBAL AS 
+--  abogado : 2014-04-24 Top Level Domain Holdings Limited 
+--  place : 2014-04-24 Snow Galley, LLC 
+--  tirol : 2014-04-24 punkt Tirol GmbH 
+--  gmx : 2014-04-24 1&1 Mail & Media GmbH 
+--  tatar : 2014-04-24 Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic" 
+--  scholarships : 2014-04-24 Scholarships.com, LLC 
+--  eurovision : 2014-04-24 European Broadcasting Union (EBU) 
+--  wedding : 2014-04-24 Top Level Domain Holdings Limited 
+--  active : 2014-05-01 The Active Network, Inc 
+--  madrid : 2014-05-01 Comunidad de Madrid 
+--  youtube : 2014-05-01 Charleston Road Registry Inc. 
+--  sharp : 2014-05-01 Sharp Corporation 
+--  uol : 2014-05-01 UBN INTERNET LTDA. 
+--  physio : 2014-05-01 PhysBiz Pty Ltd 
+--  gmail : 2014-05-01 Charleston Road Registry Inc. 
+--  channel : 2014-05-08 Charleston Road Registry Inc. 
+--  fly : 2014-05-08 Charleston Road Registry Inc. 
+--  zip : 2014-05-08 Charleston Road Registry Inc. 
+--  esq : 2014-05-08 Charleston Road Registry Inc. 
+--  rsvp : 2014-05-08 Charleston Road Registry Inc. 
+--  wales : 2014-05-08 Nominet UK 
+--  cymru : 2014-05-08 Nominet UK 
+--  green : 2014-05-08 Afilias Limited 
+--  lgbt : 2014-05-08 Afilias Limited 
+--  xn--hxt814e : 2014-05-15 Zodiac Libra Limited 
+--  cancerresearch : 2014-05-15 Australian Cancer Research Foundation 
+--  everbank : 2014-05-15 EverBank 
+--  frl : 2014-05-15 FRLregistry B.V. 
+--  property : 2014-05-22 Uniregistry, Corp. 
+--  forsale : 2014-05-22 Sea Oaks, LLC 
+--  seat : 2014-05-22 SEAT, S.A. (Sociedad Unipersonal) 
+--  deals : 2014-05-22 Sand Sunset, LLC 
+--  nra : 2014-05-22 NRA Holdings Company, INC. 
+--  xn--fjq720a : 2014-05-22 Will Bloom, LLC 
+--  realtor : 2014-05-29 Real Estate Domains LLC 
+--  bnpparibas : 2014-05-29 BNP Paribas 
+--  melbourne : 2014-05-29 The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation 
+--  hosting : 2014-05-29 Uniregistry, Corp. 
+--  yoga : 2014-05-29 Top Level Domain Holdings Limited 
+--  city : 2014-05-29 Snow Sky, LLC 
+--  bond : 2014-06-05 Bond University Limited 
+--  click : 2014-06-05 Uniregistry, Corp. 
+--  cern : 2014-06-05 European Organization for Nuclear Research ("CERN") 
 --  ===END ICANN DOMAINS===
 --  ===BEGIN PRIVATE DOMAINS===
 --  Amazon CloudFront : https://aws.amazon.com/cloudfront/
 --  Submitted by Donavan Miller <donavanm@amazon.com> 2013-03-22
 --  Amazon Elastic Compute Cloud: https://aws.amazon.com/ec2/
---  Submitted by Osman Surkatty <osmans@amazon.com> 2013-04-02
+--  Submitted by Osman Surkatty <osmans@amazon.com> 2014-05-20
 --  Amazon Elastic Beanstalk : https://aws.amazon.com/elasticbeanstalk/
 --  Submitted by Adam Stein <astein@amazon.com> 2013-04-02
 --  Amazon Elastic Load Balancing : https://aws.amazon.com/elasticloadbalancing/
@@ -899,6 +1000,8 @@
 --  DynDNS.com : http://www.dyndns.com/services/dns/dyndns/
 --  Fastly Inc. http://www.fastly.com/
 --  Submitted by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
+--  Firebase, Inc.
+--  Submitted by Chris Raynor <chris@firebase.com> 2014-01-21
 --  GitHub, Inc.
 --  Submitted by Ben Toews <btoews@github.com> 2014-02-06
 --  GlobeHosting, Inc.
@@ -913,8 +1016,12 @@
 --  Michau Enterprises Limited : http://www.co.pl/
 --  Microsoft : http://microsoft.com
 --  Submitted by Barry Dorrans <bdorrans@microsoft.com> 2014-01-24
+--  NFSN, Inc. : https://www.NearlyFreeSpeech.NET/
+--  Submitted by Jeff Wheelhouse <support@nearlyfreespeech.net> 2014-02-02
 --  NYC.mn : http://www.information.nyc.mn
 --  Submitted by Matthew Brown <mattbrown@nyc.mn> 2013-03-11
+--  One Fold Media : http://www.onefoldmedia.com/
+--  Submitted by Eddie Jones <eddie@onefoldmedia.com> 2014-06-10
 --  Opera Software, A.S.A.
 --  Submitted by Yngve Pettersen <yngve@opera.com> 2009-11-26
 --  OutSystems
@@ -1064,6 +1171,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['ar'] = {['com'] = {['blogspot'] = {}},
 ['edu'] = {},
 ['gob'] = {},
+['gov'] = {},
 ['int'] = {},
 ['mil'] = {},
 ['net'] = {},
@@ -1095,15 +1203,13 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['tas'] = {},
 ['vic'] = {},
 ['wa'] = {}},
-['gov'] = {['act'] = {},
-['qld'] = {},
+['gov'] = {['qld'] = {},
 ['sa'] = {},
 ['tas'] = {},
 ['vic'] = {},
 ['wa'] = {}},
 ['asn'] = {},
 ['id'] = {},
-['csiro'] = {},
 ['info'] = {},
 ['conf'] = {},
 ['oz'] = {},
@@ -1140,13 +1246,15 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['com'] = {},
 ['rs'] = {}},
 ['bb'] = {['biz'] = {},
+['co'] = {},
 ['com'] = {},
 ['edu'] = {},
 ['gov'] = {},
 ['info'] = {},
 ['net'] = {},
 ['org'] = {},
-['store'] = {}},
+['store'] = {},
+['tv'] = {}},
 ['bd'] = {['*'] = {}},
 ['be'] = {['ac'] = {},
 ['blogspot'] = {}},
@@ -1363,7 +1471,10 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['gob'] = {},
 ['co'] = {},
 ['mil'] = {}},
-['cm'] = {['gov'] = {}},
+['cm'] = {['co'] = {},
+['com'] = {},
+['gov'] = {},
+['net'] = {}},
 ['cn'] = {['ac'] = {},
 ['com'] = {},
 ['edu'] = {},
@@ -1407,7 +1518,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['zj'] = {},
 ['hk'] = {},
 ['mo'] = {},
-['tw'] = {}},
+['tw'] = {},
+['amazonaws'] = {['compute'] = {['cn-north-1'] = {}}}},
 ['co'] = {['arts'] = {},
 ['com'] = {},
 ['edu'] = {},
@@ -1429,9 +1541,9 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['us-gov-west-1'] = {},
 ['us-west-1'] = {},
 ['us-west-2'] = {}},
-['us-east-1'] = {},
 ['compute-1'] = {['z-1'] = {},
 ['z-2'] = {}},
+['us-east-1'] = {},
 ['elb'] = {},
 ['s3'] = {},
 ['s3-us-west-2'] = {},
@@ -1629,6 +1741,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['space-to-rent'] = {},
 ['teaches-yoga'] = {},
 ['writesthisblog'] = {},
+['firebaseapp'] = {},
 ['githubusercontent'] = {},
 ['ro'] = {},
 ['appspot'] = {},
@@ -1639,6 +1752,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['withgoogle'] = {},
 ['herokuapp'] = {},
 ['herokussl'] = {},
+['nfshost'] = {},
 ['operaunite'] = {},
 ['outsystemscloud'] = {},
 ['rhcloud'] = {}},
@@ -1959,7 +2073,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['webhop'] = {}},
 ['int'] = {['eu'] = {}},
 ['io'] = {['com'] = {},
-['github'] = {}},
+['github'] = {},
+['nid'] = {}},
 ['iq'] = {['gov'] = {},
 ['edu'] = {},
 ['mil'] = {},
@@ -5711,8 +5826,22 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['nu'] = {['merseine'] = {},
 ['mine'] = {},
 ['shacknet'] = {}},
-['nz'] = {['*'] = {},
-['co'] = {['blogspot'] = {}}},
+['nz'] = {['ac'] = {},
+['co'] = {['blogspot'] = {}},
+['cri'] = {},
+['geek'] = {},
+['gen'] = {},
+['govt'] = {},
+['health'] = {},
+['iwi'] = {},
+['kiwi'] = {},
+['maori'] = {},
+['mil'] = {},
+['māori'] = {},
+['net'] = {},
+['org'] = {},
+['parliament'] = {},
+['school'] = {}},
 ['om'] = {['co'] = {},
 ['com'] = {},
 ['edu'] = {},
@@ -6155,7 +6284,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['palana'] = {},
 ['penza'] = {},
 ['perm'] = {},
-['pskov'] = {},
 ['ptz'] = {},
 ['rnd'] = {},
 ['ryazan'] = {},
@@ -6292,6 +6420,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['x'] = {},
 ['y'] = {},
 ['z'] = {},
+['com'] = {},
 ['blogspot'] = {}},
 ['sg'] = {['com'] = {},
 ['net'] = {},
@@ -6554,18 +6683,17 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['ne'] = {},
 ['com'] = {},
 ['org'] = {}},
-['uk'] = {['*'] = {},
-['sch'] = {['*'] = {}},
-['bl'] = {['!'] = {}},
-['british-library'] = {['!'] = {}},
-['jet'] = {['!'] = {}},
-['mod'] = {['!'] = {}},
-['national-library-scotland'] = {['!'] = {}},
-['nel'] = {['!'] = {}},
-['nic'] = {['!'] = {}},
-['nls'] = {['!'] = {}},
-['parliament'] = {['!'] = {}},
-['co'] = {['blogspot'] = {}}},
+['uk'] = {['ac'] = {},
+['co'] = {['blogspot'] = {}},
+['gov'] = {},
+['ltd'] = {},
+['me'] = {},
+['net'] = {},
+['nhs'] = {},
+['org'] = {},
+['plc'] = {},
+['police'] = {},
+['sch'] = {['*'] = {}}},
 ['us'] = {['dni'] = {},
 ['fed'] = {},
 ['isa'] = {},
@@ -6754,15 +6882,22 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['gov'] = {},
 ['mil'] = {},
 ['edu'] = {}},
-['ve'] = {['co'] = {},
+['ve'] = {['arts'] = {},
+['co'] = {},
 ['com'] = {},
 ['e12'] = {},
 ['edu'] = {},
+['firm'] = {},
+['gob'] = {},
 ['gov'] = {},
 ['info'] = {},
+['int'] = {},
 ['mil'] = {},
 ['net'] = {},
 ['org'] = {},
+['rec'] = {},
+['store'] = {},
+['tec'] = {},
 ['web'] = {}},
 ['vg'] = {},
 ['vi'] = {['co'] = {},
@@ -6782,7 +6917,10 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['name'] = {},
 ['pro'] = {},
 ['health'] = {}},
-['vu'] = {},
+['vu'] = {['com'] = {},
+['edu'] = {},
+['net'] = {},
+['org'] = {}},
 ['wf'] = {},
 ['ws'] = {['com'] = {},
 ['net'] = {},
@@ -6819,7 +6957,12 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['مليسيا'] = {},
 ['عمان'] = {},
 ['فلسطين'] = {},
-['срб'] = {},
+['срб'] = {['пр'] = {},
+['орг'] = {},
+['обр'] = {},
+['од'] = {},
+['упр'] = {},
+['ак'] = {}},
 ['рф'] = {},
 ['قطر'] = {},
 ['السعودية'] = {},
@@ -7164,5 +7307,103 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['hiv'] = {},
 ['sca'] = {},
 ['reise'] = {},
+['accountants'] = {},
+['clinic'] = {},
+['versicherung'] = {},
+['top'] = {},
+['furniture'] = {},
+['dental'] = {},
+['fund'] = {},
+['creditcard'] = {},
+['insure'] = {},
+['audio'] = {},
+['claims'] = {},
+['loans'] = {},
+['auction'] = {},
+['attorney'] = {},
+['finance'] = {},
+['investments'] = {},
+['juegos'] = {},
+['dentist'] = {},
+['lds'] = {},
+['lawyer'] = {},
+['surgery'] = {},
+['gratis'] = {},
+['software'] = {},
+['mortgage'] = {},
+['republican'] = {},
+['credit'] = {},
+['tax'] = {},
+['africa'] = {},
+['joburg'] = {},
+['durban'] = {},
+['capetown'] = {},
+['sap'] = {},
+['datsun'] = {},
+['infiniti'] = {},
+['firmdale'] = {},
+['organic'] = {},
+['nissan'] = {},
+['website'] = {},
+['space'] = {},
+['schmidt'] = {},
+['cuisinella'] = {},
+['samsung'] = {},
+['crs'] = {},
+['doosan'] = {},
+['press'] = {},
+['emerck'] = {},
+['erni'] = {},
+['direct'] = {},
+['yandex'] = {},
+['lotto'] = {},
+['toshiba'] = {},
+['bauhaus'] = {},
+['host'] = {},
+['ltda'] = {},
+['global'] = {},
+['abogado'] = {},
+['place'] = {},
+['tirol'] = {},
+['gmx'] = {},
+['tatar'] = {},
+['scholarships'] = {},
+['eurovision'] = {},
+['wedding'] = {},
+['active'] = {},
+['madrid'] = {},
+['youtube'] = {},
+['sharp'] = {},
+['uol'] = {},
+['physio'] = {},
+['gmail'] = {},
+['channel'] = {},
+['fly'] = {},
+['zip'] = {},
+['esq'] = {},
+['rsvp'] = {},
+['wales'] = {},
+['cymru'] = {},
+['green'] = {},
+['lgbt'] = {},
+['网店'] = {},
+['cancerresearch'] = {},
+['everbank'] = {},
+['frl'] = {},
+['property'] = {},
+['forsale'] = {},
+['seat'] = {},
+['deals'] = {},
+['nra'] = {},
+['娱乐'] = {},
+['realtor'] = {},
+['bnpparibas'] = {},
+['melbourne'] = {},
+['hosting'] = {},
+['yoga'] = {},
+['city'] = {},
+['bond'] = {},
+['click'] = {},
+['cern'] = {},
 ['*'] = {}}
 return tld_tree
