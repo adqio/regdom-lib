@@ -52,7 +52,7 @@
 --  bn : http://en.wikipedia.org/wiki/.bn
 --  bo : http://www.nic.bo/
 --  br : http://registro.br/dominio/categoria.html
---  Submitted by registry <fneves@registro.br> 2014-03-04
+--  Submitted by registry <fneves@registro.br> 2014-08-11
 --  bs : http://www.nic.bs/rules.html
 --  bt : http://en.wikipedia.org/wiki/.bt
 --  bv : No registrations at this time.
@@ -401,9 +401,11 @@
 --  Submitted by registry <egullich@colo.to> 2008-06-17
 --  tp : No registrations at this time.
 --  Submitted by Ryan Sleevi <ryan.sleevi@gmail.com> 2014-01-03
---  tr : http://en.wikipedia.org/wiki/.tr
---  Used by government in the TRNC
---  http://en.wikipedia.org/wiki/.nc.tr
+--  subTLDs: https://www.nic.tr/forms/eng/policies.pdf
+--      and: https://www.nic.tr/forms/politikalar.pdf
+--  Submitted by <mehmetgurevin@gmail.com> 2014-07-19
+--  Used by Northern Cyprus
+--  Used by government agencies of Northern Cyprus
 --  travel : http://en.wikipedia.org/wiki/.travel
 --  tt : http://www.nic.tt/
 --  tv : http://en.wikipedia.org/wiki/.tv
@@ -430,6 +432,7 @@
 --  most common ones where it's clear that different sites are different
 --  entities.
 --  k12.hi.us  Bug 614565 - Hawaii has a state-wide DOE login
+--  k12.nd.us  Bug 1028347 - Removed at request of Travis Rosso <trossow@nd.gov>
 --  k12.sd.us  Bug 934131 - Removed at request of James Booze <James.Booze@k12.sd.us>
 --  k12.wv.us  Bug 947705 - Removed at request of Verne Britton <verne@wvnet.edu>
 --  lib.wv.us  Bug 941670 - Removed at request of Larry W Arnold <arnold@wvlc.lib.wv.us>
@@ -857,7 +860,7 @@
 --  airforce : 2014-03-07 United TLD Holdco Ltd.
 --  pictures : 2014-03-07 Foggy Sky, LLC
 --  gripe : 2014-03-07 Corn Sunset, LLC
---  engineering : 2014-03-07 United TLD Holdco Ltd.
+--  engineer : 2014-03-07 United TLD Holdco Ltd.
 --  associates : 2014-03-07 Baxter Hill, LLC
 --  xn--mxtq1m : 2014-03-07 Net-Chinese Co., Ltd.
 --  williamhill : 2014-03-13 William Hill Organization Limited
@@ -962,6 +965,61 @@
 --  bond : 2014-06-05 Bond University Limited 
 --  click : 2014-06-05 Uniregistry, Corp. 
 --  cern : 2014-06-05 European Organization for Nuclear Research ("CERN") 
+--  healthcare : 2014-06-13 Silver Glen, LLC
+--  xn--30rr7y : 2014-06-13 Excellent First Limited
+--  band : 2014-06-13 Auburn Hollow, LLC
+--  xn--9et52u : 2014-06-13 RISE VICTORY LIMITED
+--  world : 2014-06-13 Bitter Fields, LLC
+--  latrobe : 2014-06-16 La Trobe University
+--  bible : 2014-06-19 American Bible Society
+--  java : 2014-06-19 Oracle Corporation
+--  sky : 2014-06-19 Sky IP International Ltd, a company incorporated in England and Wales, operating via its registered Swiss branch
+--  oracle : 2014-06-19 Oracle Corporation
+--  pharmacy : 2014-06-19 National Association of Boards of Pharmacy
+--  dvag : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG
+--  xn--vermgensberater-ctb : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG
+--  xn--vermgensberatung-pwb : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG
+--  montblanc : 2014-06-23 Richemont DNS Inc.
+--  iwc : 2014-06-23 Richemont DNS Inc.
+--  cartier : 2014-06-23 Richemont DNS Inc.
+--  pohl : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG
+--  diet : 2014-06-26 Uniregistry, Corp.
+--  cba : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA
+--  netbank : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA
+--  pictet : 2014-06-26 Pictet Europe S.A.
+--  help : 2014-06-26 Uniregistry, Corp.
+--  pizza : 2014-06-26 Foggy Moon, LLC
+--  garden : 2014-06-26 Top Level Domain Holdings Limited
+--  commbank : 2014-06-26 COMMONWEALTH BANK OF AUSTRALIA
+--  gifts : 2014-07-03 Goose Sky, LLC
+--  fashion : 2014-07-03 Top Level Domain Holdings Limited
+--  tui : 2014-07-03 TUI AG
+--  iinet : 2014-07-03 Connect West Pty. Ltd.
+--  restaurant : 2014-07-03 Snow Avenue, LLC
+--  alsace : 2014-07-02 REGION D ALSACE
+--  poker : 2014-07-03 Afilias Domains No. 5 Limited
+--  allfinanz : 2014-07-03 Allfinanz Deutsche Vermögensberatung Aktiengesellschaft
+--  sarl : 2014-07-03 Delta Orchard, LLC
+--  taipei : 2014-07-10 Taipei City Government
+--  immo : 2014-07-10 Auburn Bloom, LLC
+--  hermes : 2014-07-10 HERMES INTERNATIONAL
+--  rip : 2014-07-10 United TLD Holdco Ltd.
+--  gbiz : 2014-07-17 Charleston Road Registry Inc.
+--  bloomberg : 2014-07-17 Bloomberg IP Holdings LLC
+--  sew : 2014-07-17 SEW-EURODRIVE GmbH & Co KG
+--  prof : 2014-07-24 Charleston Road Registry Inc.
+--  gle : 2014-07-24 Charleston Road Registry Inc.
+--  amsterdam : 2014-07-24 Gemeente Amsterdam
+--  aquarelle : 2014-07-24 Aquarelle.com
+--  nexus : 2014-07-24 Charleston Road Registry Inc.
+--  flsmidth : 2014-07-24 FLSmidth A/S
+--  bnl : 2014-07-24 Banca Nazionale del Lavoro
+--  bcn : 2014-07-24 Municipi de Barcelona
+--  chrome : 2014-07-24 Charleston Road Registry Inc.
+--  google : 2014-07-24 Charleston Road Registry Inc.
+--  barcelona : 2014-07-24 Municipi de Barcelona
+--  cal : 2014-07-24 Charleston Road Registry Inc.
+--  abbott : 2014-07-24 Abbott Laboratories, Inc.
 --  ===END ICANN DOMAINS===
 --  ===BEGIN PRIVATE DOMAINS===
 --  Amazon CloudFront : https://aws.amazon.com/cloudfront/
@@ -1002,6 +1060,8 @@
 --  Submitted by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
 --  Firebase, Inc.
 --  Submitted by Chris Raynor <chris@firebase.com> 2014-01-21
+--  Flynn : https://flynn.io
+--  Submitted by Jonathan Rudenberg <jonathan@flynn.io> 2014-07-12
 --  GitHub, Inc.
 --  Submitted by Ben Toews <btoews@github.com> 2014-02-06
 --  GlobeHosting, Inc.
@@ -1030,6 +1090,8 @@
 --  Submitted by Tim Kramer <tkramer@rhcloud.com> 2012-10-24
 --  priv.at : http://www.nic.priv.at/
 --  Submitted by registry <lendl@nic.at> 2008-06-09
+--  Yola : https://www.yola.com/
+--  Submitted by Stefano Rivera <stefano@yola.com> 2014-07-09
 --  ZaNiC : http://www.za.net/
 --  Submitted by registry <hostmaster@nic.za.net> 2009-10-03
 --  ===END PRIVATE DOMAINS===
@@ -1377,7 +1439,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['mp'] = {},
 ['mus'] = {},
 ['net'] = {},
-['nom'] = {},
+['nom'] = {['*'] = {}},
 ['not'] = {},
 ['ntr'] = {},
 ['odo'] = {},
@@ -1742,6 +1804,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['teaches-yoga'] = {},
 ['writesthisblog'] = {},
 ['firebaseapp'] = {},
+['flynnhub'] = {},
 ['githubusercontent'] = {},
 ['ro'] = {},
 ['appspot'] = {},
@@ -1755,7 +1818,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['nfshost'] = {},
 ['operaunite'] = {},
 ['outsystemscloud'] = {},
-['rhcloud'] = {}},
+['rhcloud'] = {},
+['yolasite'] = {}},
 ['coop'] = {},
 ['cr'] = {['ac'] = {},
 ['co'] = {},
@@ -1850,7 +1914,13 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['org'] = {},
 ['gob'] = {},
 ['edu'] = {}},
-['et'] = {['*'] = {}},
+['et'] = {['com'] = {},
+['gov'] = {},
+['org'] = {},
+['edu'] = {},
+['biz'] = {},
+['name'] = {},
+['info'] = {}},
 ['eu'] = {},
 ['fi'] = {['aland'] = {},
 ['blogspot'] = {},
@@ -6546,8 +6616,26 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['edu'] = {},
 ['mil'] = {}},
 ['tp'] = {},
-['tr'] = {['*'] = {},
-['nic'] = {['!'] = {}},
+['tr'] = {['com'] = {},
+['info'] = {},
+['biz'] = {},
+['net'] = {},
+['org'] = {},
+['web'] = {},
+['gen'] = {},
+['tv'] = {},
+['av'] = {},
+['dr'] = {},
+['bbs'] = {},
+['name'] = {},
+['tel'] = {},
+['gov'] = {},
+['bel'] = {},
+['pol'] = {},
+['mil'] = {},
+['k12'] = {},
+['edu'] = {},
+['kep'] = {},
 ['nc'] = {['gov'] = {}}},
 ['travel'] = {},
 ['tt'] = {['co'] = {},
@@ -6790,8 +6878,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['nc'] = {['k12'] = {},
 ['cc'] = {},
 ['lib'] = {}},
-['nd'] = {['k12'] = {},
-['cc'] = {},
+['nd'] = {['cc'] = {},
 ['lib'] = {}},
 ['ne'] = {['k12'] = {},
 ['cc'] = {},
@@ -7301,6 +7388,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['airforce'] = {},
 ['pictures'] = {},
 ['gripe'] = {},
+['engineer'] = {},
 ['associates'] = {},
 ['政府'] = {},
 ['williamhill'] = {},
@@ -7405,5 +7493,60 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['bond'] = {},
 ['click'] = {},
 ['cern'] = {},
+['healthcare'] = {},
+['慈善'] = {},
+['band'] = {},
+['时尚'] = {},
+['world'] = {},
+['latrobe'] = {},
+['bible'] = {},
+['java'] = {},
+['sky'] = {},
+['oracle'] = {},
+['pharmacy'] = {},
+['dvag'] = {},
+['vermögensberater'] = {},
+['vermögensberatung'] = {},
+['montblanc'] = {},
+['iwc'] = {},
+['cartier'] = {},
+['pohl'] = {},
+['diet'] = {},
+['cba'] = {},
+['netbank'] = {},
+['pictet'] = {},
+['help'] = {},
+['pizza'] = {},
+['garden'] = {},
+['commbank'] = {},
+['gifts'] = {},
+['fashion'] = {},
+['tui'] = {},
+['iinet'] = {},
+['restaurant'] = {},
+['alsace'] = {},
+['poker'] = {},
+['allfinanz'] = {},
+['sarl'] = {},
+['taipei'] = {},
+['immo'] = {},
+['hermes'] = {},
+['rip'] = {},
+['gbiz'] = {},
+['bloomberg'] = {},
+['sew'] = {},
+['prof'] = {},
+['gle'] = {},
+['amsterdam'] = {},
+['aquarelle'] = {},
+['nexus'] = {},
+['flsmidth'] = {},
+['bnl'] = {},
+['bcn'] = {},
+['chrome'] = {},
+['google'] = {},
+['barcelona'] = {},
+['cal'] = {},
+['abbott'] = {},
 ['*'] = {}}
 return tld_tree
