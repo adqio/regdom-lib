@@ -175,7 +175,7 @@
 --  Submitted by registry <info@nic.im> 2013-11-15
 --  in : http://en.wikipedia.org/wiki/.in
 --  see also: https://registry.in/Policies
---  Please note, that nic.in is not an offical eTLD, but used by most
+--  Please note, that nic.in is not an official eTLD, but used by most
 --  government institutions.
 --  info : http://en.wikipedia.org/wiki/.info
 --  int : http://en.wikipedia.org/wiki/.int
@@ -340,7 +340,7 @@
 --  qa : http://domains.qa/en/
 --  re : http://www.afnic.re/obtenir/chartes/nommage-re/annexe-descriptifs
 --  ro : http://www.rotld.ro/
---  rs : http://en.wikipedia.org/wiki/.rs
+--  rs : https://www.rnids.rs/en/domains/national-domains
 --  ru : http://www.cctld.ru/ru/docs/aktiv_8.php
 --  Industry domains
 --  Geographical domains
@@ -396,8 +396,6 @@
 --  http://whois.ati.tn/
 --  to : http://en.wikipedia.org/wiki/.to
 --  Submitted by registry <egullich@colo.to> 2008-06-17
---  tp : No registrations at this time.
---  Submitted by Ryan Sleevi <ryan.sleevi@gmail.com> 2014-01-03
 --  subTLDs: https://www.nic.tr/forms/eng/policies.pdf
 --      and: https://www.nic.tr/forms/politikalar.pdf
 --  Submitted by <mehmetgurevin@gmail.com> 2014-07-19
@@ -433,8 +431,8 @@
 --  k12.wv.us  Bug 947705 - Removed at request of Verne Britton <verne@wvnet.edu>
 --  lib.wv.us  Bug 941670 - Removed at request of Larry W Arnold <arnold@wvlc.lib.wv.us>
 --  k12.ma.us contains school districts in Massachusetts. The 4LDs are
---   managed indepedently except for private (PVT), charter (CHTR) and
---   parochial (PAROCH) schools.  Those are delegated dorectly to the
+--   managed independently except for private (PVT), charter (CHTR) and
+--   parochial (PAROCH) schools.  Those are delegated directly to the
 --   5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.net>
 --  uy : http://www.nic.org.uy/
 --  uz : http://www.reg.uz/
@@ -525,7 +523,7 @@
 --  The Palestinian National Internet Naming Authority (PNINA)
 --  http://www.pnina.ps
 --  xn--90a3ac ("srb", Cyrillic) : RS
---  http://www.rnids.rs/en/the-.срб-domain
+--  https://www.rnids.rs/en/domains/national-domains
 --  xn--p1ai ("rf", Russian-Cyrillic) : RU
 --  http://www.cctld.ru/en/docs/rulesrf.php
 --  xn--wgbl6a ("Qatar", Arabic) : QA
@@ -557,7 +555,7 @@
 --  za : http://www.zadna.org.za/content/page/domain-information
 --  zm : http://en.wikipedia.org/wiki/.zm
 --  zw : http://en.wikipedia.org/wiki/.zw
---  List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2015-11-12T22:43:48Z
+--  List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2016-01-04T22:39:54Z
 --  aaa : 2015-02-26 American Automobile Association, Inc.
 --  aarp : 2015-05-21 AARP
 --  abarth : 2015-07-30 Fiat Chrysler Automobiles N.V.
@@ -615,6 +613,7 @@
 --  app : 2015-05-14 Charleston Road Registry Inc.
 --  apple : 2015-05-14 Apple Inc.
 --  aquarelle : 2014-07-24 Aquarelle.com
+--  arab : 2015-11-12 League of Arab States
 --  aramco : 2014-11-20 Aramco Services Company
 --  archi : 2014-02-06 STARTING DOT LIMITED
 --  army : 2014-03-06 United TLD Holdco Ltd.
@@ -657,6 +656,7 @@
 --  bcg : 2015-04-02 The Boston Consulting Group, Inc.
 --  bcn : 2014-07-24 Municipi de Barcelona
 --  beats : 2015-05-14 Beats Electronics, LLC
+--  beauty : 2015-12-03 L'Oréal
 --  beer : 2014-01-09 Top Level Domain Holdings Limited
 --  bentley : 2014-12-18 Bentley Motors Limited
 --  berlin : 2013-10-31 dotBERLIN GmbH & Co. KG
@@ -692,8 +692,10 @@
 --  boots : 2015-01-08 THE BOOTS COMPANY PLC
 --  bosch : 2015-06-18 Robert Bosch GMBH
 --  bostik : 2015-05-28 Bostik SA
+--  boston : 2015-12-10 Boston Globe Media Partners, LLC
 --  bot : 2014-12-18 Amazon EU S.à r.l.
 --  boutique : 2013-11-14 Over Galley, LLC
+--  box : 2015-11-12 NS1 Limited
 --  bradesco : 2014-12-18 Banco Bradesco S.A.
 --  bridgestone : 2014-12-18 Bridgestone Corporation
 --  broadway : 2014-12-22 Celebrate Broadway, Inc.
@@ -804,6 +806,7 @@
 --  cricket : 2014-10-09 dot Cricket Limited
 --  crown : 2014-10-24 Crown Equipment Corporation
 --  crs : 2014-04-03 Federated Co-operatives Limited
+--  cruise : 2015-12-10 Viking River Cruises (Bermuda) Ltd.
 --  cruises : 2013-12-05 Spring Way, LLC
 --  csc : 2014-09-25 Alliance-One Services, Inc.
 --  cuisinella : 2014-04-03 SALM S.A.S.
@@ -936,6 +939,7 @@
 --  forum : 2015-04-02 Fegistry, LLC
 --  foundation : 2013-12-05 John Dale, LLC
 --  fox : 2015-09-11 FOX Registry, LLC
+--  free : 2015-12-10 Amazon EU S.à r.l.
 --  fresenius : 2015-07-30 Fresenius Immobilien-Verwaltungs-GmbH
 --  frl : 2014-05-15 FRLregistry B.V.
 --  frogans : 2013-12-19 OP3FT
@@ -999,6 +1003,7 @@
 --  guide : 2013-09-13 Snow Moon, LLC
 --  guitars : 2013-11-14 Uniregistry, Corp.
 --  guru : 2013-08-27 Pioneer Cypress, LLC
+--  hair : 2015-12-03 L'Oréal
 --  hamburg : 2014-02-20 Hamburg Top-Level-Domain GmbH
 --  hangout : 2014-11-13 Charleston Road Registry Inc.
 --  haus : 2013-12-05
@@ -1015,7 +1020,7 @@
 --  hiphop : 2014-03-06 Uniregistry, Corp.
 --  hisamitsu : 2015-07-16 Hisamitsu Pharmaceutical Co.,Inc.
 --  hitachi : 2014-10-31 Hitachi, Ltd.
---  hiv : 2014-03-13 dotHIV gemeinnuetziger e.V.
+--  hiv : 2014-03-13
 --  hkt : 2015-05-14 PCCW-HKT DataCom Services Limited
 --  hockey : 2015-03-19 Half Willow, LLC
 --  holdings : 2013-08-27 John Madison, LLC
@@ -1350,7 +1355,7 @@
 --  productions : 2013-12-05 Magic Birch, LLC
 --  prof : 2014-07-24 Charleston Road Registry Inc.
 --  progressive : 2015-07-23 Progressive Casualty Insurance Company
---  promo : 2014-12-18 Play.PROMO Oy
+--  promo : 2014-12-18
 --  properties : 2013-12-05 Big Pass, LLC
 --  property : 2014-05-22 Uniregistry, Corp.
 --  protection : 2015-04-23
@@ -1395,6 +1400,7 @@
 --  ril : 2015-04-02 Reliance Industries Limited
 --  rio : 2014-02-27 Empresa Municipal de Informática SA - IPLANRIO
 --  rip : 2014-07-10 United TLD Holdco Ltd.
+--  rmit : 2015-11-19 Royal Melbourne Institute of Technology
 --  rocher : 2014-12-18 Ferrero Trading Lux S.A.
 --  rocks : 2013-11-14
 --  rodeo : 2013-12-19 Top Level Domain Holdings Limited
@@ -1609,6 +1615,7 @@
 --  vlaanderen : 2014-02-06 DNS.be vzw
 --  vodka : 2013-12-19 Top Level Domain Holdings Limited
 --  volkswagen : 2015-05-14 Volkswagen Group of America Inc.
+--  volvo : 2015-11-12 Volvo Holding Sverige Aktiebolag
 --  vote : 2013-11-21 Monolith Registry LLC
 --  voting : 2013-11-13 Valuetainment Corp.
 --  voto : 2013-11-21 Monolith Registry LLC
@@ -1724,6 +1731,7 @@
 --  xn--mxtq1m : 2014-03-06 Net-Chinese Co., Ltd.
 --  xn--ngbc5azd : 2013-07-13 International Domain Registry Pty. Ltd.
 --  xn--ngbe9e0a : 2014-12-04 Kuwait Finance House
+--  xn--ngbrx : 2015-11-12 League of Arab States
 --  xn--nqv7f : 2013-11-14 Public Interest Registry
 --  xn--nqv7fs00ema : 2013-11-14 Public Interest Registry
 --  xn--nyqy26a : 2014-11-07 Stable Tone Limited
@@ -1806,6 +1814,8 @@
 --  Submitted by Jonathan Rudenberg <jonathan@cupcake.io> 2013-10-08
 --  DreamHost : http://www.dreamhost.com/
 --  Submitted by Andrew Farmer <andrew.farmer@dreamhost.com> 2012-10-02
+--  Drobo : http://www.drobo.com/
+--  Submitted by Ricardo Padilha <rpadilha@drobo.com> 2015-12-17
 --  DuckDNS : http://www.duckdns.org/
 --  Submitted by Richard Harper <richard@duckdns.org> 2015-05-17
 --  DynDNS.com : http://www.dyndns.com/services/dns/dyndns/
@@ -1825,6 +1835,7 @@
 --  Submitted by Zoltan Egresi <egresi@globehosting.com> 2013-07-12
 --  Google, Inc.
 --  Submitted by Eduardo Vela <evn@google.com> 2014-12-19
+--  Hashbang : https://hashbang.sh
 --  Heroku : https://www.heroku.com/
 --  Submitted by Tom Maher <tmaher@heroku.com> 2013-05-02
 --  iki.fi
@@ -1849,6 +1860,8 @@
 --  Submitted by Yngve Pettersen <yngve@opera.com> 2009-11-26
 --  OutSystems
 --  Submitted by Duarte Santos <domain-admin@outsystemscloud.com> 2014-03-11
+--  Pagefront : https://www.pagefronthq.com/
+--  Submitted by Jason Kriss <jason@pagefronthq.com> 2015-12-02
 --  .pl domains (grandfathered)
 --  Pantheon Systems, Inc. : https://pantheon.io/
 --  Submitted by Gary Dylina <gary@pantheon.io> 2015-09-14
@@ -1856,6 +1869,8 @@
 --  Submitted by registry <lendl@nic.at> 2008-06-09
 --  QA2
 --  Submitted by Daniel Dent (https://www.danieldent.com/) 2015-07-16
+--  Rackmaze LLC : https://www.rackmaze.com
+--  Submitted by Kirill Pertsev <kika@rackmaze.com> 2015-12-02
 --  Red Hat, Inc. OpenShift : https://openshift.redhat.com/
 --  Submitted by Tim Kramer <tkramer@rhcloud.com> 2012-10-24
 --  Sandstorm Development Group, Inc. : https://sandcats.io/
@@ -1864,6 +1879,8 @@
 --  Submitted by Serhii Bulakh <support@drs.ua> 2015-07-30
 --  SinaAppEngine : http://sae.sina.com.cn/
 --  Submitted by SinaAppEngine <saesupport@sinacloud.com> 2015-02-02
+--  Synology, Inc. : https://www.synology.com/
+--  Submitted by Rony Weng <ronyweng@synology.com> 2015-12-02
 --  TASK geographical domains (www.task.gda.pl/uslugi/dns)
 --  UDR Limited : http://www.udr.hk.com
 --  Submitted by registry <hostmaster@udr.hk.com> 2014-11-07
@@ -1946,7 +1963,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['logistics'] = {},
 ['magazine'] = {},
 ['maintenance'] = {},
-['marketplace'] = {},
 ['media'] = {},
 ['microlight'] = {},
 ['modelling'] = {},
@@ -1969,7 +1985,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['skydiving'] = {},
 ['software'] = {},
 ['student'] = {},
-['taxi'] = {},
 ['trader'] = {},
 ['trading'] = {},
 ['trainer'] = {},
@@ -2150,7 +2165,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['for-some'] = {},
 ['for-the'] = {},
 ['selfip'] = {},
-['webhop'] = {}},
+['webhop'] = {},
+['dscloud'] = {}},
 ['bj'] = {['asso'] = {},
 ['barreau'] = {},
 ['gouv'] = {},
@@ -2427,6 +2443,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['cloudcontrolled'] = {},
 ['cloudcontrolapp'] = {},
 ['dreamhosters'] = {},
+['mydrobo'] = {},
 ['dyndns-at-home'] = {},
 ['dyndns-at-work'] = {},
 ['dyndns-blog'] = {},
@@ -2595,12 +2612,16 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['nfshost'] = {},
 ['operaunite'] = {},
 ['outsystemscloud'] = {},
+['pagefrontapp'] = {},
 ['gotpantheon'] = {},
 ['qa2'] = {},
+['rackmaze'] = {},
 ['rhcloud'] = {},
 ['sinaapp'] = {},
 ['vipsinaapp'] = {},
 ['1kapp'] = {},
+['dsmynas'] = {},
+['familyds'] = {},
 ['hk'] = {},
 ['yolasite'] = {}},
 ['coop'] = {},
@@ -2812,7 +2833,10 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['gw'] = {},
 ['gy'] = {['co'] = {},
 ['com'] = {},
-['net'] = {}},
+['edu'] = {},
+['gov'] = {},
+['net'] = {},
+['org'] = {}},
 ['hk'] = {['com'] = {},
 ['edu'] = {},
 ['gov'] = {},
@@ -5275,7 +5299,12 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['ac'] = {},
 ['gov'] = {},
 ['its'] = {},
-['priv'] = {}},
+['priv'] = {},
+['diskstation'] = {},
+['dscloud'] = {},
+['i234'] = {},
+['myds'] = {},
+['synology'] = {}},
 ['mg'] = {['org'] = {},
 ['nom'] = {},
 ['gov'] = {},
@@ -5312,7 +5341,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['org'] = {},
 ['edu'] = {},
 ['gov'] = {}},
-['mobi'] = {},
+['mobi'] = {['dscloud'] = {}},
 ['mp'] = {},
 ['mq'] = {},
 ['mr'] = {['gov'] = {},
@@ -5992,9 +6021,13 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['global'] = {}},
 ['prod'] = {['a'] = {},
 ['global'] = {}}},
+['cloudfunctions'] = {},
 ['azurewebsites'] = {},
 ['azure-mobile'] = {},
 ['cloudapp'] = {},
+['rackmaze'] = {},
+['dsmynas'] = {},
+['familyds'] = {},
 ['za'] = {}},
 ['nf'] = {['com'] = {},
 ['net'] = {},
@@ -6915,6 +6948,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['uk'] = {},
 ['us'] = {}},
 ['bmoattachments'] = {},
+['dsmynas'] = {},
+['familyds'] = {},
 ['hk'] = {},
 ['za'] = {}},
 ['pa'] = {['ac'] = {},
@@ -7238,28 +7273,28 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['org'] = {},
 ['sch'] = {},
 ['blogspot'] = {}},
-['re'] = {['com'] = {},
-['asso'] = {},
+['re'] = {['asso'] = {},
+['com'] = {},
 ['nom'] = {},
 ['blogspot'] = {}},
-['ro'] = {['com'] = {},
-['org'] = {},
-['tm'] = {},
-['nt'] = {},
-['nom'] = {},
-['info'] = {},
-['rec'] = {},
-['arts'] = {},
+['ro'] = {['arts'] = {},
+['com'] = {},
 ['firm'] = {},
+['info'] = {},
+['nom'] = {},
+['nt'] = {},
+['org'] = {},
+['rec'] = {},
 ['store'] = {},
+['tm'] = {},
 ['www'] = {},
 ['blogspot'] = {}},
-['rs'] = {['co'] = {},
-['org'] = {},
+['rs'] = {['ac'] = {},
+['co'] = {},
 ['edu'] = {},
-['ac'] = {},
 ['gov'] = {},
 ['in'] = {},
+['org'] = {},
 ['blogspot'] = {}},
 ['ru'] = {['ac'] = {},
 ['com'] = {},
@@ -7480,7 +7515,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['gov'] = {},
 ['org'] = {},
 ['mil'] = {},
-['platform'] = {['*'] = {}}},
+['platform'] = {['*'] = {}},
+['hashbang'] = {}},
 ['si'] = {['blogspot'] = {}},
 ['sj'] = {},
 ['sk'] = {['blogspot'] = {}},
@@ -7624,7 +7660,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['org'] = {},
 ['edu'] = {},
 ['mil'] = {}},
-['tp'] = {},
 ['tr'] = {['com'] = {['blogspot'] = {}},
 ['info'] = {},
 ['biz'] = {},
@@ -8092,7 +8127,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['xxx'] = {},
 ['ye'] = {['*'] = {}},
 ['za'] = {['ac'] = {},
-['agrica'] = {},
+['agric'] = {},
 ['alt'] = {},
 ['co'] = {['blogspot'] = {}},
 ['edu'] = {},
@@ -8167,6 +8202,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['app'] = {},
 ['apple'] = {},
 ['aquarelle'] = {},
+['arab'] = {},
 ['aramco'] = {},
 ['archi'] = {},
 ['army'] = {},
@@ -8209,6 +8245,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['bcg'] = {},
 ['bcn'] = {},
 ['beats'] = {},
+['beauty'] = {},
 ['beer'] = {},
 ['bentley'] = {},
 ['berlin'] = {},
@@ -8244,8 +8281,10 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['boots'] = {},
 ['bosch'] = {},
 ['bostik'] = {},
+['boston'] = {},
 ['bot'] = {},
 ['boutique'] = {},
+['box'] = {},
 ['bradesco'] = {},
 ['bridgestone'] = {},
 ['broadway'] = {},
@@ -8356,6 +8395,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['cricket'] = {},
 ['crown'] = {},
 ['crs'] = {},
+['cruise'] = {},
 ['cruises'] = {},
 ['csc'] = {},
 ['cuisinella'] = {},
@@ -8488,6 +8528,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['forum'] = {},
 ['foundation'] = {},
 ['fox'] = {},
+['free'] = {},
 ['fresenius'] = {},
 ['frl'] = {},
 ['frogans'] = {},
@@ -8551,6 +8592,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['guide'] = {},
 ['guitars'] = {},
 ['guru'] = {},
+['hair'] = {},
 ['hamburg'] = {},
 ['hangout'] = {},
 ['haus'] = {},
@@ -8947,6 +8989,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['ril'] = {},
 ['rio'] = {},
 ['rip'] = {},
+['rmit'] = {},
 ['rocher'] = {},
 ['rocks'] = {},
 ['rodeo'] = {},
@@ -9161,6 +9204,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['vlaanderen'] = {},
 ['vodka'] = {},
 ['volkswagen'] = {},
+['volvo'] = {},
 ['vote'] = {},
 ['voting'] = {},
 ['voto'] = {},
@@ -9276,6 +9320,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['政府'] = {},
 ['شبكة'] = {},
 ['بيتك'] = {},
+['عرب'] = {},
 ['机构'] = {},
 ['组织机构'] = {},
 ['健康'] = {},
