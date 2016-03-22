@@ -7,7 +7,19 @@ defmodule Regdom.Mixfile do
      elixir: "~> 1.2",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
-     deps: deps]
+     deps: deps,
+     description: "elixir port of regdom-lib",
+     package: [
+       maintainers: ["Jason Fertel"],
+       licenses: ["Apache 2.0"],
+       links: %{"GitHub" => "https://github.com/adqio/regdom-lib"}
+     ],
+     name: "Regdom",
+     docs: [source_ref: "v#{@version}", main: "Regdom",
+       canonical: "http://hexdocs.pm/regdom",
+       source_url: "https://github.com/adqio/regdom-lib"
+       ]
+     ]
   end
 
   # Configuration for the OTP application
@@ -28,7 +40,8 @@ defmodule Regdom.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:fast_yaml, "~> 1.0",only: :test}
+      {:earmark, "~> 0.1", only: :dev},
+      {:ex_doc, "~> 0.11", only: :dev}
   ]
   end
 end
