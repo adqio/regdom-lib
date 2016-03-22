@@ -3,7 +3,7 @@ defmodule RegdomTest do
   doctest Regdom
   test "domains" do
     Enum.each RegdomTest.Fixtures.fixtures["test_cases"], fn (fixture)->
-      assert Regdom.get_registered_domain(fixture["url"]) == fixture["domain"]
+      assert Regdom.get_registered_domain(fixture["url"],false) == fixture["domain"]
     end
   end
   test "strict domains" do
