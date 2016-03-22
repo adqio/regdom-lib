@@ -1,28 +1,28 @@
 --  This Source Code Form is subject to the terms of the Mozilla Public
 --  License, v. 2.0. If a copy of the MPL was not distributed with this
---  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+--  file, You can obtain one at https://mozilla.org/MPL/2.0/.
 --  ===BEGIN ICANN DOMAINS===
---  ac : http://en.wikipedia.org/wiki/.ac
---  ad : http://en.wikipedia.org/wiki/.ad
---  ae : http://en.wikipedia.org/wiki/.ae
+--  ac : https://en.wikipedia.org/wiki/.ac
+--  ad : https://en.wikipedia.org/wiki/.ad
+--  ae : https://en.wikipedia.org/wiki/.ae
 --  see also: "Domain Name Eligibility Policy" at http://www.aeda.ae/eng/aepolicy.php
---  aero : see http://www.information.aero/index.php?id=66
+--  aero : see https://www.information.aero/index.php?id=66
 --  af : http://www.nic.af/help.jsp
 --  ag : http://www.nic.ag/prices.htm
 --  ai : http://nic.com.ai/
 --  al : http://www.ert.gov.al/ert_alb/faq_det.html?Id=31
---  am : http://en.wikipedia.org/wiki/.am
---  ao : http://en.wikipedia.org/wiki/.ao
+--  am : https://en.wikipedia.org/wiki/.am
+--  ao : https://en.wikipedia.org/wiki/.ao
 --  http://www.dns.ao/REGISTR.DOC
---  aq : http://en.wikipedia.org/wiki/.aq
+--  aq : https://en.wikipedia.org/wiki/.aq
 --  ar : https://nic.ar/normativa-vigente.xhtml
---  arpa : http://en.wikipedia.org/wiki/.arpa
+--  arpa : https://en.wikipedia.org/wiki/.arpa
 --  Confirmed by registry <iana-questions@icann.org> 2008-06-18
---  as : http://en.wikipedia.org/wiki/.as
---  asia : http://en.wikipedia.org/wiki/.asia
---  at : http://en.wikipedia.org/wiki/.at
+--  as : https://en.wikipedia.org/wiki/.as
+--  asia : https://en.wikipedia.org/wiki/.asia
+--  at : https://en.wikipedia.org/wiki/.at
 --  Confirmed by registry <it@nic.at> 2008-06-17
---  au : http://en.wikipedia.org/wiki/.au
+--  au : https://en.wikipedia.org/wiki/.au
 --  http://www.auda.org.au/
 --  2LDs
 --  Historic 2LDs (closed to new registration, but sites still exist)
@@ -31,154 +31,154 @@
 --  act.gov.au  Bug 984824 - Removed at request of Greg Tankard
 --  nsw.gov.au  Bug 547985 - Removed at request of <Shae.Donelan@services.nsw.gov.au>
 --  nt.gov.au  Bug 940478 - Removed at request of Greg Connors <Greg.Connors@nt.gov.au>
---  aw : http://en.wikipedia.org/wiki/.aw
---  ax : http://en.wikipedia.org/wiki/.ax
---  az : http://en.wikipedia.org/wiki/.az
---  ba : http://en.wikipedia.org/wiki/.ba
---  bb : http://en.wikipedia.org/wiki/.bb
---  bd : http://en.wikipedia.org/wiki/.bd
---  be : http://en.wikipedia.org/wiki/.be
+--  aw : https://en.wikipedia.org/wiki/.aw
+--  ax : https://en.wikipedia.org/wiki/.ax
+--  az : https://en.wikipedia.org/wiki/.az
+--  ba : https://en.wikipedia.org/wiki/.ba
+--  bb : https://en.wikipedia.org/wiki/.bb
+--  bd : https://en.wikipedia.org/wiki/.bd
+--  be : https://en.wikipedia.org/wiki/.be
 --  Confirmed by registry <tech@dns.be> 2008-06-08
---  bf : http://en.wikipedia.org/wiki/.bf
---  bg : http://en.wikipedia.org/wiki/.bg
+--  bf : https://en.wikipedia.org/wiki/.bf
+--  bg : https://en.wikipedia.org/wiki/.bg
 --  https://www.register.bg/user/static/rules/en/index.html
---  bh : http://en.wikipedia.org/wiki/.bh
---  bi : http://en.wikipedia.org/wiki/.bi
+--  bh : https://en.wikipedia.org/wiki/.bh
+--  bi : https://en.wikipedia.org/wiki/.bi
 --  http://whois.nic.bi/
---  biz : http://en.wikipedia.org/wiki/.biz
---  bj : http://en.wikipedia.org/wiki/.bj
+--  biz : https://en.wikipedia.org/wiki/.biz
+--  bj : https://en.wikipedia.org/wiki/.bj
 --  bm : http://www.bermudanic.bm/dnr-text.txt
---  bn : http://en.wikipedia.org/wiki/.bn
+--  bn : https://en.wikipedia.org/wiki/.bn
 --  bo : http://www.nic.bo/
 --  br : http://registro.br/dominio/categoria.html
---  Submitted by registry <fneves@registro.br> 2014-08-11
+--  Submitted by registry <fneves@registro.br>
 --  bs : http://www.nic.bs/rules.html
---  bt : http://en.wikipedia.org/wiki/.bt
+--  bt : https://en.wikipedia.org/wiki/.bt
 --  bv : No registrations at this time.
---  Submitted by registry <jarle@uninett.no> 2006-06-16
---  bw : http://en.wikipedia.org/wiki/.bw
+--  Submitted by registry <jarle@uninett.no>
+--  bw : https://en.wikipedia.org/wiki/.bw
 --  http://www.gobin.info/domainname/bw.doc
 --  list of other 2nd level tlds ?
---  by : http://en.wikipedia.org/wiki/.by
+--  by : https://en.wikipedia.org/wiki/.by
 --  http://tld.by/rules_2006_en.html
 --  list of other 2nd level tlds ?
 --  Official information does not indicate that com.by is a reserved
 --  second-level domain, but it's being used as one (see www.google.com.by and
 --  www.yahoo.com.by, for example), so we list it here for safety's sake.
 --  http://hoster.by/
---  bz : http://en.wikipedia.org/wiki/.bz
+--  bz : https://en.wikipedia.org/wiki/.bz
 --  http://www.belizenic.bz/
---  ca : http://en.wikipedia.org/wiki/.ca
+--  ca : https://en.wikipedia.org/wiki/.ca
 --  ca geographical names
---  gc.ca: http://en.wikipedia.org/wiki/.gc.ca
+--  gc.ca: https://en.wikipedia.org/wiki/.gc.ca
 --  see also: http://registry.gc.ca/en/SubdomainFAQ
---  cat : http://en.wikipedia.org/wiki/.cat
---  cc : http://en.wikipedia.org/wiki/.cc
---  cd : http://en.wikipedia.org/wiki/.cd
+--  cat : https://en.wikipedia.org/wiki/.cat
+--  cc : https://en.wikipedia.org/wiki/.cc
+--  cd : https://en.wikipedia.org/wiki/.cd
 --  see also: https://www.nic.cd/domain/insertDomain_2.jsp?act=1
---  cf : http://en.wikipedia.org/wiki/.cf
---  cg : http://en.wikipedia.org/wiki/.cg
---  ch : http://en.wikipedia.org/wiki/.ch
---  ci : http://en.wikipedia.org/wiki/.ci
+--  cf : https://en.wikipedia.org/wiki/.cf
+--  cg : https://en.wikipedia.org/wiki/.cg
+--  ch : https://en.wikipedia.org/wiki/.ch
+--  ci : https://en.wikipedia.org/wiki/.ci
 --  http://www.nic.ci/index.php?page=charte
---  ck : http://en.wikipedia.org/wiki/.ck
---  cl : http://en.wikipedia.org/wiki/.cl
---  cm : http://en.wikipedia.org/wiki/.cm plus bug 981927
---  cn : http://en.wikipedia.org/wiki/.cn
---  Submitted by registry <tanyaling@cnnic.cn> 2008-06-11
+--  ck : https://en.wikipedia.org/wiki/.ck
+--  cl : https://en.wikipedia.org/wiki/.cl
+--  cm : https://en.wikipedia.org/wiki/.cm plus bug 981927
+--  cn : https://en.wikipedia.org/wiki/.cn
+--  Submitted by registry <tanyaling@cnnic.cn>
 --  cn geographic names
---  co : http://en.wikipedia.org/wiki/.co
---  Submitted by registry <tecnico@uniandes.edu.co> 2008-06-11
---  com : http://en.wikipedia.org/wiki/.com
---  coop : http://en.wikipedia.org/wiki/.coop
+--  co : https://en.wikipedia.org/wiki/.co
+--  Submitted by registry <tecnico@uniandes.edu.co>
+--  com : https://en.wikipedia.org/wiki/.com
+--  coop : https://en.wikipedia.org/wiki/.coop
 --  cr : http://www.nic.cr/niccr_publico/showRegistroDominiosScreen.do
---  cu : http://en.wikipedia.org/wiki/.cu
---  cv : http://en.wikipedia.org/wiki/.cv
+--  cu : https://en.wikipedia.org/wiki/.cu
+--  cv : https://en.wikipedia.org/wiki/.cv
 --  cw : http://www.una.cw/cw_registry/
 --  Confirmed by registry <registry@una.net> 2013-03-26
---  cx : http://en.wikipedia.org/wiki/.cx
+--  cx : https://en.wikipedia.org/wiki/.cx
 --  list of other 2nd level tlds ?
---  cy : http://en.wikipedia.org/wiki/.cy
---  cz : http://en.wikipedia.org/wiki/.cz
---  de : http://en.wikipedia.org/wiki/.de
+--  cy : https://en.wikipedia.org/wiki/.cy
+--  cz : https://en.wikipedia.org/wiki/.cz
+--  de : https://en.wikipedia.org/wiki/.de
 --  Confirmed by registry <ops@denic.de> (with technical
 --  reservations) 2008-07-01
---  dj : http://en.wikipedia.org/wiki/.dj
---  dk : http://en.wikipedia.org/wiki/.dk
+--  dj : https://en.wikipedia.org/wiki/.dj
+--  dk : https://en.wikipedia.org/wiki/.dk
 --  Confirmed by registry <robert@dk-hostmaster.dk> 2008-06-17
---  dm : http://en.wikipedia.org/wiki/.dm
---  do : http://en.wikipedia.org/wiki/.do
---  dz : http://en.wikipedia.org/wiki/.dz
+--  dm : https://en.wikipedia.org/wiki/.dm
+--  do : https://en.wikipedia.org/wiki/.do
+--  dz : https://en.wikipedia.org/wiki/.dz
 --  ec : http://www.nic.ec/reg/paso1.asp
---  Submitted by registry <vabboud@nic.ec> 2008-07-04
---  edu : http://en.wikipedia.org/wiki/.edu
+--  Submitted by registry <vabboud@nic.ec>
+--  edu : https://en.wikipedia.org/wiki/.edu
 --  ee : http://www.eenet.ee/EENet/dom_reeglid.html#lisa_B
---  eg : http://en.wikipedia.org/wiki/.eg
---  er : http://en.wikipedia.org/wiki/.er
+--  eg : https://en.wikipedia.org/wiki/.eg
+--  er : https://en.wikipedia.org/wiki/.er
 --  es : https://www.nic.es/site_ingles/ingles/dominios/index.html
---  et : http://en.wikipedia.org/wiki/.et
---  eu : http://en.wikipedia.org/wiki/.eu
---  fi : http://en.wikipedia.org/wiki/.fi
---  aland.fi : http://en.wikipedia.org/wiki/.ax
+--  et : https://en.wikipedia.org/wiki/.et
+--  eu : https://en.wikipedia.org/wiki/.eu
+--  fi : https://en.wikipedia.org/wiki/.fi
+--  aland.fi : https://en.wikipedia.org/wiki/.ax
 --  This domain is being phased out in favor of .ax. As there are still many
 --  domains under aland.fi, we still keep it on the list until aland.fi is
 --  completely removed.
 --  TODO: Check for updates (expected to be phased out around Q1/2009)
---  fj : http://en.wikipedia.org/wiki/.fj
---  fk : http://en.wikipedia.org/wiki/.fk
---  fm : http://en.wikipedia.org/wiki/.fm
---  fo : http://en.wikipedia.org/wiki/.fo
+--  fj : https://en.wikipedia.org/wiki/.fj
+--  fk : https://en.wikipedia.org/wiki/.fk
+--  fm : https://en.wikipedia.org/wiki/.fm
+--  fo : https://en.wikipedia.org/wiki/.fo
 --  fr : http://www.afnic.fr/
 --  domaines descriptifs : http://www.afnic.fr/obtenir/chartes/nommage-fr/annexe-descriptifs
 --  domaines sectoriels : http://www.afnic.fr/obtenir/chartes/nommage-fr/annexe-sectoriels
---  ga : http://en.wikipedia.org/wiki/.ga
+--  ga : https://en.wikipedia.org/wiki/.ga
 --  gb : This registry is effectively dormant
---  Submitted by registry <Damien.Shaw@ja.net> 2008-06-12
---  gd : http://en.wikipedia.org/wiki/.gd
+--  Submitted by registry <Damien.Shaw@ja.net>
+--  gd : https://en.wikipedia.org/wiki/.gd
 --  ge : http://www.nic.net.ge/policy_en.pdf
---  gf : http://en.wikipedia.org/wiki/.gf
+--  gf : https://en.wikipedia.org/wiki/.gf
 --  gg : http://www.channelisles.net/register-domains/
 --  Confirmed by registry <nigel@channelisles.net> 2013-11-28
---  gh : http://en.wikipedia.org/wiki/.gh
+--  gh : https://en.wikipedia.org/wiki/.gh
 --  see also: http://www.nic.gh/reg_now.php
 --  Although domains directly at second level are not possible at the moment,
 --  they have been possible for some time and may come back.
 --  gi : http://www.nic.gi/rules.html
---  gl : http://en.wikipedia.org/wiki/.gl
+--  gl : https://en.wikipedia.org/wiki/.gl
 --  http://nic.gl
 --  gm : http://www.nic.gm/htmlpages%5Cgm-policy.htm
 --  gn : http://psg.com/dns/gn/gn.txt
---  Submitted by registry <randy@psg.com> 2008-06-17
---  gov : http://en.wikipedia.org/wiki/.gov
+--  Submitted by registry <randy@psg.com>
+--  gov : https://en.wikipedia.org/wiki/.gov
 --  gp : http://www.nic.gp/index.php?lang=en
---  gq : http://en.wikipedia.org/wiki/.gq
+--  gq : https://en.wikipedia.org/wiki/.gq
 --  gr : https://grweb.ics.forth.gr/english/1617-B-2005.html
---  Submitted by registry <segred@ics.forth.gr> 2008-06-09
---  gs : http://en.wikipedia.org/wiki/.gs
+--  Submitted by registry <segred@ics.forth.gr>
+--  gs : https://en.wikipedia.org/wiki/.gs
 --  gt : http://www.gt/politicas_de_registro.html
 --  gu : http://gadao.gov.gu/registration.txt
---  gw : http://en.wikipedia.org/wiki/.gw
---  gy : http://en.wikipedia.org/wiki/.gy
+--  gw : https://en.wikipedia.org/wiki/.gw
+--  gy : https://en.wikipedia.org/wiki/.gy
 --  http://registry.gy/
 --  hk : https://www.hkdnr.hk
---  Submitted by registry <hk.tech@hkirc.hk> 2008-06-11
---  hm : http://en.wikipedia.org/wiki/.hm
+--  Submitted by registry <hk.tech@hkirc.hk>
+--  hm : https://en.wikipedia.org/wiki/.hm
 --  hn : http://www.nic.hn/politicas/ps02,,05.html
 --  hr : http://www.dns.hr/documents/pdf/HRTLD-regulations.pdf
 --  ht : http://www.nic.ht/info/charte.cfm
 --  hu : http://www.domain.hu/domain/English/sld.html
 --  Confirmed by registry <pasztor@iszt.hu> 2008-06-12
 --  id : https://register.pandi.or.id/
---  ie : http://en.wikipedia.org/wiki/.ie
+--  ie : https://en.wikipedia.org/wiki/.ie
 --  il : http://www.isoc.org.il/domains/
 --  im : https://www.nic.im/
---  Submitted by registry <info@nic.im> 2013-11-15
---  in : http://en.wikipedia.org/wiki/.in
+--  Submitted by registry <info@nic.im>
+--  in : https://en.wikipedia.org/wiki/.in
 --  see also: https://registry.in/Policies
 --  Please note, that nic.in is not an official eTLD, but used by most
 --  government institutions.
---  info : http://en.wikipedia.org/wiki/.info
---  int : http://en.wikipedia.org/wiki/.int
+--  info : https://en.wikipedia.org/wiki/.info
+--  int : https://en.wikipedia.org/wiki/.int
 --  Confirmed by registry <iana-questions@icann.org> 2008-06-18
 --  io : http://www.nic.io/rules.html
 --  list of other 2nd level tlds ?
@@ -190,7 +190,7 @@
 --  xn--mgba3a4fra.ir (<iran>.ir, Arabic YEH)
 --  is : http://www.isnic.is/domain/rules.php
 --  Confirmed by registry <marius@isgate.is> 2008-12-06
---  it : http://en.wikipedia.org/wiki/.it
+--  it : https://en.wikipedia.org/wiki/.it
 --  Reserved geo-names:
 --  http://www.nic.it/documenti/regolamenti-e-linee-guida/regolamento-assegnazione-versione-6.0.pdf
 --  There is also a list of reserved geo-names corresponding to Italian municipalities
@@ -201,10 +201,10 @@
 --  Confirmed by registry <nigel@channelisles.net> 2013-11-28
 --  jm : http://www.com.jm/register.html
 --  jo : http://www.dns.jo/Registration_policy.aspx
---  jobs : http://en.wikipedia.org/wiki/.jobs
---  jp : http://en.wikipedia.org/wiki/.jp
+--  jobs : https://en.wikipedia.org/wiki/.jobs
+--  jp : https://en.wikipedia.org/wiki/.jp
 --  http://jprs.co.jp/en/jpdomain.html
---  Submitted by registry <info@jprs.jp> 2014-10-30
+--  Submitted by registry <info@jprs.jp>
 --  jp organizational type names
 --  jp prefecture type names
 --  jp geographic type names
@@ -214,80 +214,80 @@
 --  kg : http://www.domain.kg/dmn_n.html
 --  kh : http://www.mptc.gov.kh/dns_registration.htm
 --  ki : http://www.ki/dns/index.html
---  km : http://en.wikipedia.org/wiki/.km
+--  km : https://en.wikipedia.org/wiki/.km
 --  http://www.domaine.km/documents/charte.doc
 --  These are only mentioned as proposed suggestions at domaine.km, but
---  http://en.wikipedia.org/wiki/.km says they're available for registration:
---  kn : http://en.wikipedia.org/wiki/.kn
+--  https://en.wikipedia.org/wiki/.km says they're available for registration:
+--  kn : https://en.wikipedia.org/wiki/.kn
 --  http://www.dot.kn/domainRules.html
 --  kp : http://www.kcce.kp/en_index.php
---  kr : http://en.wikipedia.org/wiki/.kr
+--  kr : https://en.wikipedia.org/wiki/.kr
 --  see also: http://domain.nida.or.kr/eng/registration.jsp
 --  kr geographical names
---  kw : http://en.wikipedia.org/wiki/.kw
+--  kw : https://en.wikipedia.org/wiki/.kw
 --  ky : http://www.icta.ky/da_ky_reg_dom.php
 --  Confirmed by registry <kysupport@perimeterusa.com> 2008-06-17
---  kz : http://en.wikipedia.org/wiki/.kz
+--  kz : https://en.wikipedia.org/wiki/.kz
 --  see also: http://www.nic.kz/rules/index.jsp
---  la : http://en.wikipedia.org/wiki/.la
---  Submitted by registry <gavin.brown@nic.la> 2008-06-10
---  lb : http://en.wikipedia.org/wiki/.lb
---  Submitted by registry <randy@psg.com> 2008-06-17
---  lc : http://en.wikipedia.org/wiki/.lc
+--  la : https://en.wikipedia.org/wiki/.la
+--  Submitted by registry <gavin.brown@nic.la>
+--  lb : https://en.wikipedia.org/wiki/.lb
+--  Submitted by registry <randy@psg.com>
+--  lc : https://en.wikipedia.org/wiki/.lc
 --  see also: http://www.nic.lc/rules.htm
---  li : http://en.wikipedia.org/wiki/.li
+--  li : https://en.wikipedia.org/wiki/.li
 --  lk : http://www.nic.lk/seclevpr.html
 --  lr : http://psg.com/dns/lr/lr.txt
---  Submitted by registry <randy@psg.com> 2008-06-17
---  ls : http://en.wikipedia.org/wiki/.ls
---  lt : http://en.wikipedia.org/wiki/.lt
+--  Submitted by registry <randy@psg.com>
+--  ls : https://en.wikipedia.org/wiki/.ls
+--  lt : https://en.wikipedia.org/wiki/.lt
 --  gov.lt : http://www.gov.lt/index_en.php
 --  lu : http://www.dns.lu/en/
 --  lv : http://www.nic.lv/DNS/En/generic.php
 --  ly : http://www.nic.ly/regulations.php
---  ma : http://en.wikipedia.org/wiki/.ma
+--  ma : https://en.wikipedia.org/wiki/.ma
 --  http://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf
 --  mc : http://www.nic.mc/
---  md : http://en.wikipedia.org/wiki/.md
---  me : http://en.wikipedia.org/wiki/.me
+--  md : https://en.wikipedia.org/wiki/.md
+--  me : https://en.wikipedia.org/wiki/.me
 --  mg : http://nic.mg/nicmg/?page_id=39
---  mh : http://en.wikipedia.org/wiki/.mh
---  mil : http://en.wikipedia.org/wiki/.mil
---  mk : http://en.wikipedia.org/wiki/.mk
+--  mh : https://en.wikipedia.org/wiki/.mh
+--  mil : https://en.wikipedia.org/wiki/.mil
+--  mk : https://en.wikipedia.org/wiki/.mk
 --  see also: http://dns.marnet.net.mk/postapka.php
 --  ml : http://www.gobin.info/domainname/ml-template.doc
---  see also: http://en.wikipedia.org/wiki/.ml
---  mm : http://en.wikipedia.org/wiki/.mm
---  mn : http://en.wikipedia.org/wiki/.mn
+--  see also: https://en.wikipedia.org/wiki/.ml
+--  mm : https://en.wikipedia.org/wiki/.mm
+--  mn : https://en.wikipedia.org/wiki/.mn
 --  mo : http://www.monic.net.mo/
---  mobi : http://en.wikipedia.org/wiki/.mobi
+--  mobi : https://en.wikipedia.org/wiki/.mobi
 --  mp : http://www.dot.mp/
 --  Confirmed by registry <dcamacho@saipan.com> 2008-06-17
---  mq : http://en.wikipedia.org/wiki/.mq
---  mr : http://en.wikipedia.org/wiki/.mr
+--  mq : https://en.wikipedia.org/wiki/.mq
+--  mr : https://en.wikipedia.org/wiki/.mr
 --  ms : http://www.nic.ms/pdf/MS_Domain_Name_Rules.pdf
 --  mt : https://www.nic.org.mt/go/policy
---  Submitted by registry <help@nic.org.mt> 2013-11-19
---  mu : http://en.wikipedia.org/wiki/.mu
+--  Submitted by registry <help@nic.org.mt>
+--  mu : https://en.wikipedia.org/wiki/.mu
 --  museum : http://about.museum/naming/
 --  http://index.museum/
---  mv : http://en.wikipedia.org/wiki/.mv
+--  mv : https://en.wikipedia.org/wiki/.mv
 --  "mv" included because, contra Wikipedia, google.mv exists.
 --  mw : http://www.registrar.mw/
 --  mx : http://www.nic.mx/
---  Submitted by registry <farias@nic.mx> 2008-06-19
+--  Submitted by registry <farias@nic.mx>
 --  my : http://www.mynic.net.my/
 --  mz : http://www.gobin.info/domainname/mz-template.doc
 --  na : http://www.na-nic.com.na/
 --  http://www.info.na/domain/
 --  name : has 2nd-level tlds, but there's no list of them
 --  nc : http://www.cctld.nc/
---  ne : http://en.wikipedia.org/wiki/.ne
---  net : http://en.wikipedia.org/wiki/.net
---  nf : http://en.wikipedia.org/wiki/.nf
---  ng : http://psg.com/dns/ng/
+--  ne : https://en.wikipedia.org/wiki/.ne
+--  net : https://en.wikipedia.org/wiki/.net
+--  nf : https://en.wikipedia.org/wiki/.nf
+--  ng : http://www.nira.org.ng/index.php/join-us/register-ng-domain/189-nira-slds
 --  ni : http://www.nic.ni/
---  nl : http://en.wikipedia.org/wiki/.nl
+--  nl : https://en.wikipedia.org/wiki/.nl
 --       https://www.sidn.nl/
 --       ccTLD for the Netherlands
 --  BV.nl will be a registry for dutch BV's (besloten vennootschap)
@@ -305,38 +305,38 @@
 --  communities
 --  np : http://www.mos.com.np/register.html
 --  nr : http://cenpac.net.nr/dns/index.html
---  Confirmed by registry <technician@cenpac.net.nr> 2008-06-17
---  nu : http://en.wikipedia.org/wiki/.nu
---  nz : http://en.wikipedia.org/wiki/.nz
---  Confirmed by registry <jay@nzrs.net.nz> 2014-05-19
---  om : http://en.wikipedia.org/wiki/.om
---  org : http://en.wikipedia.org/wiki/.org
+--  Submitted by registry <technician@cenpac.net.nr>
+--  nu : https://en.wikipedia.org/wiki/.nu
+--  nz : https://en.wikipedia.org/wiki/.nz
+--  Submitted by registry <jay@nzrs.net.nz>
+--  om : https://en.wikipedia.org/wiki/.om
+--  org : https://en.wikipedia.org/wiki/.org
 --  pa : http://www.nic.pa/
 --  Some additional second level "domains" resolve directly as hostnames, such as
 --  pannet.pa, so we add a rule for "pa".
 --  pe : https://www.nic.pe/InformeFinalComision.pdf
 --  pf : http://www.gobin.info/domainname/formulaire-pf.pdf
---  pg : http://en.wikipedia.org/wiki/.pg
+--  pg : https://en.wikipedia.org/wiki/.pg
 --  ph : http://www.domains.ph/FAQ2.asp
---  Submitted by registry <jed@email.com.ph> 2008-06-13
+--  Submitted by registry <jed@email.com.ph>
 --  pk : http://pk5.pknic.net.pk/pk5/msgNamepk.PK
 --  pl http://www.dns.pl/english/index.html
---  updated by .PL registry on 2015-04-28
+--  Submitted by registry
 --  pl functional domains (http://www.dns.pl/english/index.html)
 --  Government domains
 --  pl regional domains (http://www.dns.pl/english/index.html)
 --  pm : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
 --  pn : http://www.government.pn/PnRegistry/policies.htm
---  post : http://en.wikipedia.org/wiki/.post
+--  post : https://en.wikipedia.org/wiki/.post
 --  pr : http://www.nic.pr/index.asp?f=1
---  these aren't mentioned on nic.pr, but on http://en.wikipedia.org/wiki/.pr
---  pro : http://www.nic.pro/support_faq.htm
---  ps : http://en.wikipedia.org/wiki/.ps
+--  these aren't mentioned on nic.pr, but on https://en.wikipedia.org/wiki/.pr
+--  pro : http://registry.pro/get-pro
+--  ps : https://en.wikipedia.org/wiki/.ps
 --  http://www.nic.ps/registration/policy.html#reg
 --  pt : http://online.dns.pt/dns/start_dns
---  pw : http://en.wikipedia.org/wiki/.pw
+--  pw : https://en.wikipedia.org/wiki/.pw
 --  py : http://www.nic.py/pautas.html#seccion_9
---  Confirmed by registry 2012-10-03
+--  Submitted by registry
 --  qa : http://domains.qa/en/
 --  re : http://www.afnic.re/obtenir/chartes/nommage-re/annexe-descriptifs
 --  ro : http://www.rotld.ro/
@@ -351,73 +351,73 @@
 --  rw : http://www.nic.rw/cgi-bin/policy.pl
 --  sa : http://www.nic.net.sa/
 --  sb : http://www.sbnic.net.sb/
---  Submitted by registry <lee.humphries@telekom.com.sb> 2008-06-08
+--  Submitted by registry <lee.humphries@telekom.com.sb>
 --  sc : http://www.nic.sc/
 --  sd : http://www.isoc.sd/sudanic.isoc.sd/billing_pricing.htm
---  Submitted by registry <admin@isoc.sd> 2008-06-17
---  se : http://en.wikipedia.org/wiki/.se
---  Submitted by registry <patrik.wallstrom@iis.se> 2014-03-18
+--  Submitted by registry <admin@isoc.sd>
+--  se : https://en.wikipedia.org/wiki/.se
+--  Submitted by registry <patrik.wallstrom@iis.se>
 --  sg : http://www.nic.net.sg/page/registration-policies-procedures-and-guidelines
 --  sh : http://www.nic.sh/registrar.html
---  si : http://en.wikipedia.org/wiki/.si
+--  si : https://en.wikipedia.org/wiki/.si
 --  sj : No registrations at this time.
---  Submitted by registry <jarle@uninett.no> 2008-06-16
---  sk : http://en.wikipedia.org/wiki/.sk
+--  Submitted by registry <jarle@uninett.no>
+--  sk : https://en.wikipedia.org/wiki/.sk
 --  list of 2nd level domains ?
 --  sl : http://www.nic.sl
---  Submitted by registry <adam@neoip.com> 2008-06-12
---  sm : http://en.wikipedia.org/wiki/.sm
---  sn : http://en.wikipedia.org/wiki/.sn
+--  Submitted by registry <adam@neoip.com>
+--  sm : https://en.wikipedia.org/wiki/.sm
+--  sn : https://en.wikipedia.org/wiki/.sn
 --  so : http://www.soregistry.com/
---  sr : http://en.wikipedia.org/wiki/.sr
+--  sr : https://en.wikipedia.org/wiki/.sr
 --  st : http://www.nic.st/html/policyrules/
---  su : http://en.wikipedia.org/wiki/.su
+--  su : https://en.wikipedia.org/wiki/.su
 --  sv : http://www.svnet.org.sv/niveldos.pdf
---  sx : http://en.wikipedia.org/wiki/.sx
---  Confirmed by registry <jcvignes@openregistry.com> 2012-05-31
---  sy : http://en.wikipedia.org/wiki/.sy
+--  sx : https://en.wikipedia.org/wiki/.sx
+--  Submitted by registry <jcvignes@openregistry.com>
+--  sy : https://en.wikipedia.org/wiki/.sy
 --  see also: http://www.gobin.info/domainname/sy.doc
---  sz : http://en.wikipedia.org/wiki/.sz
+--  sz : https://en.wikipedia.org/wiki/.sz
 --  http://www.sispa.org.sz/
---  tc : http://en.wikipedia.org/wiki/.tc
---  td : http://en.wikipedia.org/wiki/.td
---  tel: http://en.wikipedia.org/wiki/.tel
+--  tc : https://en.wikipedia.org/wiki/.tc
+--  td : https://en.wikipedia.org/wiki/.td
+--  tel: https://en.wikipedia.org/wiki/.tel
 --  http://www.telnic.org/
---  tf : http://en.wikipedia.org/wiki/.tf
---  tg : http://en.wikipedia.org/wiki/.tg
+--  tf : https://en.wikipedia.org/wiki/.tf
+--  tg : https://en.wikipedia.org/wiki/.tg
 --  http://www.nic.tg/
---  th : http://en.wikipedia.org/wiki/.th
---  Submitted by registry <krit@thains.co.th> 2008-06-17
+--  th : https://en.wikipedia.org/wiki/.th
+--  Submitted by registry <krit@thains.co.th>
 --  tj : http://www.nic.tj/policy.html
---  tk : http://en.wikipedia.org/wiki/.tk
---  tl : http://en.wikipedia.org/wiki/.tl
+--  tk : https://en.wikipedia.org/wiki/.tk
+--  tl : https://en.wikipedia.org/wiki/.tl
 --  tm : http://www.nic.tm/local.html
---  tn : http://en.wikipedia.org/wiki/.tn
+--  tn : https://en.wikipedia.org/wiki/.tn
 --  http://whois.ati.tn/
---  to : http://en.wikipedia.org/wiki/.to
---  Submitted by registry <egullich@colo.to> 2008-06-17
+--  to : https://en.wikipedia.org/wiki/.to
+--  Submitted by registry <egullich@colo.to>
 --  subTLDs: https://www.nic.tr/forms/eng/policies.pdf
 --      and: https://www.nic.tr/forms/politikalar.pdf
---  Submitted by <mehmetgurevin@gmail.com> 2014-07-19
+--  Submitted by <mehmetgurevin@gmail.com>
 --  Used by Northern Cyprus
 --  Used by government agencies of Northern Cyprus
---  travel : http://en.wikipedia.org/wiki/.travel
+--  travel : https://en.wikipedia.org/wiki/.travel
 --  tt : http://www.nic.tt/
---  tv : http://en.wikipedia.org/wiki/.tv
+--  tv : https://en.wikipedia.org/wiki/.tv
 --  Not listing any 2LDs as reserved since none seem to exist in practice,
 --  Wikipedia notwithstanding.
---  tw : http://en.wikipedia.org/wiki/.tw
+--  tw : https://en.wikipedia.org/wiki/.tw
 --  tz : http://www.tznic.or.tz/index.php/domains
---  Confirmed by registry <manager@tznic.or.tz> 2013-01-22
+--  Submitted by registry <manager@tznic.or.tz>
 --  ua : https://hostmaster.ua/policy/?ua
---  Submitted by registry <dk@cctld.ua> 2012-04-27
+--  Submitted by registry <dk@cctld.ua>
 --  ua 2LD
 --  ua geographic names
 --  https://hostmaster.ua/2ld/
 --  ug : https://www.registry.co.ug/
---  uk : http://en.wikipedia.org/wiki/.uk
+--  uk : https://en.wikipedia.org/wiki/.uk
 --  Submitted by registry <Michael.Daly@nominet.org.uk>
---  us : http://en.wikipedia.org/wiki/.us
+--  us : https://en.wikipedia.org/wiki/.us
 --  us geographic names
 --  The registrar notes several more specific domains available in each state,
 --  such as state.*.us, dst.*.us, etc., but resolution of these is somewhat
@@ -436,22 +436,21 @@
 --   5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.net>
 --  uy : http://www.nic.org.uy/
 --  uz : http://www.reg.uz/
---  va : http://en.wikipedia.org/wiki/.va
---  vc : http://en.wikipedia.org/wiki/.vc
---  Submitted by registry <kshah@ca.afilias.info> 2008-06-13
+--  va : https://en.wikipedia.org/wiki/.va
+--  vc : https://en.wikipedia.org/wiki/.vc
+--  Submitted by registry <kshah@ca.afilias.info>
 --  ve : https://registro.nic.ve/
---  Confirmed by registry 2012-10-04
---  Updated 2014-05-20 - Bug 940478
---  vg : http://en.wikipedia.org/wiki/.vg
+--  Submitted by registry
+--  vg : https://en.wikipedia.org/wiki/.vg
 --  vi : http://www.nic.vi/newdomainform.htm
 --  http://www.nic.vi/Domain_Rules/body_domain_rules.html indicates some other
 --  TLDs are "reserved", such as edu.vi and gov.vi, but doesn't actually say they
 --  are available for registration (which they do not seem to be).
 --  vn : https://www.dot.vn/vnnic/vnnic/domainregistration.jsp
---  vu : http://en.wikipedia.org/wiki/.vu
+--  vu : https://en.wikipedia.org/wiki/.vu
 --  http://www.vunic.vu/
 --  wf : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
---  ws : http://en.wikipedia.org/wiki/.ws
+--  ws : https://en.wikipedia.org/wiki/.ws
 --  http://samoanic.ws/index.dhtml
 --  yt : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
 --  IDN ccTLDs
@@ -476,6 +475,7 @@
 --  xn--lgbbat1ad8j ("Algeria/Al Jazair", Arabic) : DZ
 --  xn--wgbh1c ("Egypt/Masr", Arabic) : EG
 --  http://www.dotmasr.eg/
+--  xn--e1a4c ("eu", Cyrillic) : EU
 --  xn--node ("ge", Georgian Mkhedruli) : GE
 --  xn--qxam ("el", Greek) : GR
 --  Hellenic Ministry of Infrastructure, Transport, and Networks
@@ -553,9 +553,9 @@
 --  xxx : http://icmregistry.com
 --  ye : http://www.y.net.ye/services/domain_name.htm
 --  za : http://www.zadna.org.za/content/page/domain-information
---  zm : http://en.wikipedia.org/wiki/.zm
---  zw : http://en.wikipedia.org/wiki/.zw
---  List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2016-01-04T22:39:54Z
+--  zm : https://en.wikipedia.org/wiki/.zm
+--  zw : https://en.wikipedia.org/wiki/.zw
+--  List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2016-03-01T00:46:32Z
 --  aaa : 2015-02-26 American Automobile Association, Inc.
 --  aarp : 2015-05-21 AARP
 --  abarth : 2015-07-30 Fiat Chrysler Automobiles N.V.
@@ -851,7 +851,6 @@
 --  dog : 2014-12-04 Koko Mill, LLC
 --  doha : 2014-09-18 Communications Regulatory Authority (CRA)
 --  domains : 2013-10-17 Sugar Cross, LLC
---  doosan : 2014-04-03 Doosan Corporation
 --  dot : 2015-05-21 Dish DBS Corporation
 --  download : 2014-11-20 dot Support Limited
 --  drive : 2015-03-05 Charleston Road Registry Inc.
@@ -948,6 +947,7 @@
 --  ftr : 2015-07-16 Frontier Communications Corporation
 --  fujitsu : 2015-07-30 Fujitsu Limited
 --  fujixerox : 2015-07-23 Xerox DNHC LLC
+--  fun : 2016-01-14 Oriental Trading Company, Inc.
 --  fund : 2014-03-20 John Castle, LLC
 --  furniture : 2014-03-20 Lone Fields, LLC
 --  futbol : 2013-09-20
@@ -977,6 +977,7 @@
 --  global : 2014-04-17 Dot GLOBAL AS
 --  globo : 2013-12-19 Globo Comunicação e Participações S.A
 --  gmail : 2014-05-01 Charleston Road Registry Inc.
+--  gmbh : 2016-01-29 Extra Dynamite, LLC
 --  gmo : 2014-01-09 GMO Internet, Inc.
 --  gmx : 2014-04-24 1&1 Mail & Media GmbH
 --  godaddy : 2015-07-23 Go Daddy East, LLC
@@ -1506,6 +1507,7 @@
 --  stockholm : 2014-12-18 Stockholms kommun
 --  storage : 2014-12-22 Self Storage Company LLC
 --  store : 2015-04-09 DotStore Inc.
+--  stream : 2016-01-08 dot Stream Limited
 --  studio : 2015-02-11
 --  study : 2014-12-11 OPEN UNIVERSITIES AUSTRALIA PTY LTD
 --  style : 2014-12-04 Binky Moon, LLC
@@ -1778,116 +1780,130 @@
 --  ===BEGIN PRIVATE DOMAINS===
 --  (Note: these are in alphabetical order by company name)
 --  Amazon CloudFront : https://aws.amazon.com/cloudfront/
---  Submitted by Donavan Miller <donavanm@amazon.com> 2013-03-22
+--  Submitted by Donavan Miller <donavanm@amazon.com>
 --  Amazon Elastic Compute Cloud: https://aws.amazon.com/ec2/
---  Submitted by Osman Surkatty <osmans@amazon.com> 2014-12-16
+--  Submitted by Luke Wells <lawells@amazon.com>
 --  Amazon Elastic Beanstalk : https://aws.amazon.com/elasticbeanstalk/
---  Submitted by Adam Stein <astein@amazon.com> 2013-04-02
+--  Submitted by Adam Stein <astein@amazon.com>
 --  Amazon Elastic Load Balancing : https://aws.amazon.com/elasticloadbalancing/
---  Submitted by Scott Vidmar <svidmar@amazon.com> 2013-03-27
+--  Submitted by Scott Vidmar <svidmar@amazon.com>
 --  Amazon S3 : https://aws.amazon.com/s3/
---  Submitted by Eric Kinolik <kilo@amazon.com> 2015-04-08
+--  Submitted by Luke Wells <lawells@amazon.com>
 --  BetaInABox
---  Submitted by adrian@betainabox.com 2012-09-13
+--  Submitted by Adrian <adrian@betainabox.com>
 --  CentralNic : http://www.centralnic.com/names/domains
---  Submitted by registry <gavin.brown@centralnic.com> 2012-09-27
+--  Submitted by registry <gavin.brown@centralnic.com>
 --  Africa.com Web Solutions Ltd : https://registry.africa.com
---  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com>
 --  iDOT Services Limited : http://www.domain.gr.com
---  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com>
 --  Radix FZC : http://domains.in.net
---  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com>
 --  US REGISTRY LLC : http://us.org
---  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com>
 --  co.com Registry, LLC : https://registry.co.com
---  Submitted by Gavin Brown <gavin.brown@centralnic.com> 2014-02-04
+--  Submitted by Gavin Brown <gavin.brown@centralnic.com>
 --  c.la : http://www.c.la/
+--  Citrix : https://citrix.com
+--  Submitted by Alex Stoddard <alex.stoddard@citrix.com>
 --  cloudControl : https://www.cloudcontrol.com/
---  Submitted by Tobias Wilken <tw@cloudcontrol.com> 2013-07-23
+--  Submitted by Tobias Wilken <tw@cloudcontrol.com>
 --  co.ca : http://registry.co.ca/
+--  i-registry s.r.o. : http://www.i-registry.cz/
+--  Submitted by Martin Semrad <semrad@i-registry.cz>
 --  CDN77.com : http://www.cdn77.com
---  Submitted by Jan Krpes <jan.krpes@cdn77.com> 2015-07-13
+--  Submitted by Jan Krpes <jan.krpes@cdn77.com>
 --  CoDNS B.V.
 --  Commerce Guys, SAS
---  Submitted by Damien Tournoud <damien@commerceguys.com> 2015-01-22
+--  Submitted by Damien Tournoud <damien@commerceguys.com>
 --  Cupcake : https://cupcake.io/
---  Submitted by Jonathan Rudenberg <jonathan@cupcake.io> 2013-10-08
+--  Submitted by Jonathan Rudenberg <jonathan@cupcake.io>
+--  cyon GmbH : https://www.cyon.ch/
+--  Submitted by Dominic Luechinger <dol@cyon.ch>
+--  Dansk.net : http://www.dansk.net/
+--  Submitted by Anani Voule <digital@digital.co.dk>
 --  DreamHost : http://www.dreamhost.com/
---  Submitted by Andrew Farmer <andrew.farmer@dreamhost.com> 2012-10-02
+--  Submitted by Andrew Farmer <andrew.farmer@dreamhost.com>
 --  Drobo : http://www.drobo.com/
---  Submitted by Ricardo Padilha <rpadilha@drobo.com> 2015-12-17
+--  Submitted by Ricardo Padilha <rpadilha@drobo.com>
 --  DuckDNS : http://www.duckdns.org/
---  Submitted by Richard Harper <richard@duckdns.org> 2015-05-17
+--  Submitted by Richard Harper <richard@duckdns.org>
 --  DynDNS.com : http://www.dyndns.com/services/dns/dyndns/
+--  dynv6 : https://dynv6.com
+--  Submitted by Dominik Menke <dom@digineo.de> 2016-01-18
 --  EU.org https://eu.org/
---  Submitted by Pierre Beyssac <hostmaster@eu.org> 2015-04-17
+--  Submitted by Pierre Beyssac <hostmaster@eu.org>
+--  Facebook, Inc.
+--  Submitted by Peter Ruibal <public-suffix@fb.com>
 --  Fastly Inc. http://www.fastly.com/
---  Submitted by Vladimir Vuksan <vladimir@fastly.com> 2013-05-31
+--  Submitted by Vladimir Vuksan <vladimir@fastly.com>
 --  Firebase, Inc.
---  Submitted by Chris Raynor <chris@firebase.com> 2014-01-21
+--  Submitted by Chris Raynor <chris@firebase.com>
 --  Flynn : https://flynn.io
---  Submitted by Jonathan Rudenberg <jonathan@flynn.io> 2014-07-12
+--  Submitted by Jonathan Rudenberg <jonathan@flynn.io>
 --  GDS : https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains
---  Submitted by David Illsley <david.illsley@digital.cabinet-office.gov.uk> 2014-08-28
+--  Submitted by David Illsley <david.illsley@digital.cabinet-office.gov.uk>
 --  GitHub, Inc.
---  Submitted by Ben Toews <btoews@github.com> 2014-02-06
+--  Submitted by Patrick Toomey <security@github.com>
 --  GlobeHosting, Inc.
---  Submitted by Zoltan Egresi <egresi@globehosting.com> 2013-07-12
+--  Submitted by Zoltan Egresi <egresi@globehosting.com>
 --  Google, Inc.
---  Submitted by Eduardo Vela <evn@google.com> 2014-12-19
+--  Submitted by Eduardo Vela <evn@google.com>
 --  Hashbang : https://hashbang.sh
 --  Heroku : https://www.heroku.com/
---  Submitted by Tom Maher <tmaher@heroku.com> 2013-05-02
+--  Submitted by Tom Maher <tmaher@heroku.com>
 --  iki.fi
---  Submitted by Hannu Aronsson <haa@iki.fi> 2009-11-05
+--  Submitted by Hannu Aronsson <haa@iki.fi>
 --  info.at : http://www.info.at/
 --  Michau Enterprises Limited : http://www.co.pl/
 --  Microsoft : http://microsoft.com
---  Submitted by Barry Dorrans <bdorrans@microsoft.com> 2014-01-24
+--  Submitted by Barry Dorrans <bdorrans@microsoft.com>
 --  Mozilla Foundation : https://mozilla.org/
---  Submited by glob <glob@mozilla.com> 2015-07-06
+--  Submitted by glob <glob@mozilla.com>
 --  Neustar Inc.
---  Submitted by Trung Tran <Trung.Tran@neustar.biz> 2015-04-23
+--  Submitted by Trung Tran <Trung.Tran@neustar.biz>
 --  ngrok : https://ngrok.com/
---  Submitted by Alan Shreve <alan@ngrok.com> 2015-11-10
+--  Submitted by Alan Shreve <alan@ngrok.com>
 --  NFSN, Inc. : https://www.NearlyFreeSpeech.NET/
---  Submitted by Jeff Wheelhouse <support@nearlyfreespeech.net> 2014-02-02
+--  Submitted by Jeff Wheelhouse <support@nearlyfreespeech.net>
 --  NYC.mn : http://www.information.nyc.mn
---  Submitted by Matthew Brown <mattbrown@nyc.mn> 2013-03-11
+--  Submitted by Matthew Brown <mattbrown@nyc.mn>
 --  One Fold Media : http://www.onefoldmedia.com/
---  Submitted by Eddie Jones <eddie@onefoldmedia.com> 2014-06-10
+--  Submitted by Eddie Jones <eddie@onefoldmedia.com>
 --  Opera Software, A.S.A.
---  Submitted by Yngve Pettersen <yngve@opera.com> 2009-11-26
+--  Submitted by Yngve Pettersen <yngve@opera.com>
 --  OutSystems
---  Submitted by Duarte Santos <domain-admin@outsystemscloud.com> 2014-03-11
+--  Submitted by Duarte Santos <domain-admin@outsystemscloud.com>
 --  Pagefront : https://www.pagefronthq.com/
---  Submitted by Jason Kriss <jason@pagefronthq.com> 2015-12-02
+--  Submitted by Jason Kriss <jason@pagefronthq.com>
 --  .pl domains (grandfathered)
 --  Pantheon Systems, Inc. : https://pantheon.io/
---  Submitted by Gary Dylina <gary@pantheon.io> 2015-09-14
+--  Submitted by Gary Dylina <gary@pantheon.io>
+--  prgmr.com : https://prgmr.com/
+--  Submitted by Sarah Newman <owner@prgmr.com>
 --  priv.at : http://www.nic.priv.at/
---  Submitted by registry <lendl@nic.at> 2008-06-09
+--  Submitted by registry <lendl@nic.at>
 --  QA2
---  Submitted by Daniel Dent (https://www.danieldent.com/) 2015-07-16
+--  Submitted by Daniel Dent (https://www.danieldent.com/)
 --  Rackmaze LLC : https://www.rackmaze.com
---  Submitted by Kirill Pertsev <kika@rackmaze.com> 2015-12-02
+--  Submitted by Kirill Pertsev <kika@rackmaze.com>
 --  Red Hat, Inc. OpenShift : https://openshift.redhat.com/
---  Submitted by Tim Kramer <tkramer@rhcloud.com> 2012-10-24
+--  Submitted by Tim Kramer <tkramer@rhcloud.com>
 --  Sandstorm Development Group, Inc. : https://sandcats.io/
---  Submitted by Asheesh Laroia <asheesh@sandstorm.io> 2015-07-21
+--  Submitted by Asheesh Laroia <asheesh@sandstorm.io>
 --  Service Online LLC : http://drs.ua/
---  Submitted by Serhii Bulakh <support@drs.ua> 2015-07-30
+--  Submitted by Serhii Bulakh <support@drs.ua>
 --  SinaAppEngine : http://sae.sina.com.cn/
---  Submitted by SinaAppEngine <saesupport@sinacloud.com> 2015-02-02
+--  Submitted by SinaAppEngine <saesupport@sinacloud.com>
 --  Synology, Inc. : https://www.synology.com/
---  Submitted by Rony Weng <ronyweng@synology.com> 2015-12-02
+--  Submitted by Rony Weng <ronyweng@synology.com>
 --  TASK geographical domains (www.task.gda.pl/uslugi/dns)
 --  UDR Limited : http://www.udr.hk.com
---  Submitted by registry <hostmaster@udr.hk.com> 2014-11-07
+--  Submitted by registry <hostmaster@udr.hk.com>
 --  Yola : https://www.yola.com/
---  Submitted by Stefano Rivera <stefano@yola.com> 2014-07-09
+--  Submitted by Stefano Rivera <stefano@yola.com>
 --  ZaNiC : http://www.za.net/
---  Submitted by registry <hostmaster@nic.za.net> 2009-10-03
+--  Submitted by registry <hostmaster@nic.za.net>
 --  ===END PRIVATE DOMAINS===
 local tld_tree = {['ac'] = {['com'] = {},
 ['edu'] = {},
@@ -2390,10 +2406,11 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['rec'] = {},
 ['web'] = {}},
 ['com'] = {['amazonaws'] = {['compute'] = {['ap-northeast-1'] = {},
+['ap-northeast-2'] = {},
 ['ap-southeast-1'] = {},
 ['ap-southeast-2'] = {},
-['eu-west-1'] = {},
 ['eu-central-1'] = {},
+['eu-west-1'] = {},
 ['sa-east-1'] = {},
 ['us-gov-west-1'] = {},
 ['us-west-1'] = {},
@@ -2404,17 +2421,19 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['elb'] = {},
 ['s3'] = {},
 ['s3-ap-northeast-1'] = {},
+['s3-ap-northeast-2'] = {},
 ['s3-ap-southeast-1'] = {},
 ['s3-ap-southeast-2'] = {},
+['s3-eu-central-1'] = {},
+['s3-eu-west-1'] = {},
 ['s3-external-1'] = {},
 ['s3-external-2'] = {},
 ['s3-fips-us-gov-west-1'] = {},
-['s3-eu-central-1'] = {},
-['s3-eu-west-1'] = {},
 ['s3-sa-east-1'] = {},
 ['s3-us-gov-west-1'] = {},
 ['s3-us-west-1'] = {},
 ['s3-us-west-2'] = {},
+['ap-northeast-2'] = {['s3'] = {}},
 ['eu-central-1'] = {['s3'] = {}}},
 ['elasticbeanstalk'] = {},
 ['betainabox'] = {},
@@ -2440,6 +2459,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['africa'] = {},
 ['gr'] = {},
 ['co'] = {},
+['xenapponazure'] = {},
 ['cloudcontrolled'] = {},
 ['cloudcontrolapp'] = {},
 ['dreamhosters'] = {},
@@ -2594,9 +2614,14 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['space-to-rent'] = {},
 ['teaches-yoga'] = {},
 ['writesthisblog'] = {},
+['fbsbx'] = {['apps'] = {}},
 ['firebaseapp'] = {},
 ['flynnhub'] = {},
 ['githubusercontent'] = {},
+['githubcloud'] = {['api'] = {['*'] = {}},
+['ext'] = {['*'] = {}},
+['gist'] = {}},
+['githubcloudusercontent'] = {['*'] = {}},
 ['ro'] = {},
 ['appspot'] = {},
 ['blogspot'] = {},
@@ -2614,6 +2639,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['outsystemscloud'] = {},
 ['pagefrontapp'] = {},
 ['gotpantheon'] = {},
+['prgmr'] = {['xen'] = {}},
 ['qa2'] = {},
 ['rackmaze'] = {},
 ['rhcloud'] = {},
@@ -2658,7 +2684,8 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['press'] = {},
 ['pro'] = {},
 ['tm'] = {}},
-['cz'] = {['blogspot'] = {}},
+['cz'] = {['co'] = {},
+['blogspot'] = {}},
 ['de'] = {['com'] = {},
 ['fuettertdasnetz'] = {},
 ['isteingeek'] = {},
@@ -2668,7 +2695,12 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['traeumtgerade'] = {},
 ['blogspot'] = {}},
 ['dj'] = {},
-['dk'] = {['blogspot'] = {}},
+['dk'] = {['biz'] = {},
+['co'] = {},
+['firm'] = {},
+['reg'] = {},
+['store'] = {},
+['blogspot'] = {}},
 ['dm'] = {['com'] = {},
 ['net'] = {},
 ['org'] = {},
@@ -2979,7 +3011,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['github'] = {},
 ['ngrok'] = {},
 ['nid'] = {},
-['pantheon'] = {},
+['pantheonsite'] = {},
 ['sandcats'] = {}},
 ['iq'] = {['gov'] = {},
 ['edu'] = {},
@@ -6016,6 +6048,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['serveftp'] = {},
 ['thruhere'] = {},
 ['webhop'] = {},
+['dynv6'] = {},
 ['fastly'] = {['ssl'] = {['a'] = {},
 ['b'] = {},
 ['global'] = {}},
@@ -6041,13 +6074,14 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['store'] = {}},
 ['ng'] = {['com'] = {['blogspot'] = {}},
 ['edu'] = {},
+['gov'] = {},
+['i'] = {},
+['mil'] = {},
+['mobi'] = {},
 ['name'] = {},
 ['net'] = {},
 ['org'] = {},
-['sch'] = {},
-['gov'] = {},
-['mil'] = {},
-['mobi'] = {}},
+['sch'] = {}},
 ['ni'] = {['com'] = {},
 ['gob'] = {},
 ['edu'] = {},
@@ -7228,13 +7262,17 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['est'] = {},
 ['prof'] = {},
 ['ac'] = {}},
-['pro'] = {['aca'] = {},
+['pro'] = {['aaa'] = {},
+['aca'] = {},
+['acct'] = {},
+['avocat'] = {},
 ['bar'] = {},
 ['cpa'] = {},
+['eng'] = {},
 ['jur'] = {},
 ['law'] = {},
 ['med'] = {},
-['eng'] = {}},
+['recht'] = {}},
 ['ps'] = {['edu'] = {},
 ['gov'] = {},
 ['sec'] = {},
@@ -8072,6 +8110,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['中國'] = {},
 ['الجزائر'] = {},
 ['مصر'] = {},
+['ею'] = {},
 ['გე'] = {},
 ['ελ'] = {},
 ['香港'] = {},
@@ -8440,7 +8479,6 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['dog'] = {},
 ['doha'] = {},
 ['domains'] = {},
-['doosan'] = {},
 ['dot'] = {},
 ['download'] = {},
 ['drive'] = {},
@@ -8537,6 +8575,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['ftr'] = {},
 ['fujitsu'] = {},
 ['fujixerox'] = {},
+['fun'] = {},
 ['fund'] = {},
 ['furniture'] = {},
 ['futbol'] = {},
@@ -8566,6 +8605,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['global'] = {},
 ['globo'] = {},
 ['gmail'] = {},
+['gmbh'] = {},
 ['gmo'] = {},
 ['gmx'] = {},
 ['godaddy'] = {},
@@ -8743,7 +8783,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['limo'] = {},
 ['lincoln'] = {},
 ['linde'] = {},
-['link'] = {},
+['link'] = {['cyon'] = {}},
 ['lipsy'] = {},
 ['live'] = {},
 ['living'] = {},
@@ -9058,7 +9098,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['silk'] = {},
 ['sina'] = {},
 ['singles'] = {},
-['site'] = {},
+['site'] = {['cyon'] = {}},
 ['ski'] = {},
 ['skin'] = {},
 ['sky'] = {},
@@ -9095,6 +9135,7 @@ local tld_tree = {['ac'] = {['com'] = {},
 ['stockholm'] = {},
 ['storage'] = {},
 ['store'] = {},
+['stream'] = {},
 ['studio'] = {},
 ['study'] = {},
 ['style'] = {},

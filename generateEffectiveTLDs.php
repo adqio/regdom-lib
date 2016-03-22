@@ -22,6 +22,12 @@ if ($_SERVER['argc']>1) {
 	} else if ($_SERVER['argv'][1] == "lua"){
 		$format = "lua";
 	}
+	else if ($_SERVER['argv'][1] == "elixir"){
+		$format = "elixir";
+	}
+	else if ($_SERVER['argv'][1] == "js"){
+		$format = "js";
+	}
 }
 
 /*
@@ -69,8 +75,14 @@ function printNode($key, $valueTree, $isAssignment = false) {
 	if ($isAssignment) {
 		if ($format == "perl") {
 			echo "$key = {";
-		} 
+		}
 		else if($format == "lua"){
+			echo "$key = {";
+		}
+		else if($format == "elixir"){
+			echo "$key  %{";
+		}
+		else if($format == "js"){
 			echo "$key = {";
 		}
 		else {
@@ -84,6 +96,12 @@ function printNode($key, $valueTree, $isAssignment = false) {
 			else if ($format == "lua") {
 				echo "['!'] = {}";
 			}
+			else if ($format == "elixir"){
+				echo "\"!\" => %{}";
+			}
+			else if ($format == "js") {
+				echo "'!':{}";
+			}
 			 else {
 				echo "'!' => ''";
 			}
@@ -93,6 +111,11 @@ function printNode($key, $valueTree, $isAssignment = false) {
 				echo "'$key' => {";
 			} else if ($format == "lua") {
 					echo "['$key'] = {";
+			} else if ($format == "elixir") {
+					echo "\"$key\" => %{";
+			}
+			else if ($format == "js") {
+					echo "'$key':{";
 			}else {
 				echo "'$key' => array(";
 			}
@@ -114,7 +137,7 @@ function printNode($key, $valueTree, $isAssignment = false) {
 		}
 	}
 
-	if ($format == "perl" || $format == "lua") {
+	if ($format == "perl" ||  $format == "lua" || $format == "js" || $format == "elixir") {
 		echo '}';
 	} else {
 		echo ')';
@@ -163,7 +186,7 @@ $tldTree = array();
 $list = file_get_contents(URL);
 // $list = "bg\na.bg\n0.bg\n!c.bg\n";
 $lines = split("\n", $list);
-if ($format =="lua"){
+if ($format =="lua" || $format == "elixir"){
 	array_push($lines,'','*');
 }
 $licence = TRUE;
@@ -176,10 +199,13 @@ foreach ($lines as $line) {
 
 		if ($format == "perl") {
 			echo "# ".substr($line, 2)."\n";
-		} 
+		}
 		else if ($format == "lua") {
 			echo "-- ".substr($line, 2)."\n";
-		} 
+		}
+		else if ($format == "elixir") {
+			echo "# ".substr($line, 2)."\n";
+		}
 		else {
 			echo $line."\n";
 		}
@@ -220,11 +246,24 @@ if ($format == "c") {
 	printNode_C("root", $tldTree);
 	echo "\";\n\n";
 
-} 
+}
 else if($format == "lua"){
 	printNode("local tld_tree",$tldTree,TRUE);
 	echo "\n";
 	echo "return tld_tree";
+}
+else if($format == "js"){
+	printNode("var tldTree",$tldTree,TRUE);
+	echo "\n";
+	echo "module.exports = tldTree;";
+}
+else if($format == "elixir"){
+	echo "defmodule Regdom.EffectiveTLD do\n";
+	printNode("@tld_tree ",$tldTree,TRUE);
+	echo "\n";
+	echo "def tld, do: @tld_tree";
+	echo "\n";
+	echo "end";
 }
 else {
 
