@@ -3,7 +3,7 @@ defmodule Regdom.Mixfile do
 
   def project do
     [app: :regdom,
-     version: "0.0.1",
+     version: "0.0.3",
      elixir: "~> 1.2",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
@@ -15,7 +15,7 @@ defmodule Regdom.Mixfile do
        links: %{"GitHub" => "https://github.com/adqio/regdom-lib"}
      ],
      name: "Regdom",
-     docs: [source_ref: "v#{@version}", main: "Regdom",
+     docs: [main: "Regdom",
        canonical: "http://hexdocs.pm/regdom",
        source_url: "https://github.com/adqio/regdom-lib"
        ]
