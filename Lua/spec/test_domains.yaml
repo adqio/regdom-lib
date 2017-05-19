@@ -23,7 +23,7 @@ test_cases:
   - url: 'sub.registered.sb'
     domain: 'registered.sb'
   - url: 'subsub.registered.something.zw'
-    domain: 'registered.something.zw'
+    domain: 'something.zw'
   - url: 'subsub.registered.9.bg'
     domain: 'registered.9.bg'
   - url: 'registered.co.bi'

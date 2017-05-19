@@ -18,7 +18,7 @@
 #  ao : https://en.wikipedia.org/wiki/.ao
 #  http://www.dns.ao/REGISTR.DOC
 #  aq : https://en.wikipedia.org/wiki/.aq
-#  ar : https://nic.ar/normativa-vigente.xhtml
+#  ar : https://nic.ar/nic-argentina/normativa-vigente
 #  arpa : https://en.wikipedia.org/wiki/.arpa
 #  Confirmed by registry <iana-questions@icann.org> 2008-06-18
 #  as : https://en.wikipedia.org/wiki/.as
@@ -315,6 +315,7 @@
 #  nz : https://en.wikipedia.org/wiki/.nz
 #  Submitted by registry <jay@nzrs.net.nz>
 #  om : https://en.wikipedia.org/wiki/.om
+#  onion : https://tools.ietf.org/html/rfc7686
 #  org : https://en.wikipedia.org/wiki/.org
 #  pa : http://www.nic.pa/
 #  Some additional second level "domains" resolve directly as hostnames, such as
@@ -346,13 +347,7 @@
 #  re : http://www.afnic.re/obtenir/chartes/nommage-re/annexe-descriptifs
 #  ro : http://www.rotld.ro/
 #  rs : https://www.rnids.rs/en/domains/national-domains
-#  ru : http://www.cctld.ru/ru/docs/aktiv_8.php
-#  Industry domains
-#  Geographical domains
-#  mosreg.ru  Bug 1090800 - removed at request of Aleksey Konstantinov <konstantinovav@mosreg.ru>
-#  More geographical domains
-#  State domains
-#  Technical domains
+#  ru : https://cctld.ru/en/domains/domens_ru/reserved/
 #  rw : http://www.nic.rw/cgi-bin/policy.pl
 #  sa : http://www.nic.net.sa/
 #  sb : http://www.sbnic.net.sb/
@@ -561,8 +556,9 @@
 #  za : http://www.zadna.org.za/content/page/domain-information
 #  zm : https://zicta.zm/
 #  Submitted by registry <info@zicta.zm>
-#  zw : https://en.wikipedia.org/wiki/.zw
-#  List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2016-11-29T01:06:51Z
+#  zw : https://www.potraz.gov.zw/
+#  Confirmed by registry <bmtengwa@potraz.gov.zw> 2017-01-25
+#  List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2017-02-23T00:46:09Z
 #  aaa : 2015-02-26 American Automobile Association, Inc.
 #  aarp : 2015-05-21 AARP
 #  abarth : 2015-07-30 Fiat Chrysler Automobiles N.V.
@@ -873,7 +869,6 @@
 #  durban : 2014-03-24 ZA Central Registry NPC trading as ZA Central Registry
 #  dvag : 2014-06-23 Deutsche Vermögensberatung Aktiengesellschaft DVAG
 #  dvr : 2016-05-26 Hughes Satellite Systems Corporation
-#  dwg : 2015-07-23 Autodesk, Inc.
 #  earth : 2014-12-04 Interlink Co., Ltd.
 #  eat : 2014-01-23 Charleston Road Registry Inc.
 #  eco : 2016-07-08 Big Room Inc.
@@ -1063,7 +1058,6 @@
 #  icu : 2015-01-08 One.com A/S
 #  ieee : 2015-07-23 IEEE Global LLC
 #  ifm : 2014-01-30 ifm electronic gmbh
-#  iinet : 2014-07-03 Connect West Pty. Ltd.
 #  ikano : 2015-07-09 Ikano S.A.
 #  imamat : 2015-08-06 Fondation Aga Khan (Aga Khan Foundation)
 #  imdb : 2015-06-25 Amazon EU S.à r.l.
@@ -1253,7 +1247,6 @@
 #  mtpc : 2014-11-20 Mitsubishi Tanabe Pharma Corporation
 #  mtr : 2015-03-12 MTR Corporation Limited
 #  mutual : 2015-04-02 Northwestern Mutual MU TLD Registry, LLC
-#  mutuelle : 2015-06-18 Fédération Nationale de la Mutualité Française
 #  nab : 2015-08-20 National Australia Bank Limited
 #  nadex : 2014-12-11 IG Group Holdings PLC
 #  nagoya : 2013-10-24 GMO Registry, Inc.
@@ -1420,6 +1413,7 @@
 #  rogers : 2015-08-06 Rogers Communications Partnership
 #  room : 2014-12-18 Amazon EU S.à r.l.
 #  rsvp : 2014-05-08 Charleston Road Registry Inc.
+#  rugby : 2016-12-15 World Rugby Strategic Developments Limited
 #  ruhr : 2013-10-02 regiodot GmbH & Co. KG
 #  run : 2015-03-19 Snow Park, LLC
 #  rwe : 2015-04-02 RWE AG
@@ -1562,7 +1556,6 @@
 #  thd : 2015-04-02 Homer TLC, Inc.
 #  theater : 2015-03-19 Blue Tigers, LLC
 #  theatre : 2015-05-07
-#  theguardian : 2015-04-30 Guardian News and Media Limited
 #  tiaa : 2015-07-23 Teachers Insurance and Annuity Association of America
 #  tickets : 2015-02-05 Accent Media Limited
 #  tienda : 2013-11-14 Victor Manor, LLC
@@ -1612,7 +1605,7 @@
 #  vegas : 2014-01-16 Dot Vegas, Inc.
 #  ventures : 2013-08-27 Binky Lake, LLC
 #  verisign : 2015-08-13 VeriSign, Inc.
-#  versicherung : 2014-03-20 dotversicherung-registry GmbH
+#  versicherung : 2014-03-20
 #  vet : 2014-03-06
 #  viajes : 2013-10-17 Black Madison, LLC
 #  video : 2014-10-16
@@ -1687,7 +1680,6 @@
 #  xn--42c2d9a : 2015-01-15 VeriSign Sarl
 #  xn--45q11c : 2013-11-21 Zodiac Scorpio Limited
 #  xn--4gbrim : 2013-10-04 Suhub Electronic Establishment
-#  xn--4gq48lf9j : 2015-07-31 Wal-Mart Stores, Inc.
 #  xn--55qw42g : 2013-11-08 China Organizational Name Administration Center
 #  xn--55qx5d : 2013-11-14 Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
 #  xn--5su34j936bgsg : 2015-09-03 Shangri‐La International Hotel Management Limited
@@ -1708,7 +1700,7 @@
 #  xn--c2br7g : 2015-01-15 VeriSign Sarl
 #  xn--cck2b3b : 2015-02-26 Amazon EU S.à r.l.
 #  xn--cg4bki : 2013-09-27 SAMSUNG SDS CO., LTD
-#  xn--czr694b : 2014-01-16 Dot Trademark TLD Holding Company Limted
+#  xn--czr694b : 2014-01-16 Dot Trademark TLD Holding Company Limited
 #  xn--czrs0t : 2013-12-19 Wild Island, LLC
 #  xn--czru2d : 2013-11-21 Zodiac Capricorn Limited
 #  xn--d1acj3b : 2013-11-20 The Foundation for Network Initiatives “The Smart Internet”
@@ -1727,7 +1719,7 @@
 #  xn--gk3at1e : 2015-10-08 Amazon EU S.à r.l.
 #  xn--hxt814e : 2014-05-15 Zodiac Libra Limited
 #  xn--i1b6b1a6a2e : 2013-11-14 Public Interest Registry
-#  xn--imr513n : 2014-12-11 Dot Trademark TLD Holding Company Limted
+#  xn--imr513n : 2014-12-11 Dot Trademark TLD Holding Company Limited
 #  xn--io0a7i : 2013-11-14 Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
 #  xn--j1aef : 2015-01-15 VeriSign Sarl
 #  xn--jlq61u9w7b : 2015-01-08 Nokia Corporation
@@ -1801,7 +1793,7 @@
 #  Submitted by Cyril <admin@alwaysdata.com>
 #  Amazon CloudFront : https://aws.amazon.com/cloudfront/
 #  Submitted by Donavan Miller <donavanm@amazon.com>
-#  Amazon Elastic Compute Cloud: https://aws.amazon.com/ec2/
+#  Amazon Elastic Compute Cloud : https://aws.amazon.com/ec2/
 #  Submitted by Luke Wells <psl-maintainers@amazon.com>
 #  Amazon Elastic Beanstalk : https://aws.amazon.com/elasticbeanstalk/
 #  Submitted by Luke Wells <psl-maintainers@amazon.com>
@@ -1821,6 +1813,8 @@
 #  Submitted by Vincent Tseng <vincenttseng@asustor.com>
 #  AVM : https://avm.de
 #  Submitted by Andreas Weise <a.weise@avm.de>
+#  AW AdvisorWebsites.com Software Inc : https://advisorwebsites.com
+#  Submitted by James Kennedy <domains@advisorwebsites.com>
 #  backplane : https://www.backplane.io
 #  Submitted by Anthony Voutas <anthony@backplane.io>
 #  BetaInABox
@@ -1829,9 +1823,11 @@
 #  Submitted by Nathan O'Sullivan <nathan@mammoth.com.au>
 #  Boxfuse : https://boxfuse.com
 #  Submitted by Axel Fontaine <axel@boxfuse.com>
+#  bplaced : https://www.bplaced.net/
+#  Submitted by Miroslav Bozic <security@bplaced.net>
 #  BrowserSafetyMark
 #  Submitted by Dave Tharp <browsersafetymark.io@quicinc.com>
-#  callidomus: https://www.callidomus.com/
+#  callidomus : https://www.callidomus.com/
 #  Submitted by Marcus Popp <admin@callidomus.com>
 #  CentralNic : http://www.centralnic.com/names/domains
 #  Submitted by registry <gavin.brown@centralnic.com>
@@ -1852,6 +1848,8 @@
 #  Submitted by Alex Stoddard <alex.stoddard@citrix.com>
 #  ClearVox : http://www.clearvox.nl/
 #  Submitted by Leon Rowland <leon@clearvox.nl>
+#  Cloud66 : https://www.cloud66.com/
+#  Submitted by Khash Sajadi <khash@cloud66.com>
 #  cloudControl : https://www.cloudcontrol.com/
 #  Submitted by Tobias Wilken <tw@cloudcontrol.com>
 #  co.ca : http://registry.co.ca/
@@ -1862,9 +1860,7 @@
 #  Cloud DNS Ltd : http://www.cloudns.net
 #  Submitted by Aleksander Hristov <noc@cloudns.net>
 #  CoDNS B.V.
-#  Commerce Guys, SAS
-#  Submitted by Damien Tournoud <damien@commerceguys.com>
-#  COSIMO GmbH http://www.cosimo.de
+#  COSIMO GmbH : http://www.cosimo.de
 #  Submitted by Rene Marticke <rmarticke@cosimo.de>
 #  Craynic, s.r.o. : http://www.craynic.com/
 #  Submitted by Ales Krajnik <ales.krajnik@craynic.com>
@@ -1896,7 +1892,7 @@
 #  ddnss.de : https://www.ddnss.de/
 #  Submitted by Robert Niedziela <webmaster@ddnss.de>
 #  dynv6 : https://dynv6.com
-#  Submitted by Dominik Menke <dom@digineo.de> 2016-01-18
+#  Submitted by Dominik Menke <dom@digineo.de>
 #  E4YOU spol. s.r.o. : https://e4you.cz/
 #  Submitted by Vladimir Dudr <info@e4you.cz>
 #  Enonic : http://enonic.com/
@@ -1905,12 +1901,19 @@
 #  Submitted by Pierre Beyssac <hostmaster@eu.org>
 #  Evennode : http://www.evennode.com/
 #  Submitted by Michal Kralik <support@evennode.com>
+#  eDirect Corp. : https://hosting.url.com.tw/
+#  Submitted by C.S. chang <cschang@corp.url.com.tw>
 #  Facebook, Inc.
 #  Submitted by Peter Ruibal <public-suffix@fb.com>
-#  Fastly Inc. http://www.fastly.com/
-#  Submitted by Vladimir Vuksan <vladimir@fastly.com>
+#  FAITID : https://faitid.org/
+#  Submitted by Maxim Alzoba <tech.contact@faitid.org>
+#  https://www.flexireg.net/stat_info
+#  Fastly Inc. : http://www.fastly.com/
+#  Submitted by Fastly Security <security@fastly.com>
 #  Featherhead : https://featherhead.xyz/
 #  Submitted by Simon Menke <simon@featherhead.xyz>
+#  Fedora : https://fedoraproject.org/
+#  submitted by Patrick Uiterwijk <puiterwijk@fedoraproject.org>
 #  Firebase, Inc.
 #  Submitted by Chris Raynor <chris@firebase.com>
 #  Flynn : https://flynn.io
@@ -1927,6 +1930,8 @@
 #  Submitted by Patrick Toomey <security@github.com>
 #  GitLab, Inc.
 #  Submitted by Alex Hanselka <alex@gitlab.com>
+#  UKHomeOffice : https://www.gov.uk/government/organisations/home-office
+#  Submitted by Jon Shanks <jon.shanks@digital.homeoffice.gov.uk>
 #  GlobeHosting, Inc.
 #  Submitted by Zoltan Egresi <egresi@globehosting.com>
 #  GoIP DNS Services : http://www.goip.de
@@ -1940,11 +1945,15 @@
 #  Submitted by David Grellscheid <admin@hepforge.org>
 #  Heroku : https://www.heroku.com/
 #  Submitted by Tom Maher <tmaher@heroku.com>
+#  Ici la Lune : http://www.icilalune.com/
+#  Submitted by Simon Morvan <simon@icilalune.com>
 #  iki.fi
 #  Submitted by Hannu Aronsson <haa@iki.fi>
 #  info.at : http://www.info.at/
 #  Interlegis : http://www.interlegis.leg.br
 #  Submitted by Gabriel Ferreira <registrobr@interlegis.leg.br>
+#  IPiFony Systems, Inc. : https://www.ipifony.com/
+#  Submitted by Matthew Hardeman <mhardeman@ipifony.com>
 #  Joyent : https://www.joyent.com/
 #  Submitted by Brian Bennett <brian.bennett@joyent.com>
 #  JS.ORG : http://dns.js.org
@@ -1956,6 +1965,8 @@
 #  .KRD : http://nic.krd/data/krd/Registration%20Policy.pdf
 #  Magento Commerce
 #  Submitted by Damien Tournoud <dtournoud@magento.cloud>
+#  Mail.Ru Group : https://hb.cldmail.ru
+#  Submitted by Ilya Zaretskiy <zaretskiy@corp.mail.ru>
 #  Meteor Development Group : https://www.meteor.com/hosting
 #  Submitted by Pierre Carrier <pierre@meteor.com>
 #  Michau Enterprises Limited : http://www.co.pl/
@@ -1975,6 +1986,8 @@
 #  Submitted by Deven Reza <publicsuffixlist@noip.com>
 #  NYC.mn : http://www.information.nyc.mn
 #  Submitted by Matthew Brown <mattbrown@nyc.mn>
+#  Octopodal Solutions, LLC. : https://ulterius.io/
+#  Submitted by Andrew Sampson <andrew@ulterius.io>
 #  One Fold Media : http://www.onefoldmedia.com/
 #  Submitted by Eddie Jones <eddie@onefoldmedia.com>
 #  OpenCraft GmbH : http://opencraft.com/
@@ -1998,6 +2011,8 @@
 #  Submitted by Steve Leung <steveleung@peplink.com>
 #  Planet-Work : https://www.planet-work.com/
 #  Submitted by Frédéric VANNIÈRE <f.vanniere@planet-work.com>
+#  Platform.sh : https://platform.sh
+#  Submitted by Nikola Kotur <nikola@platform.sh>
 #  prgmr.com : https://prgmr.com/
 #  Submitted by Sarah Newman <owner@prgmr.com>
 #  priv.at : http://www.nic.priv.at/
@@ -2010,6 +2025,10 @@
 #  Submitted by Daniel Dent (https://www.danieldent.com/)
 #  QNAP System Inc : https://www.qnap.com
 #  Submitted by Nick Chang <nickchang@qnap.com>
+#  Quip : https://quip.com
+#  Submitted by Patrick Linehan <plinehan@quip.com>
+#  Qutheory LLC : http://qutheory.io
+#  Submitted by Jonas Schwartz <jonas@qutheory.io>
 #  Rackmaze LLC : https://www.rackmaze.com
 #  Submitted by Kirill Pertsev <kika@rackmaze.com>
 #  Red Hat, Inc. OpenShift : https://openshift.redhat.com/
@@ -2024,6 +2043,8 @@
 #  Submitted by Norman Meilick <nm@sbe.de>
 #  Securepoint GmbH : https://www.securepoint.de
 #  Submitted by Erik Anders <erik.anders@securepoint.de>
+#  SensioLabs, SAS : https://sensiolabs.com/
+#  Submitted by Fabien Potencier <fabien.potencier@sensiolabs.com>
 #  Service Online LLC : http://drs.ua/
 #  Submitted by Serhii Bulakh <support@drs.ua>
 #  ShiftEdit : https://shiftedit.net/
@@ -2042,6 +2063,8 @@
 #  Submitted by Reza Akhavan <spacekit.io@gmail.com>
 #  Stackspace : https://www.stackspace.io/
 #  Submitted by Lina He <info@stackspace.io>
+#  Storj Labs Inc. : https://storj.io/
+#  Submitted by Philip Hutchins <hostmaster@storj.io>
 #  Synology, Inc. : https://www.synology.com/
 #  Submitted by Rony Weng <ronyweng@synology.com>
 #  TAIFUN Software AG : http://taifun-software.de
@@ -2055,14 +2078,20 @@
 #  Submitted by TuxFamily administrators <adm@staff.tuxfamily.org>
 #  TwoDNS : https://www.twodns.de/
 #  Submitted by TwoDNS-Support <support@two-dns.de>
+#  Uberspace : https://uberspace.de
+#  Submitted by Moritz Werner <mwerner@jonaspasche.com>
 #  UDR Limited : http://www.udr.hk.com
 #  Submitted by registry <hostmaster@udr.hk.com>
 #  .US
 #  Submitted by Ed Moore <Ed.Moore@lib.de.us>
 #  Viprinet Europe GmbH : http://www.viprinet.com
 #  Submitted by Simon Kissel <hostmaster@viprinet.com>
+#  Western Digital Technologies, Inc : https://www.wdc.com
+#  Submitted by Jung Jin <jungseok.jin@wdc.com>
 #  Wikimedia Labs : https://wikitech.wikimedia.org
 #  Submitted by Yuvi Panda <yuvipanda@wikimedia.org>
+#  XS4ALL Internet bv : https://www.xs4all.nl/
+#  Submitted by Daniel Mostertman <unixbeheer+publicsuffix@xs4all.net>
 #  Yola : https://www.yola.com/
 #  Submitted by Stefano Rivera <stefano@yola.com>
 #  Yombo : https://yombo.net
@@ -2071,6 +2100,8 @@
 #  Submitted by registry <hostmaster@nic.za.net>
 #  Zeit, Inc. : https://zeit.domains/
 #  Submitted by Olli Vanhoja <olli@zeit.co>
+#  1GB LLC : https://www.1gb.ua/
+#  Submitted by 1GB LLC <noc@1gb.com.ua>
 #  ===END PRIVATE DOMAINS===
 defmodule Regdom.EffectiveTLD do
 @tld_tree   %{"ac" => %{"com" => %{},
@@ -2210,6 +2241,7 @@ defmodule Regdom.EffectiveTLD do
 "gov" => %{},
 "int" => %{},
 "mil" => %{},
+"musica" => %{},
 "net" => %{},
 "org" => %{},
 "tur" => %{}},
@@ -2509,6 +2541,7 @@ defmodule Regdom.EffectiveTLD do
 "sk" => %{},
 "yk" => %{},
 "gc" => %{},
+"awdev" => %{"*" => %{}},
 "co" => %{},
 "blogspot" => %{},
 "no-ip" => %{}},
@@ -2518,11 +2551,13 @@ defmodule Regdom.EffectiveTLD do
 "game-server" => %{},
 "myphotos" => %{},
 "scrapping" => %{},
+"twmail" => %{},
 "fantasyleague" => %{}},
 "cd" => %{"gov" => %{}},
 "cf" => %{"blogspot" => %{}},
 "cg" => %{},
-"ch" => %{"blogspot" => %{},
+"ch" => %{"square7" => %{},
+"blogspot" => %{},
 "gotdns" => %{}},
 "ci" => %{"org" => %{},
 "or" => %{},
@@ -2614,7 +2649,7 @@ defmodule Regdom.EffectiveTLD do
 "compute-1" => %{"*" => %{}},
 "us-east-1" => %{"dualstack" => %{"s3" => %{}}},
 "elb" => %{"*" => %{}},
-"s3" => %{"*" => %{}},
+"s3" => %{},
 "s3-ap-northeast-1" => %{},
 "s3-ap-northeast-2" => %{},
 "s3-ap-south-1" => %{},
@@ -2623,6 +2658,7 @@ defmodule Regdom.EffectiveTLD do
 "s3-ca-central-1" => %{},
 "s3-eu-central-1" => %{},
 "s3-eu-west-1" => %{},
+"s3-eu-west-2" => %{},
 "s3-external-1" => %{},
 "s3-fips-us-gov-west-1" => %{},
 "s3-sa-east-1" => %{},
@@ -2640,6 +2676,9 @@ defmodule Regdom.EffectiveTLD do
 "dualstack" => %{"s3" => %{}},
 "s3-website" => %{}},
 "eu-central-1" => %{"s3" => %{},
+"dualstack" => %{"s3" => %{}},
+"s3-website" => %{}},
+"eu-west-2" => %{"s3" => %{},
 "dualstack" => %{"s3" => %{}},
 "s3-website" => %{}},
 "us-east-2" => %{"s3" => %{},
@@ -2662,6 +2701,7 @@ defmodule Regdom.EffectiveTLD do
 "on-aptible" => %{},
 "myasustor" => %{},
 "betainabox" => %{},
+"bplaced" => %{},
 "ar" => %{},
 "br" => %{},
 "cn" => %{},
@@ -2841,8 +2881,10 @@ defmodule Regdom.EffectiveTLD do
 "writesthisblog" => %{},
 "evennode" => %{"eu-1" => %{},
 "eu-2" => %{},
+"eu-3" => %{},
 "us-1" => %{},
-"us-2" => %{}},
+"us-2" => %{},
+"us-3" => %{}},
 "fbsbx" => %{"apps" => %{}},
 "firebaseapp" => %{},
 "flynnhub" => %{},
@@ -2853,7 +2895,6 @@ defmodule Regdom.EffectiveTLD do
 "ext" => %{"*" => %{}},
 "gist" => %{}},
 "githubcloudusercontent" => %{"*" => %{}},
-"ro" => %{},
 "0emm" => %{"*" => %{}},
 "appspot" => %{},
 "blogspot" => %{},
@@ -2918,6 +2959,7 @@ defmodule Regdom.EffectiveTLD do
 "dev-myqnapcloud" => %{},
 "alpha-myqnapcloud" => %{},
 "myqnapcloud" => %{},
+"quipelements" => %{"*" => %{}},
 "rackmaze" => %{},
 "rhcloud" => %{},
 "logoip" => %{},
@@ -2935,6 +2977,7 @@ defmodule Regdom.EffectiveTLD do
 "bloxcms" => %{},
 "townnews-staging" => %{},
 "hk" => %{},
+"remotewd" => %{},
 "yolasite" => %{}},
 "coop" => %{},
 "cr" => %{"ac" => %{},
@@ -2974,7 +3017,9 @@ defmodule Regdom.EffectiveTLD do
 "realm" => %{},
 "e4" => %{},
 "blogspot" => %{}},
-"de" => %{"com" => %{},
+"de" => %{"bplaced" => %{},
+"square7" => %{},
+"com" => %{},
 "cosidns" => %{"dyn" => %{}},
 "dynamisches-dns" => %{},
 "dnsupdater" => %{},
@@ -3146,7 +3191,8 @@ defmodule Regdom.EffectiveTLD do
 "gf" => %{},
 "gg" => %{"co" => %{},
 "net" => %{},
-"org" => %{}},
+"org" => %{},
+"cya" => %{}},
 "gh" => %{"com" => %{},
 "edu" => %{},
 "gov" => %{},
@@ -3360,6 +3406,7 @@ defmodule Regdom.EffectiveTLD do
 "nid" => %{},
 "pantheonsite" => %{},
 "protonet" => %{},
+"vaporcloud" => %{},
 "hzc" => %{},
 "sandcats" => %{},
 "shiftedit" => %{},
@@ -5683,7 +5730,8 @@ defmodule Regdom.EffectiveTLD do
 "gov" => %{},
 "its" => %{},
 "priv" => %{},
-"daplie" => %{},
+"c66" => %{},
+"daplie" => %{"localhost" => %{}},
 "brasilia" => %{},
 "ddns" => %{},
 "dnsfor" => %{},
@@ -6374,6 +6422,8 @@ defmodule Regdom.EffectiveTLD do
 "cloudfront" => %{},
 "t3l3p0rt" => %{},
 "myfritz" => %{},
+"bplaced" => %{},
+"square7" => %{},
 "gb" => %{},
 "hu" => %{},
 "jp" => %{},
@@ -6422,12 +6472,19 @@ defmodule Regdom.EffectiveTLD do
 "thruhere" => %{},
 "webhop" => %{},
 "dynv6" => %{},
-"fastly" => %{"ssl" => %{"a" => %{},
-"b" => %{},
-"global" => %{}},
+"twmail" => %{},
+"ru" => %{},
+"fastlylb" => %{"map" => %{}},
+"fastly" => %{"freetls" => %{},
+"map" => %{},
 "prod" => %{"a" => %{},
+"global" => %{}},
+"ssl" => %{"a" => %{},
+"b" => %{},
 "global" => %{}}},
 "cloudfunctions" => %{},
+"moonscale" => %{},
+"ipifony" => %{},
 "azurewebsites" => %{},
 "azure-mobile" => %{},
 "cloudapp" => %{},
@@ -7261,6 +7318,7 @@ defmodule Regdom.EffectiveTLD do
 "net" => %{},
 "org" => %{},
 "pro" => %{}},
+"onion" => %{},
 "org" => %{"amune" => %{"tele" => %{}},
 "pimienta" => %{},
 "poivron" => %{},
@@ -7382,6 +7440,10 @@ defmodule Regdom.EffectiveTLD do
 "tr" => %{},
 "uk" => %{},
 "us" => %{}},
+"twmail" => %{},
+"fedorainfracloud" => %{},
+"fedorapeople" => %{},
+"fedoraproject" => %{"cloud" => %{}},
 "hepforge" => %{},
 "js" => %{},
 "bmoattachments" => %{},
@@ -7760,135 +7822,32 @@ defmodule Regdom.EffectiveTLD do
 "org" => %{},
 "blogspot" => %{}},
 "ru" => %{"ac" => %{},
-"com" => %{},
 "edu" => %{},
+"gov" => %{},
 "int" => %{},
-"net" => %{},
-"org" => %{},
-"pp" => %{},
+"mil" => %{},
+"test" => %{},
 "adygeya" => %{},
-"altai" => %{},
-"amur" => %{},
-"arkhangelsk" => %{},
-"astrakhan" => %{},
 "bashkiria" => %{},
-"belgorod" => %{},
 "bir" => %{},
-"bryansk" => %{},
-"buryatia" => %{},
 "cbg" => %{},
-"chel" => %{},
-"chelyabinsk" => %{},
-"chita" => %{},
-"chukotka" => %{},
-"chuvashia" => %{},
+"com" => %{},
 "dagestan" => %{},
-"dudinka" => %{},
-"e-burg" => %{},
 "grozny" => %{},
-"irkutsk" => %{},
-"ivanovo" => %{},
-"izhevsk" => %{},
-"jar" => %{},
-"joshkar-ola" => %{},
 "kalmykia" => %{},
-"kaluga" => %{},
-"kamchatka" => %{},
-"karelia" => %{},
-"kazan" => %{},
-"kchr" => %{},
-"kemerovo" => %{},
-"khabarovsk" => %{},
-"khakassia" => %{},
-"khv" => %{},
-"kirov" => %{},
-"koenig" => %{},
-"komi" => %{},
-"kostroma" => %{},
-"krasnoyarsk" => %{},
-"kuban" => %{},
-"kurgan" => %{},
-"kursk" => %{},
-"lipetsk" => %{},
-"magadan" => %{},
-"mari" => %{},
-"mari-el" => %{},
+"kustanai" => %{},
 "marine" => %{},
 "mordovia" => %{},
 "msk" => %{},
-"murmansk" => %{},
+"mytis" => %{},
 "nalchik" => %{},
-"nnov" => %{},
 "nov" => %{},
-"novosibirsk" => %{},
-"nsk" => %{},
-"omsk" => %{},
-"orenburg" => %{},
-"oryol" => %{},
-"palana" => %{},
-"penza" => %{},
-"perm" => %{},
-"ptz" => %{},
-"rnd" => %{},
-"ryazan" => %{},
-"sakhalin" => %{},
-"samara" => %{},
-"saratov" => %{},
-"simbirsk" => %{},
-"smolensk" => %{},
+"pyatigorsk" => %{},
 "spb" => %{},
-"stavropol" => %{},
-"stv" => %{},
-"surgut" => %{},
-"tambov" => %{},
-"tatarstan" => %{},
-"tom" => %{},
-"tomsk" => %{},
-"tsaritsyn" => %{},
-"tsk" => %{},
-"tula" => %{},
-"tuva" => %{},
-"tver" => %{},
-"tyumen" => %{},
-"udm" => %{},
-"udmurtia" => %{},
-"ulan-ude" => %{},
 "vladikavkaz" => %{},
 "vladimir" => %{},
-"vladivostok" => %{},
-"vologda" => %{},
-"voronezh" => %{},
-"vrn" => %{},
-"vyatka" => %{},
-"yakutia" => %{},
-"yamal" => %{},
-"yaroslavl" => %{},
-"yekaterinburg" => %{},
-"yuzhno-sakhalinsk" => %{},
-"amursk" => %{},
-"baikal" => %{},
-"cmw" => %{},
-"fareast" => %{},
-"jamal" => %{},
-"kms" => %{},
-"k-uralsk" => %{},
-"kustanai" => %{},
-"kuzbass" => %{},
-"mytis" => %{},
-"nakhodka" => %{},
-"nkz" => %{},
-"norilsk" => %{},
-"oskol" => %{},
-"pyatigorsk" => %{},
-"rubtsovsk" => %{},
-"snz" => %{},
-"syzran" => %{},
-"vdonsk" => %{},
-"zgrad" => %{},
-"gov" => %{},
-"mil" => %{},
-"test" => %{},
-"blogspot" => %{}},
+"blogspot" => %{},
+"cldmail" => %{"hb" => %{}}},
 "rw" => %{"gov" => %{},
 "net" => %{},
 "edu" => %{},
@@ -7977,8 +7936,8 @@ defmodule Regdom.EffectiveTLD do
 "gov" => %{},
 "org" => %{},
 "mil" => %{},
-"platform" => %{"*" => %{}},
 "hashbang" => %{},
+"platform" => %{"*" => %{}},
 "now" => %{}},
 "si" => %{"blogspot" => %{}},
 "sj" => %{},
@@ -8013,33 +7972,53 @@ defmodule Regdom.EffectiveTLD do
 "principe" => %{},
 "saotome" => %{},
 "store" => %{}},
-"su" => %{"adygeya" => %{},
+"su" => %{"abkhazia" => %{},
+"adygeya" => %{},
+"aktyubinsk" => %{},
 "arkhangelsk" => %{},
+"armenia" => %{},
+"ashgabad" => %{},
+"azerbaijan" => %{},
 "balashov" => %{},
 "bashkiria" => %{},
 "bryansk" => %{},
+"bukhara" => %{},
+"chimkent" => %{},
 "dagestan" => %{},
+"east-kazakhstan" => %{},
+"exnet" => %{},
+"georgia" => %{},
 "grozny" => %{},
 "ivanovo" => %{},
+"jambyl" => %{},
 "kalmykia" => %{},
 "kaluga" => %{},
+"karacol" => %{},
+"karaganda" => %{},
 "karelia" => %{},
 "khakassia" => %{},
 "krasnodar" => %{},
 "kurgan" => %{},
+"kustanai" => %{},
 "lenug" => %{},
+"mangyshlak" => %{},
 "mordovia" => %{},
 "msk" => %{},
 "murmansk" => %{},
 "nalchik" => %{},
+"navoi" => %{},
+"north-kazakhstan" => %{},
 "nov" => %{},
 "obninsk" => %{},
 "penza" => %{},
 "pokrovsk" => %{},
 "sochi" => %{},
 "spb" => %{},
+"tashkent" => %{},
+"termez" => %{},
 "togliatti" => %{},
 "troitsk" => %{},
+"tselinograd" => %{},
 "tula" => %{},
 "tuva" => %{},
 "vladikavkaz" => %{},
@@ -8122,7 +8101,8 @@ defmodule Regdom.EffectiveTLD do
 "net" => %{},
 "org" => %{},
 "edu" => %{},
-"mil" => %{}},
+"mil" => %{},
+"vpnplus" => %{}},
 "tr" => %{"com" => %{"blogspot" => %{}},
 "info" => %{},
 "biz" => %{},
@@ -8169,7 +8149,7 @@ defmodule Regdom.EffectiveTLD do
 "tw" => %{"edu" => %{},
 "gov" => %{},
 "mil" => %{},
-"com" => %{},
+"com" => %{"mymailer" => %{}},
 "net" => %{},
 "org" => %{},
 "idv" => %{},
@@ -8179,6 +8159,7 @@ defmodule Regdom.EffectiveTLD do
 "網路" => %{},
 "組織" => %{},
 "商業" => %{},
+"url" => %{},
 "blogspot" => %{}},
 "tz" => %{"ac" => %{},
 "co" => %{},
@@ -8270,7 +8251,10 @@ defmodule Regdom.EffectiveTLD do
 "zt" => %{},
 "biz" => %{},
 "co" => %{},
-"pp" => %{}},
+"pp" => %{},
+"cc" => %{},
+"inf" => %{},
+"ltd" => %{}},
 "ug" => %{"co" => %{},
 "or" => %{},
 "ac" => %{},
@@ -8284,7 +8268,8 @@ defmodule Regdom.EffectiveTLD do
 "co" => %{"blogspot" => %{},
 "no-ip" => %{},
 "wellbeingzone" => %{}},
-"gov" => %{"service" => %{}},
+"gov" => %{"service" => %{},
+"homeoffice" => %{}},
 "ltd" => %{},
 "me" => %{},
 "net" => %{},
@@ -8531,6 +8516,7 @@ defmodule Regdom.EffectiveTLD do
 "org" => %{},
 "gov" => %{},
 "edu" => %{},
+"advisor" => %{"*" => %{}},
 "dyndns" => %{},
 "mypets" => %{}},
 "yt" => %{},
@@ -8588,7 +8574,12 @@ defmodule Regdom.EffectiveTLD do
 "சிங்கப்பூர்" => %{},
 "سورية" => %{},
 "سوريا" => %{},
-"ไทย" => %{},
+"ไทย" => %{"ศึกษา" => %{},
+"ธุรกิจ" => %{},
+"รัฐบาล" => %{},
+"ทหาร" => %{},
+"เน็ต" => %{},
+"องค์กร" => %{}},
 "تونس" => %{},
 "台灣" => %{},
 "台湾" => %{},
@@ -8625,7 +8616,11 @@ defmodule Regdom.EffectiveTLD do
 "net" => %{},
 "org" => %{},
 "sch" => %{}},
-"zw" => %{"*" => %{}},
+"zw" => %{"ac" => %{},
+"co" => %{},
+"gov" => %{},
+"mil" => %{},
+"org" => %{}},
 "aaa" => %{},
 "aarp" => %{},
 "abarth" => %{},
@@ -8845,7 +8840,9 @@ defmodule Regdom.EffectiveTLD do
 "clothing" => %{},
 "cloud" => %{"myfusion" => %{},
 "statics" => %{"*" => %{}},
-"magentosite" => %{"*" => %{}}},
+"magentosite" => %{"*" => %{}},
+"vapor" => %{},
+"sensiosite" => %{"*" => %{}}},
 "club" => %{"cloudns" => %{}},
 "clubmed" => %{},
 "coach" => %{},
@@ -8938,7 +8935,6 @@ defmodule Regdom.EffectiveTLD do
 "durban" => %{},
 "dvag" => %{},
 "dvr" => %{},
-"dwg" => %{},
 "earth" => %{},
 "eat" => %{},
 "eco" => %{},
@@ -8975,7 +8971,7 @@ defmodule Regdom.EffectiveTLD do
 "family" => %{},
 "fan" => %{},
 "fans" => %{},
-"farm" => %{},
+"farm" => %{"storj" => %{}},
 "farmers" => %{},
 "fashion" => %{},
 "fast" => %{},
@@ -9128,7 +9124,6 @@ defmodule Regdom.EffectiveTLD do
 "icu" => %{},
 "ieee" => %{},
 "ifm" => %{},
-"iinet" => %{},
 "ikano" => %{},
 "imamat" => %{},
 "imdb" => %{},
@@ -9321,7 +9316,6 @@ defmodule Regdom.EffectiveTLD do
 "mtpc" => %{},
 "mtr" => %{},
 "mutual" => %{},
-"mutuelle" => %{},
 "nab" => %{},
 "nadex" => %{},
 "nagoya" => %{},
@@ -9488,6 +9482,7 @@ defmodule Regdom.EffectiveTLD do
 "rogers" => %{},
 "room" => %{},
 "rsvp" => %{},
+"rugby" => %{},
 "ruhr" => %{},
 "run" => %{},
 "rwe" => %{},
@@ -9553,7 +9548,8 @@ defmodule Regdom.EffectiveTLD do
 "silk" => %{},
 "sina" => %{},
 "singles" => %{},
-"site" => %{"cyon" => %{}},
+"site" => %{"cyon" => %{},
+"platformsh" => %{"*" => %{}}},
 "ski" => %{},
 "skin" => %{},
 "sky" => %{},
@@ -9572,7 +9568,9 @@ defmodule Regdom.EffectiveTLD do
 "song" => %{},
 "sony" => %{},
 "soy" => %{},
-"space" => %{"stackspace" => %{}},
+"space" => %{"stackspace" => %{},
+"uber" => %{},
+"xs4all" => %{}},
 "spiegel" => %{},
 "spot" => %{},
 "spreadbetting" => %{},
@@ -9630,7 +9628,6 @@ defmodule Regdom.EffectiveTLD do
 "thd" => %{},
 "theater" => %{},
 "theatre" => %{},
-"theguardian" => %{},
 "tiaa" => %{},
 "tickets" => %{},
 "tienda" => %{},
@@ -9755,7 +9752,6 @@ defmodule Regdom.EffectiveTLD do
 "คอม" => %{},
 "八卦" => %{},
 "موقع" => %{},
-"一号店" => %{},
 "公益" => %{},
 "公司" => %{},
 "香格里拉" => %{},
